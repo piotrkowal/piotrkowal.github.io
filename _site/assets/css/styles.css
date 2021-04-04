@@ -1,0 +1,5 @@
+@import "main";
+
+.current {
+  color: green;
+}
