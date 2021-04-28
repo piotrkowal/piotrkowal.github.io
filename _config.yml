@@ -1,7 +1,10 @@
 collections:
   authors:
     output: true
-markdown: GFM
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
 defaults:
   - scope:
       path: ""
