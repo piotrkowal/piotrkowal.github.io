@@ -1,7 +1,8 @@
 collections:
   authors:
     output: true
-
+markdown: CommonMark
+markdown: CommonMarkGhPages
 defaults:
   - scope:
       path: ""
