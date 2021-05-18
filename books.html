@@ -4,7 +4,7 @@ title: Books
 ---
 <h1>Books read</h1>
 <ul>
-    {% assign sorted = site.books | sort: 'date_read'  %}
+    {% assign sorted = site.books | sort: 'date_read' | reverse  %}
     {% for book in sorted %}
     {% assign currentdate = book.date_read | date: "%Y/%m" %}
     {% if currentdate != date_read %}
