@@ -4,20 +4,20 @@ title: Dragon Head Vol. 5
 date_read: None
 ---
 
-Book Id: 38750544
-Title: Dragon Head Vol. 5
-Author: Minetarō Mochizuki
-Author l-f: Mochizuki, Minetarō
-Additional Authors: 
-ISBN: 
-My Rating: 0
-Average Rating: 3.78
-Publisher: Kodansha Comics Digital-First!
-Binding: Kindle Edition
-Number of Pages: 240
-Year Published: 2018
-Original Publication Year: 1997
-Date Added: 2020/11/08
-Bookshelves: kupka-wstydu
-Bookshelves with positions: kupka-wstydu (#2030)
+Book Id: 38750544\ 
+Title: Dragon Head Vol. 5\ 
+Author: Minetarō Mochizuki\ 
+Author l-f: Mochizuki, Minetarō\ 
+Additional Authors: \ 
+ISBN: \ 
+My Rating: 0\ 
+Average Rating: 3.78\ 
+Publisher: Kodansha Comics Digital-First!\ 
+Binding: Kindle Edition\ 
+Number of Pages: 240\ 
+Year Published: 2018\ 
+Original Publication Year: 1997\ 
+Date Added: 2020/11/08\ 
+Bookshelves: kupka-wstydu\ 
+Bookshelves with positions: kupka-wstydu (#2030)\ 
 
