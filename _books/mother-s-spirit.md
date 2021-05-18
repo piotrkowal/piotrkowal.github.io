@@ -4,19 +4,19 @@ title: Mother's Spirit
 date_read: None
 ---
 
-Book Id: 37643211\ 
-Title: Mother's Spirit\ 
-Author: Enzo\ 
-Author l-f: Enzo, Enzo\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.12\ 
-Publisher: Carlsen\ 
-Binding: Kindle Edition\ 
-Number of Pages: 210\ 
-Year Published: 2017\ 
-Date Added: 2020/01/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#686)\ 
+Book Id: 37643211<br />
+Title: Mother's Spirit<br />
+Author: Enzo<br />
+Author l-f: Enzo, Enzo<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.12<br />
+Publisher: Carlsen<br />
+Binding: Kindle Edition<br />
+Number of Pages: 210<br />
+Year Published: 2017<br />
+Date Added: 2020/01/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#686)<br />
 

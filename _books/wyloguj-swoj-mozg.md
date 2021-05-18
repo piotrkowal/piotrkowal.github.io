@@ -4,21 +4,21 @@ title: Wyloguj swój mózg
 date_read: None
 ---
 
-Book Id: 55580646\ 
-Title: Wyloguj swój mózg\ 
-Author: Anders Hansen\ 
-Author l-f: Hansen, Anders\ 
-Additional Authors: Emilia Fabisiak\ 
-ISBN: \ 
-ISBN13: 9788324059843\ 
-My Rating: 0\ 
-Average Rating: 3.89\ 
-Publisher: Znak\ 
-Binding: ebook\ 
-Number of Pages: \ 
-Year Published: 2020\ 
-Original Publication Year: 2019\ 
-Date Added: 2020/11/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2231)\ 
+Book Id: 55580646<br />
+Title: Wyloguj swój mózg<br />
+Author: Anders Hansen<br />
+Author l-f: Hansen, Anders<br />
+Additional Authors: Emilia Fabisiak<br />
+ISBN: <br />
+ISBN13: 9788324059843<br />
+My Rating: 0<br />
+Average Rating: 3.89<br />
+Publisher: Znak<br />
+Binding: ebook<br />
+Number of Pages: <br />
+Year Published: 2020<br />
+Original Publication Year: 2019<br />
+Date Added: 2020/11/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2231)<br />
 

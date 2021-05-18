@@ -4,20 +4,20 @@ title: Red Sonja  no. 0
 date_read: None
 ---
 
-Book Id: 31394627\ 
-Title: Red Sonja #0\ 
-Author: Gail Simone\ 
-Author l-f: Simone, Gail\ 
-Additional Authors: Noah Salonga, Ivan Rodriguez\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.42\ 
-Publisher: Dynamite\ 
-Binding: Kindle Edition\ 
-Number of Pages: 29\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#653)\ 
+Book Id: 31394627<br />
+Title: Red Sonja #0<br />
+Author: Gail Simone<br />
+Author l-f: Simone, Gail<br />
+Additional Authors: Noah Salonga, Ivan Rodriguez<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.42<br />
+Publisher: Dynamite<br />
+Binding: Kindle Edition<br />
+Number of Pages: 29<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#653)<br />
 

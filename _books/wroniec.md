@@ -4,21 +4,21 @@ title: Wroniec
 date_read: None
 ---
 
-Book Id: 7143510\ 
-Title: Wroniec\ 
-Author: Jacek Dukaj\ 
-Author l-f: Dukaj, Jacek\ 
-Additional Authors: Jakub Jabłoński\ 
-ISBN: \ 
-ISBN13: 9788308043929\ 
-My Rating: 0\ 
-Average Rating: 3.71\ 
-Publisher: Wydawnictwo Literackie\ 
-Binding: Hardcover\ 
-Number of Pages: 248\ 
-Year Published: 2009\ 
-Date Read: \ 
-Date Added: 2017/11/12\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 7143510<br />
+Title: Wroniec<br />
+Author: Jacek Dukaj<br />
+Author l-f: Dukaj, Jacek<br />
+Additional Authors: Jakub Jabłoński<br />
+ISBN: <br />
+ISBN13: 9788308043929<br />
+My Rating: 0<br />
+Average Rating: 3.71<br />
+Publisher: Wydawnictwo Literackie<br />
+Binding: Hardcover<br />
+Number of Pages: 248<br />
+Year Published: 2009<br />
+Date Read: <br />
+Date Added: 2017/11/12<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

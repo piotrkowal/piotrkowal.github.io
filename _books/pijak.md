@@ -4,22 +4,22 @@ title: Pijak
 date_read: None
 ---
 
-Book Id: 45694474\ 
-Title: Pijak\ 
-Author: Jakob Hinrichs\ 
-Author l-f: Hinrichs, Jakob\ 
-Additional Authors: Hans Fallada, Mirosław Hacia\ 
-ISBN: \ 
-ISBN13: 9788381106337\ 
-My Rating: 4\ 
-Average Rating: 3.85\ 
-Publisher: Non Stop Comics\ 
-Binding: Hardcover\ 
-Number of Pages: 160\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2020/01/19\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 45694474<br />
+Title: Pijak<br />
+Author: Jakob Hinrichs<br />
+Author l-f: Hinrichs, Jakob<br />
+Additional Authors: Hans Fallada, Mirosław Hacia<br />
+ISBN: <br />
+ISBN13: 9788381106337<br />
+My Rating: 4<br />
+Average Rating: 3.85<br />
+Publisher: Non Stop Comics<br />
+Binding: Hardcover<br />
+Number of Pages: 160<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2020/01/19<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

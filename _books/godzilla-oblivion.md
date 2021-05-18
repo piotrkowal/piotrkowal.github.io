@@ -4,21 +4,21 @@ title: Godzilla - Oblivion
 date_read: None
 ---
 
-Book Id: 30279194\ 
-Title: Godzilla: Oblivion\ 
-Author: Joshua Hale Fialkov\ 
-Author l-f: Fialkov, Joshua Hale\ 
-Additional Authors: Brian Churilla\ 
-ISBN: 1631407333\ 
-ISBN13: 9781631407338\ 
-My Rating: 0\ 
-Average Rating: 2.83\ 
-Publisher: IDW Publishing\ 
-Binding: Paperback\ 
-Number of Pages: 120\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#518)\ 
+Book Id: 30279194<br />
+Title: Godzilla: Oblivion<br />
+Author: Joshua Hale Fialkov<br />
+Author l-f: Fialkov, Joshua Hale<br />
+Additional Authors: Brian Churilla<br />
+ISBN: 1631407333<br />
+ISBN13: 9781631407338<br />
+My Rating: 0<br />
+Average Rating: 2.83<br />
+Publisher: IDW Publishing<br />
+Binding: Paperback<br />
+Number of Pages: 120<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#518)<br />
 

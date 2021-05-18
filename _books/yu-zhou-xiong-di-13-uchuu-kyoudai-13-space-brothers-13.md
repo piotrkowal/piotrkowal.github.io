@@ -4,20 +4,20 @@ title: 宇宙兄弟 13 [Uchuu Kyoudai 13] (Space Brothers,  no. 13)
 date_read: None
 ---
 
-Book Id: 10815027\ 
-Title: 宇宙兄弟 13 [Uchuu Kyoudai 13] (Space Brothers, #13)\ 
-Author: Chuya Koyama\ 
-Author l-f: Koyama, Chuya\ 
-Additional Authors: \ 
-ISBN: 4063729818\ 
-ISBN13: 9784063729818\ 
-My Rating: 0\ 
-Average Rating: 4.38\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2011\ 
-Date Added: 2020/05/25\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1439)\ 
+Book Id: 10815027<br />
+Title: 宇宙兄弟 13 [Uchuu Kyoudai 13] (Space Brothers, #13)<br />
+Author: Chuya Koyama<br />
+Author l-f: Koyama, Chuya<br />
+Additional Authors: <br />
+ISBN: 4063729818<br />
+ISBN13: 9784063729818<br />
+My Rating: 0<br />
+Average Rating: 4.38<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2011<br />
+Date Added: 2020/05/25<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1439)<br />
 

@@ -4,21 +4,21 @@ title: Spawn - Resurrection, Volume 1
 date_read: None
 ---
 
-Book Id: 26779825\ 
-Title: Spawn: Resurrection, Volume 1\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Paul Jenkins, Brian Wood, Jonboy Meyers, Szymon Kudranski\ 
-ISBN: 163215563X\ 
-ISBN13: 9781632155634\ 
-My Rating: 0\ 
-Average Rating: 3.77\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 120\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#231)\ 
+Book Id: 26779825<br />
+Title: Spawn: Resurrection, Volume 1<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Paul Jenkins, Brian Wood, Jonboy Meyers, Szymon Kudranski<br />
+ISBN: 163215563X<br />
+ISBN13: 9781632155634<br />
+My Rating: 0<br />
+Average Rating: 3.77<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 120<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#231)<br />
 

@@ -4,21 +4,21 @@ title: Pamiętnik Przyszłości  no. 11
 date_read: None
 ---
 
-Book Id: 42200868\ 
-Title: Pamiętnik Przyszłości #11\ 
-Author: Sakae Esuno\ 
-Author l-f: Esuno, Sakae\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788364508783\ 
-My Rating: 4\ 
-Average Rating: 4.09\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Year Published: 2016\ 
-Original Publication Year: 2010\ 
-Date Added: 2018/10/07\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 42200868<br />
+Title: Pamiętnik Przyszłości #11<br />
+Author: Sakae Esuno<br />
+Author l-f: Esuno, Sakae<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788364508783<br />
+My Rating: 4<br />
+Average Rating: 4.09<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Year Published: 2016<br />
+Original Publication Year: 2010<br />
+Date Added: 2018/10/07<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

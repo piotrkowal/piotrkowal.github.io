@@ -4,21 +4,21 @@ title: Busting Vegas - A True Story of Monumental Excess, Sex, Love, Violence, a
 date_read: None
 ---
 
-Book Id: 9276\ 
-Title: Busting Vegas: A True Story of Monumental Excess, Sex, Love, Violence, and Beating the Odds\ 
-Author: Ben Mezrich\ 
-Author l-f: Mezrich, Ben\ 
-Additional Authors: Semyon Dukach\ 
-ISBN: 0060575123\ 
-ISBN13: 9780060575120\ 
-My Rating: 0\ 
-Average Rating: 3.76\ 
-Publisher: William Morrow Paperbacks\ 
-Binding: \ 
-Number of Pages: 304\ 
-Year Published: 2006\ 
-Original Publication Year: 2005\ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#926)\ 
+Book Id: 9276<br />
+Title: Busting Vegas: A True Story of Monumental Excess, Sex, Love, Violence, and Beating the Odds<br />
+Author: Ben Mezrich<br />
+Author l-f: Mezrich, Ben<br />
+Additional Authors: Semyon Dukach<br />
+ISBN: 0060575123<br />
+ISBN13: 9780060575120<br />
+My Rating: 0<br />
+Average Rating: 3.76<br />
+Publisher: William Morrow Paperbacks<br />
+Binding: <br />
+Number of Pages: 304<br />
+Year Published: 2006<br />
+Original Publication Year: 2005<br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#926)<br />
 

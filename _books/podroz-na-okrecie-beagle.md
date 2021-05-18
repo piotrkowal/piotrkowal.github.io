@@ -4,22 +4,22 @@ title: Podróż na okręcie  Beagle
 date_read: None
 ---
 
-Book Id: 8439868\ 
-Title: Podróż na okręcie  Beagle\ 
-Author: Charles Darwin\ 
-Author l-f: Darwin, Charles\ 
-Additional Authors: Szarski Kazimierz\ 
-ISBN: \ 
-ISBN13: 9788373966635\ 
-My Rating: 0\ 
-Average Rating: 4.03\ 
-Publisher: Libron\ 
-Binding: Paperback\ 
-Number of Pages: 562\ 
-Year Published: 2008\ 
-Original Publication Year: 1839\ 
-Date Read: \ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1749)\ 
+Book Id: 8439868<br />
+Title: Podróż na okręcie  Beagle<br />
+Author: Charles Darwin<br />
+Author l-f: Darwin, Charles<br />
+Additional Authors: Szarski Kazimierz<br />
+ISBN: <br />
+ISBN13: 9788373966635<br />
+My Rating: 0<br />
+Average Rating: 4.03<br />
+Publisher: Libron<br />
+Binding: Paperback<br />
+Number of Pages: 562<br />
+Year Published: 2008<br />
+Original Publication Year: 1839<br />
+Date Read: <br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1749)<br />
 

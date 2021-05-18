@@ -4,23 +4,23 @@ title: Czyściec
 date_read: None
 ---
 
-Book Id: 14743480\ 
-Title: Czyściec\ 
-Author: Christophe Chabouté\ 
-Author l-f: Chabouté, Christophe\ 
-Additional Authors: Maria Mosiewicz-Szrejter\ 
-ISBN: \ 
-ISBN13: 9788323736165\ 
-My Rating: 3\ 
-Average Rating: 3.98\ 
-Publisher: Egmont Polska\ 
-Binding: Hardcover\ 
-Number of Pages: 192\ 
-Year Published: 2010\ 
-Original Publication Year: 2009\ 
-Date Read: \ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 14743480<br />
+Title: Czyściec<br />
+Author: Christophe Chabouté<br />
+Author l-f: Chabouté, Christophe<br />
+Additional Authors: Maria Mosiewicz-Szrejter<br />
+ISBN: <br />
+ISBN13: 9788323736165<br />
+My Rating: 3<br />
+Average Rating: 3.98<br />
+Publisher: Egmont Polska<br />
+Binding: Hardcover<br />
+Number of Pages: 192<br />
+Year Published: 2010<br />
+Original Publication Year: 2009<br />
+Date Read: <br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

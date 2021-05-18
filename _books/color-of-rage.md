@@ -4,21 +4,21 @@ title: Color of Rage
 date_read: None
 ---
 
-Book Id: 3331918\ 
-Title: Color of Rage\ 
-Author: Kazuo Koike\ 
-Author l-f: Koike, Kazuo\ 
-Additional Authors: Seisaku Kano\ 
-ISBN: 1593079001\ 
-ISBN13: 9781593079000\ 
-My Rating: 0\ 
-Average Rating: 3.28\ 
-Publisher: Dark Horse Manga\ 
-Binding: Paperback\ 
-Number of Pages: 416\ 
-Year Published: 2008\ 
-Date Read: \ 
-Date Added: 2019/10/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#128)\ 
+Book Id: 3331918<br />
+Title: Color of Rage<br />
+Author: Kazuo Koike<br />
+Author l-f: Koike, Kazuo<br />
+Additional Authors: Seisaku Kano<br />
+ISBN: 1593079001<br />
+ISBN13: 9781593079000<br />
+My Rating: 0<br />
+Average Rating: 3.28<br />
+Publisher: Dark Horse Manga<br />
+Binding: Paperback<br />
+Number of Pages: 416<br />
+Year Published: 2008<br />
+Date Read: <br />
+Date Added: 2019/10/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#128)<br />
 

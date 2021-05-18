@@ -4,21 +4,21 @@ title: After the End - Recent Apocalypses
 date_read: None
 ---
 
-Book Id: 17268028\ 
-Title: After the End: Recent Apocalypses\ 
-Author: Paula Guran\ 
-Author l-f: Guran, Paula\ 
-Additional Authors: Paolo Bacigalupi, Cory Doctorow, Margo Lanagan, Nnedi Okorafor, Bruce Sterling, Carrie Vaughn\ 
-ISBN: 1607013908\ 
-ISBN13: 9781607013907\ 
-My Rating: 0\ 
-Average Rating: 3.64\ 
-Publisher: Prime Books\ 
-Binding: Paperback\ 
-Number of Pages: 384\ 
-Year Published: 2013\ 
-Date Read: \ 
-Date Added: 2020/01/19\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#872)\ 
+Book Id: 17268028<br />
+Title: After the End: Recent Apocalypses<br />
+Author: Paula Guran<br />
+Author l-f: Guran, Paula<br />
+Additional Authors: Paolo Bacigalupi, Cory Doctorow, Margo Lanagan, Nnedi Okorafor, Bruce Sterling, Carrie Vaughn<br />
+ISBN: 1607013908<br />
+ISBN13: 9781607013907<br />
+My Rating: 0<br />
+Average Rating: 3.64<br />
+Publisher: Prime Books<br />
+Binding: Paperback<br />
+Number of Pages: 384<br />
+Year Published: 2013<br />
+Date Read: <br />
+Date Added: 2020/01/19<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#872)<br />
 

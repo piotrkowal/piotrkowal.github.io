@@ -4,24 +4,24 @@ title: Rodzeństwo Furo
 date_read: 2019/07/30
 ---
 
-Book Id: 40692512\ 
-Title: Rodzeństwo Furo\ 
-Author: Yuki Shiwasu\ 
-Author l-f: Shiwasu, Yuki\ 
-Additional Authors: Kinga Zielińska\ 
-ISBN: \ 
-ISBN13: 9788365856357\ 
-My Rating: 3\ 
-Average Rating: 3.63\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2018\ 
-Original Publication Year: 2009\ 
-Date Read: 2019/07/30\ 
-Date Added: 2019/07/24\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 40692512<br />
+Title: Rodzeństwo Furo<br />
+Author: Yuki Shiwasu<br />
+Author l-f: Shiwasu, Yuki<br />
+Additional Authors: Kinga Zielińska<br />
+ISBN: <br />
+ISBN13: 9788365856357<br />
+My Rating: 3<br />
+Average Rating: 3.63<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2018<br />
+Original Publication Year: 2009<br />
+Date Read: 2019/07/30<br />
+Date Added: 2019/07/24<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

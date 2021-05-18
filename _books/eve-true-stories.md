@@ -4,21 +4,21 @@ title: EVE - True Stories
 date_read: None
 ---
 
-Book Id: 18853514\ 
-Title: EVE: True Stories\ 
-Author: Daniel Way\ 
-Author l-f: Way, Daniel\ 
-Additional Authors: Dave Marshall, Alejandro Aragón, Tomm Coker, Federico Dallocchio, Dave Ross\ 
-ISBN: 1616552727\ 
-ISBN13: 9781616552725\ 
-My Rating: 0\ 
-Average Rating: 3.07\ 
-Publisher: Dark Horse Books\ 
-Binding: Hardcover\ 
-Number of Pages: 80\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#965)\ 
+Book Id: 18853514<br />
+Title: EVE: True Stories<br />
+Author: Daniel Way<br />
+Author l-f: Way, Daniel<br />
+Additional Authors: Dave Marshall, Alejandro Aragón, Tomm Coker, Federico Dallocchio, Dave Ross<br />
+ISBN: 1616552727<br />
+ISBN13: 9781616552725<br />
+My Rating: 0<br />
+Average Rating: 3.07<br />
+Publisher: Dark Horse Books<br />
+Binding: Hardcover<br />
+Number of Pages: 80<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#965)<br />
 

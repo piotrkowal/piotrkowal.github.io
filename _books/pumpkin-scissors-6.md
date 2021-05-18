@@ -4,21 +4,21 @@ title: Pumpkin Scissors 6
 date_read: None
 ---
 
-Book Id: 6774095\ 
-Title: Pumpkin Scissors 6\ 
-Author: Ryōtarō Iwanaga\ 
-Author l-f: Iwanaga, Ryōtarō\ 
-Additional Authors: \ 
-ISBN: 0345508106\ 
-ISBN13: 9780345508102\ 
-My Rating: 0\ 
-Average Rating: 4.07\ 
-Publisher: Del Rey\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2010\ 
-Original Publication Year: 2006\ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#272)\ 
+Book Id: 6774095<br />
+Title: Pumpkin Scissors 6<br />
+Author: Ryōtarō Iwanaga<br />
+Author l-f: Iwanaga, Ryōtarō<br />
+Additional Authors: <br />
+ISBN: 0345508106<br />
+ISBN13: 9780345508102<br />
+My Rating: 0<br />
+Average Rating: 4.07<br />
+Publisher: Del Rey<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2010<br />
+Original Publication Year: 2006<br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#272)<br />
 

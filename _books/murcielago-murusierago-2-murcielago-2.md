@@ -4,19 +4,19 @@ title: MURCIÉLAGO -ムルシエラゴ- 2 (Murciélago,  no. 2)
 date_read: None
 ---
 
-Book Id: 23394590\ 
-Title: MURCIÉLAGO -ムルシエラゴ- 2 (Murciélago, #2)\ 
-Author: Yoshimurakana\ 
-Author l-f: Yoshimurakana, Yoshimurakana\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.95\ 
-Publisher: スクウェア・エニックス\ 
-Binding: Kindle Edition\ 
-Number of Pages: 200\ 
-Year Published: 2014\ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#447)\ 
+Book Id: 23394590<br />
+Title: MURCIÉLAGO -ムルシエラゴ- 2 (Murciélago, #2)<br />
+Author: Yoshimurakana<br />
+Author l-f: Yoshimurakana, Yoshimurakana<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.95<br />
+Publisher: スクウェア・エニックス<br />
+Binding: Kindle Edition<br />
+Number of Pages: 200<br />
+Year Published: 2014<br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#447)<br />
 

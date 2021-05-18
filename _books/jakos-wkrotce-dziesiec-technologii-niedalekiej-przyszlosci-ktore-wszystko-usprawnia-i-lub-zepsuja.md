@@ -4,22 +4,22 @@ title: Jakoś wkrótce. Dziesięć technologii niedalekiej przyszłości, które
 date_read: None
 ---
 
-Book Id: 52346457\ 
-Title: Jakoś wkrótce. Dziesięć technologii niedalekiej przyszłości, które wszystko usprawnią i/lub zepsują\ 
-Author: Kelly Weinersmith\ 
-Author l-f: Weinersmith, Kelly\ 
-Additional Authors: Jakub Radzimiński\ 
-ISBN: \ 
-ISBN13: 9788366071285\ 
-My Rating: 0\ 
-Average Rating: 3.97\ 
-Publisher: Insignis\ 
-Binding: Paperback\ 
-Number of Pages: 448\ 
-Year Published: 2020\ 
-Original Publication Year: 2017\ 
-Date Read: \ 
-Date Added: 2020/08/29\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1769)\ 
+Book Id: 52346457<br />
+Title: Jakoś wkrótce. Dziesięć technologii niedalekiej przyszłości, które wszystko usprawnią i/lub zepsują<br />
+Author: Kelly Weinersmith<br />
+Author l-f: Weinersmith, Kelly<br />
+Additional Authors: Jakub Radzimiński<br />
+ISBN: <br />
+ISBN13: 9788366071285<br />
+My Rating: 0<br />
+Average Rating: 3.97<br />
+Publisher: Insignis<br />
+Binding: Paperback<br />
+Number of Pages: 448<br />
+Year Published: 2020<br />
+Original Publication Year: 2017<br />
+Date Read: <br />
+Date Added: 2020/08/29<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1769)<br />
 

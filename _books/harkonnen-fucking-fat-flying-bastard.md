@@ -4,19 +4,19 @@ title: HARKONNEN - Fucking Fat Flying Bastard
 date_read: None
 ---
 
-Book Id: 30104356\ 
-Title: HARKONNEN: Fucking Fat Flying Bastard\ 
-Author: Łukasz Kowalczuk\ 
-Author l-f: Kowalczuk, Łukasz\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.00\ 
-Publisher: Hate Core Comics\ 
-Binding: Paperback\ 
-Number of Pages: 18\ 
-Year Published: 2012\ 
-Date Added: 2020/03/27\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#989)\ 
+Book Id: 30104356<br />
+Title: HARKONNEN: Fucking Fat Flying Bastard<br />
+Author: Łukasz Kowalczuk<br />
+Author l-f: Kowalczuk, Łukasz<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.00<br />
+Publisher: Hate Core Comics<br />
+Binding: Paperback<br />
+Number of Pages: 18<br />
+Year Published: 2012<br />
+Date Added: 2020/03/27<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#989)<br />
 

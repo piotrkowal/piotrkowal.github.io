@@ -4,20 +4,20 @@ title: Frykasy
 date_read: None
 ---
 
-Book Id: 49021316\ 
-Title: Frykasy\ 
-Author: Jakub Dębski\ 
-Author l-f: Dębski, Jakub\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788394888060\ 
-My Rating: 0\ 
-Average Rating: 4.29\ 
-Publisher: Demland\ 
-Binding: Paperback\ 
-Number of Pages: 120\ 
-Year Published: 2019\ 
-Date Added: 2020/05/24\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1389)\ 
+Book Id: 49021316<br />
+Title: Frykasy<br />
+Author: Jakub Dębski<br />
+Author l-f: Dębski, Jakub<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788394888060<br />
+My Rating: 0<br />
+Average Rating: 4.29<br />
+Publisher: Demland<br />
+Binding: Paperback<br />
+Number of Pages: 120<br />
+Year Published: 2019<br />
+Date Added: 2020/05/24<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1389)<br />
 

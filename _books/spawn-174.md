@@ -4,20 +4,20 @@ title: Spawn  no. 174
 date_read: None
 ---
 
-Book Id: 28812110\ 
-Title: Spawn #174\ 
-Author: David Hine\ 
-Author l-f: Hine, David\ 
-Additional Authors: Andy Troy, Brian Haberlin, Tom Orzechowski\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.75\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 25\ 
-Year Published: 2008\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1022)\ 
+Book Id: 28812110<br />
+Title: Spawn #174<br />
+Author: David Hine<br />
+Author l-f: Hine, David<br />
+Additional Authors: Andy Troy, Brian Haberlin, Tom Orzechowski<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.75<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 25<br />
+Year Published: 2008<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1022)<br />
 

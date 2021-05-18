@@ -4,21 +4,21 @@ title: Paper Girls, Vol. 2
 date_read: None
 ---
 
-Book Id: 31338724\ 
-Title: Paper Girls, Vol. 2\ 
-Author: Brian K. Vaughan\ 
-Author l-f: Vaughan, Brian K.\ 
-Additional Authors: Cliff Chiang, Matt Wilson, Jared K. Fletcher\ 
-ISBN: 1632158957\ 
-ISBN13: 9781632158956\ 
-My Rating: 0\ 
-Average Rating: 4.14\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 128\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/14\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#164)\ 
+Book Id: 31338724<br />
+Title: Paper Girls, Vol. 2<br />
+Author: Brian K. Vaughan<br />
+Author l-f: Vaughan, Brian K.<br />
+Additional Authors: Cliff Chiang, Matt Wilson, Jared K. Fletcher<br />
+ISBN: 1632158957<br />
+ISBN13: 9781632158956<br />
+My Rating: 0<br />
+Average Rating: 4.14<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 128<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/14<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#164)<br />
 

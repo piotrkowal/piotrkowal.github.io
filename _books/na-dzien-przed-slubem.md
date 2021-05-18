@@ -4,21 +4,21 @@ title: Na dzień przed ślubem
 date_read: None
 ---
 
-Book Id: 26631378\ 
-Title: Na dzień przed ślubem\ 
-Author: Hozumi\ 
-Author l-f: Hozumi, Hozumi\ 
-Additional Authors: \ 
-ISBN: 8364508075\ 
-ISBN13: 9788364508073\ 
-My Rating: 0\ 
-Average Rating: 3.79\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2015\ 
-Original Publication Year: 2012\ 
-Date Added: 2019/10/14\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#163)\ 
+Book Id: 26631378<br />
+Title: Na dzień przed ślubem<br />
+Author: Hozumi<br />
+Author l-f: Hozumi, Hozumi<br />
+Additional Authors: <br />
+ISBN: 8364508075<br />
+ISBN13: 9788364508073<br />
+My Rating: 0<br />
+Average Rating: 3.79<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2015<br />
+Original Publication Year: 2012<br />
+Date Added: 2019/10/14<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#163)<br />
 

@@ -4,20 +4,20 @@ title: Star Trek - New Visions Volume 2
 date_read: None
 ---
 
-Book Id: 25277402\ 
-Title: Star Trek: New Visions Volume 2\ 
-Author: John Byrne\ 
-Author l-f: Byrne, John\ 
-Additional Authors: \ 
-ISBN: 1631403672\ 
-ISBN13: 9781631403675\ 
-My Rating: 0\ 
-Average Rating: 3.59\ 
-Publisher: IDW Publishing\ 
-Binding: Paperback\ 
-Number of Pages: 144\ 
-Year Published: 2015\ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1197)\ 
+Book Id: 25277402<br />
+Title: Star Trek: New Visions Volume 2<br />
+Author: John Byrne<br />
+Author l-f: Byrne, John<br />
+Additional Authors: <br />
+ISBN: 1631403672<br />
+ISBN13: 9781631403675<br />
+My Rating: 0<br />
+Average Rating: 3.59<br />
+Publisher: IDW Publishing<br />
+Binding: Paperback<br />
+Number of Pages: 144<br />
+Year Published: 2015<br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1197)<br />
 

@@ -4,21 +4,21 @@ title: Rodacy
 date_read: None
 ---
 
-Book Id: 33030006\ 
-Title: Rodacy\ 
-Author: Jakub Topor\ 
-Author l-f: Topor, Jakub\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788365527226\ 
-My Rating: 5\ 
-Average Rating: 3.38\ 
-Publisher: Timof i cisi wspólnicy\ 
-Binding: Paperback\ 
-Number of Pages: 68\ 
-Year Published: 2016\ 
-Date Added: 2019/04/13\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 33030006<br />
+Title: Rodacy<br />
+Author: Jakub Topor<br />
+Author l-f: Topor, Jakub<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788365527226<br />
+My Rating: 5<br />
+Average Rating: 3.38<br />
+Publisher: Timof i cisi wspólnicy<br />
+Binding: Paperback<br />
+Number of Pages: 68<br />
+Year Published: 2016<br />
+Date Added: 2019/04/13<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

@@ -4,20 +4,20 @@ title: Kuro  no. 3
 date_read: 2017/11/12
 ---
 
-Book Id: 37766970\ 
-Title: Kuro #3\ 
-Author: Somato\ 
-Author l-f: Somato, Somato\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788380962170\ 
-My Rating: 0\ 
-Average Rating: 4.06\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Year Published: 2017\ 
-Original Publication Year: 2016\ 
-Date Read: 2017/11/12\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 37766970<br />
+Title: Kuro #3<br />
+Author: Somato<br />
+Author l-f: Somato, Somato<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788380962170<br />
+My Rating: 0<br />
+Average Rating: 4.06<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Year Published: 2017<br />
+Original Publication Year: 2016<br />
+Date Read: 2017/11/12<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

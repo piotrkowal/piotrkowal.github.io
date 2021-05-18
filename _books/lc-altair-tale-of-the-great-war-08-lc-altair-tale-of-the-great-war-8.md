@@ -4,21 +4,21 @@ title: LC - Altair - Tale of the Great War 08 (LC - Altair - Tale of the Great W
 date_read: None
 ---
 
-Book Id: 30195348\ 
-Title: LC: Altair - Tale of the Great War 08 (LC: Altair - Tale of the Great War, #8)\ 
-Author: Kotono Kato\ 
-Author l-f: Kato, Kotono\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9786020279411\ 
-My Rating: 0\ 
-Average Rating: 4.11\ 
-Publisher: Elex Media Komputindo\ 
-Binding: Paperback\ 
-Number of Pages: 208\ 
-Year Published: 2016\ 
-Original Publication Year: 2011\ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#293)\ 
+Book Id: 30195348<br />
+Title: LC: Altair - Tale of the Great War 08 (LC: Altair - Tale of the Great War, #8)<br />
+Author: Kotono Kato<br />
+Author l-f: Kato, Kotono<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9786020279411<br />
+My Rating: 0<br />
+Average Rating: 4.11<br />
+Publisher: Elex Media Komputindo<br />
+Binding: Paperback<br />
+Number of Pages: 208<br />
+Year Published: 2016<br />
+Original Publication Year: 2011<br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#293)<br />
 

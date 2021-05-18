@@ -4,21 +4,21 @@ title: Sakamichi No Apollon - 10 (Bonus Track)
 date_read: None
 ---
 
-Book Id: 17827588\ 
-Title: Sakamichi No Apollon: 10 (Bonus Track)\ 
-Author: Yuki Kodama\ 
-Author l-f: Kodama, Yuki\ 
-Additional Authors: 小玉ユキ\ 
-ISBN: 4091347932\ 
-ISBN13: 9784091347930\ 
-My Rating: 0\ 
-Average Rating: 4.38\ 
-Publisher: Shogakukan Inc.\ 
-Binding: \ 
-Number of Pages: 179\ 
-Year Published: 2012\ 
-Date Added: 2016/11/20\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#32)\ 
-Read Count: 1\ 
+Book Id: 17827588<br />
+Title: Sakamichi No Apollon: 10 (Bonus Track)<br />
+Author: Yuki Kodama<br />
+Author l-f: Kodama, Yuki<br />
+Additional Authors: 小玉ユキ<br />
+ISBN: 4091347932<br />
+ISBN13: 9784091347930<br />
+My Rating: 0<br />
+Average Rating: 4.38<br />
+Publisher: Shogakukan Inc.<br />
+Binding: <br />
+Number of Pages: 179<br />
+Year Published: 2012<br />
+Date Added: 2016/11/20<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#32)<br />
+Read Count: 1<br />
 

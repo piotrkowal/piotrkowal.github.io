@@ -4,20 +4,20 @@ title: Spawn  no. 288
 date_read: None
 ---
 
-Book Id: 40983709\ 
-Title: Spawn #288\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Jason Alexander, Francesco Mattina\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.40\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 31\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1162)\ 
+Book Id: 40983709<br />
+Title: Spawn #288<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Jason Alexander, Francesco Mattina<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.40<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 31<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1162)<br />
 

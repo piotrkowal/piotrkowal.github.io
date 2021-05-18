@@ -4,20 +4,20 @@ title: Wizzywig - Portrait of a Serial Hacker
 date_read: None
 ---
 
-Book Id: 13644998\ 
-Title: Wizzywig: Portrait of a Serial Hacker\ 
-Author: Ed Piskor\ 
-Author l-f: Piskor, Ed\ 
-Additional Authors: \ 
-ISBN: 1603090975\ 
-ISBN13: 9781603090971\ 
-My Rating: 0\ 
-Average Rating: 3.68\ 
-Publisher: Top Shelf Productions\ 
-Binding: Hardcover\ 
-Number of Pages: 288\ 
-Year Published: 2012\ 
-Date Added: 2020/01/10\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#721)\ 
+Book Id: 13644998<br />
+Title: Wizzywig: Portrait of a Serial Hacker<br />
+Author: Ed Piskor<br />
+Author l-f: Piskor, Ed<br />
+Additional Authors: <br />
+ISBN: 1603090975<br />
+ISBN13: 9781603090971<br />
+My Rating: 0<br />
+Average Rating: 3.68<br />
+Publisher: Top Shelf Productions<br />
+Binding: Hardcover<br />
+Number of Pages: 288<br />
+Year Published: 2012<br />
+Date Added: 2020/01/10<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#721)<br />
 

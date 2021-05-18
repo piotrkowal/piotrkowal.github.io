@@ -4,21 +4,21 @@ title: Pornole wyklęte
 date_read: None
 ---
 
-Book Id: 49204714\ 
-Title: Pornole wyklęte\ 
-Author: Bartosz Minkiewicz\ 
-Author l-f: Minkiewicz, Bartosz\ 
-Additional Authors: Tomasz Minkiewicz\ 
-ISBN: \ 
-ISBN13: 9788395075315\ 
-My Rating: 0\ 
-Average Rating: 4.50\ 
-Publisher: BM Vision\ 
-Binding: Paperback\ 
-Number of Pages: 40\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/01/19\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#831)\ 
+Book Id: 49204714<br />
+Title: Pornole wyklęte<br />
+Author: Bartosz Minkiewicz<br />
+Author l-f: Minkiewicz, Bartosz<br />
+Additional Authors: Tomasz Minkiewicz<br />
+ISBN: <br />
+ISBN13: 9788395075315<br />
+My Rating: 0<br />
+Average Rating: 4.50<br />
+Publisher: BM Vision<br />
+Binding: Paperback<br />
+Number of Pages: 40<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/01/19<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#831)<br />
 

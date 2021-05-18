@@ -4,21 +4,21 @@ title: Dragons Rioting, Vol. 1 (Dragons Rioting,  no. 1)
 date_read: None
 ---
 
-Book Id: 25677553\ 
-Title: Dragons Rioting, Vol. 1 (Dragons Rioting, #1)\ 
-Author: Tsuyoshi Watanabe\ 
-Author l-f: Watanabe, Tsuyoshi\ 
-Additional Authors: \ 
-ISBN: 0316305413\ 
-ISBN13: 9780316305419\ 
-My Rating: 0\ 
-Average Rating: 3.77\ 
-Publisher: Yen Press\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2015\ 
-Original Publication Year: 2013\ 
-Date Added: 2018/03/04\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 25677553<br />
+Title: Dragons Rioting, Vol. 1 (Dragons Rioting, #1)<br />
+Author: Tsuyoshi Watanabe<br />
+Author l-f: Watanabe, Tsuyoshi<br />
+Additional Authors: <br />
+ISBN: 0316305413<br />
+ISBN13: 9780316305419<br />
+My Rating: 0<br />
+Average Rating: 3.77<br />
+Publisher: Yen Press<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2015<br />
+Original Publication Year: 2013<br />
+Date Added: 2018/03/04<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

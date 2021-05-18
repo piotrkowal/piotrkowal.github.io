@@ -4,21 +4,21 @@ title: Hope Volume One - Hope For The Future
 date_read: None
 ---
 
-Book Id: 38748582\ 
-Title: Hope Volume One: Hope For The Future\ 
-Author: Guy Adams\ 
-Author l-f: Adams, Guy\ 
-Additional Authors: Jimmy Broxton\ 
-ISBN: 1781086583\ 
-ISBN13: 9781781086582\ 
-My Rating: 0\ 
-Average Rating: 4.07\ 
-Publisher: 2000 AD\ 
-Binding: Paperback\ 
-Number of Pages: 64\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1869)\ 
+Book Id: 38748582<br />
+Title: Hope Volume One: Hope For The Future<br />
+Author: Guy Adams<br />
+Author l-f: Adams, Guy<br />
+Additional Authors: Jimmy Broxton<br />
+ISBN: 1781086583<br />
+ISBN13: 9781781086582<br />
+My Rating: 0<br />
+Average Rating: 4.07<br />
+Publisher: 2000 AD<br />
+Binding: Paperback<br />
+Number of Pages: 64<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1869)<br />
 

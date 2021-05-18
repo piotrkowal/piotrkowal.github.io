@@ -4,20 +4,20 @@ title: Domestic Girlfriend, Vol. 18
 date_read: None
 ---
 
-Book Id: 45864934\ 
-Title: Domestic Girlfriend, Vol. 18\ 
-Author: Kei Sasuga\ 
-Author l-f: Sasuga, Kei\ 
-Additional Authors: Adam Hirsch, Benjamin Good\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.84\ 
-Publisher: Kodansha Comics Digital-First!\ 
-Binding: Kindle Edition\ 
-Number of Pages: 193\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#567)\ 
+Book Id: 45864934<br />
+Title: Domestic Girlfriend, Vol. 18<br />
+Author: Kei Sasuga<br />
+Author l-f: Sasuga, Kei<br />
+Additional Authors: Adam Hirsch, Benjamin Good<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.84<br />
+Publisher: Kodansha Comics Digital-First!<br />
+Binding: Kindle Edition<br />
+Number of Pages: 193<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#567)<br />
 

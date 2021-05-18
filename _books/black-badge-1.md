@@ -4,22 +4,22 @@ title: Black Badge  no. 1
 date_read: 2019/02/25
 ---
 
-Book Id: 41070691\ 
-Title: Black Badge #1\ 
-Author: Matt Kindt\ 
-Author l-f: Kindt, Matt\ 
-Additional Authors: Tyler Jenkins, Hilary Jenkins\ 
-ISBN: \ 
-My Rating: 4\ 
-Average Rating: 3.74\ 
-Publisher: BOOM! Studios\ 
-Binding: Kindle Edition\ 
-Number of Pages: 26\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Read: 2019/02/25\ 
-Date Added: 2019/02/11\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 41070691<br />
+Title: Black Badge #1<br />
+Author: Matt Kindt<br />
+Author l-f: Kindt, Matt<br />
+Additional Authors: Tyler Jenkins, Hilary Jenkins<br />
+ISBN: <br />
+My Rating: 4<br />
+Average Rating: 3.74<br />
+Publisher: BOOM! Studios<br />
+Binding: Kindle Edition<br />
+Number of Pages: 26<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Read: 2019/02/25<br />
+Date Added: 2019/02/11<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

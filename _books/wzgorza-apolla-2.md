@@ -4,22 +4,22 @@ title: Wzgórza Apolla  no. 2
 date_read: 2016/11/20
 ---
 
-Book Id: 42296434\ 
-Title: Wzgórza Apolla #2\ 
-Author: Yuki Kodama\ 
-Author l-f: Kodama, Yuki\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788374715225\ 
-My Rating: 5\ 
-Average Rating: 4.33\ 
-Publisher: J.P,Fantastica\ 
-Binding: Paperback\ 
-Year Published: 2015\ 
-Original Publication Year: 2008\ 
-Date Read: 2016/11/20\ 
-Date Added: 2016/11/11\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 42296434<br />
+Title: Wzgórza Apolla #2<br />
+Author: Yuki Kodama<br />
+Author l-f: Kodama, Yuki<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788374715225<br />
+My Rating: 5<br />
+Average Rating: 4.33<br />
+Publisher: J.P,Fantastica<br />
+Binding: Paperback<br />
+Year Published: 2015<br />
+Original Publication Year: 2008<br />
+Date Read: 2016/11/20<br />
+Date Added: 2016/11/11<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

@@ -4,21 +4,21 @@ title: Red Sonja, Vol. 3 - The Forgiving of Monsters
 date_read: None
 ---
 
-Book Id: 25049614\ 
-Title: Red Sonja, Vol. 3: The Forgiving of Monsters\ 
-Author: Gail Simone\ 
-Author l-f: Simone, Gail\ 
-Additional Authors: Walter Geovani, Jenny Frison\ 
-ISBN: 1606906011\ 
-ISBN13: 9781606906019\ 
-My Rating: 0\ 
-Average Rating: 4.00\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2019/10/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#353)\ 
+Book Id: 25049614<br />
+Title: Red Sonja, Vol. 3: The Forgiving of Monsters<br />
+Author: Gail Simone<br />
+Author l-f: Simone, Gail<br />
+Additional Authors: Walter Geovani, Jenny Frison<br />
+ISBN: 1606906011<br />
+ISBN13: 9781606906019<br />
+My Rating: 0<br />
+Average Rating: 4.00<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2019/10/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#353)<br />
 

@@ -4,19 +4,19 @@ title: Classic Red Sonja Remastered  no. 1
 date_read: None
 ---
 
-Book Id: 25937085\ 
-Title: Classic Red Sonja Remastered #1\ 
-Author: Roy Thomas\ 
-Author l-f: Thomas, Roy\ 
-Additional Authors: Esteban Maroto\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.89\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Kindle Edition\ 
-Number of Pages: \ 
-Year Published: 2015\ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1594)\ 
+Book Id: 25937085<br />
+Title: Classic Red Sonja Remastered #1<br />
+Author: Roy Thomas<br />
+Author l-f: Thomas, Roy<br />
+Additional Authors: Esteban Maroto<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.89<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Kindle Edition<br />
+Number of Pages: <br />
+Year Published: 2015<br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1594)<br />
 

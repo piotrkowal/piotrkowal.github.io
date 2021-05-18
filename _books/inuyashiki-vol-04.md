@@ -4,21 +4,21 @@ title: Inuyashiki, Vol. 04
 date_read: None
 ---
 
-Book Id: 37561824\ 
-Title: Inuyashiki, Vol. 04\ 
-Author: Hiroya Oku\ 
-Author l-f: Oku, Hiroya\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788542608632\ 
-My Rating: 0\ 
-Average Rating: 3.88\ 
-Publisher: Panini Comics\ 
-Binding: Paperback\ 
-Number of Pages: 194\ 
-Year Published: 2017\ 
-Original Publication Year: 2015\ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2070)\ 
+Book Id: 37561824<br />
+Title: Inuyashiki, Vol. 04<br />
+Author: Hiroya Oku<br />
+Author l-f: Oku, Hiroya<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788542608632<br />
+My Rating: 0<br />
+Average Rating: 3.88<br />
+Publisher: Panini Comics<br />
+Binding: Paperback<br />
+Number of Pages: 194<br />
+Year Published: 2017<br />
+Original Publication Year: 2015<br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2070)<br />
 

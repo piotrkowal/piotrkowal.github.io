@@ -4,21 +4,21 @@ title: The Dresden Files - Fool Moon, Volume 2
 date_read: None
 ---
 
-Book Id: 16231091\ 
-Title: The Dresden Files: Fool Moon, Volume 2\ 
-Author: Jim Butcher\ 
-Author l-f: Butcher, Jim\ 
-Additional Authors: Mark Powers, Chase Conley\ 
-ISBN: 1606903772\ 
-ISBN13: 9781606903773\ 
-My Rating: 0\ 
-Average Rating: 4.13\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Hardcover\ 
-Number of Pages: 120\ 
-Year Published: 2013\ 
-Date Read: \ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#334)\ 
+Book Id: 16231091<br />
+Title: The Dresden Files: Fool Moon, Volume 2<br />
+Author: Jim Butcher<br />
+Author l-f: Butcher, Jim<br />
+Additional Authors: Mark Powers, Chase Conley<br />
+ISBN: 1606903772<br />
+ISBN13: 9781606903773<br />
+My Rating: 0<br />
+Average Rating: 4.13<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Hardcover<br />
+Number of Pages: 120<br />
+Year Published: 2013<br />
+Date Read: <br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#334)<br />
 

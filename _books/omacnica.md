@@ -4,22 +4,22 @@ title: Omacnica
 date_read: None
 ---
 
-Book Id: 25437520\ 
-Title: Omacnica\ 
-Author: Jakub Dębski\ 
-Author l-f: Dębski, Jakub\ 
-Additional Authors: Ewa Zaremba-Śmietańska\ 
-ISBN: \ 
-ISBN13: 9788394169305\ 
-My Rating: 5\ 
-Average Rating: 4.07\ 
-Publisher: Jakub Dębski Demland\ 
-Binding: Paperback\ 
-Number of Pages: 24\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2016/10/28\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 25437520<br />
+Title: Omacnica<br />
+Author: Jakub Dębski<br />
+Author l-f: Dębski, Jakub<br />
+Additional Authors: Ewa Zaremba-Śmietańska<br />
+ISBN: <br />
+ISBN13: 9788394169305<br />
+My Rating: 5<br />
+Average Rating: 4.07<br />
+Publisher: Jakub Dębski Demland<br />
+Binding: Paperback<br />
+Number of Pages: 24<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2016/10/28<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

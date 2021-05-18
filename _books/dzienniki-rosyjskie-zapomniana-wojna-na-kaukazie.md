@@ -4,22 +4,22 @@ title: Dzienniki rosyjskie. Zapomniana wojna na Kaukazie
 date_read: None
 ---
 
-Book Id: 20626226\ 
-Title: Dzienniki rosyjskie. Zapomniana wojna na Kaukazie\ 
-Author: Igort\ 
-Author l-f: Igort, Igort\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788363963101\ 
-My Rating: 5\ 
-Average Rating: 4.06\ 
-Publisher: Timof i cisi wspólnicy\ 
-Binding: Paperback\ 
-Number of Pages: 173\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 20626226<br />
+Title: Dzienniki rosyjskie. Zapomniana wojna na Kaukazie<br />
+Author: Igort<br />
+Author l-f: Igort, Igort<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788363963101<br />
+My Rating: 5<br />
+Average Rating: 4.06<br />
+Publisher: Timof i cisi wspólnicy<br />
+Binding: Paperback<br />
+Number of Pages: 173<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

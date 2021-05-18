@@ -4,19 +4,19 @@ title: Spawn  no. 290
 date_read: None
 ---
 
-Book Id: 41436632\ 
-Title: Spawn #290\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Jason Alexander, Francesco Mattina, Philip Tan\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.50\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: \ 
-Year Published: 2018\ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1164)\ 
+Book Id: 41436632<br />
+Title: Spawn #290<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Jason Alexander, Francesco Mattina, Philip Tan<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.50<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: <br />
+Year Published: 2018<br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1164)<br />
 

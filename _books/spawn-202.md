@@ -4,20 +4,20 @@ title: Spawn  no. 202
 date_read: None
 ---
 
-Book Id: 29546620\ 
-Title: Spawn #202\ 
-Author: Will Carlton\ 
-Author l-f: Carlton, Will\ 
-Additional Authors: F.C.O. Plascencia, Szymon Kudranski, Tom Orzechowski\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 5.00\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 25\ 
-Year Published: 2011\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1131)\ 
+Book Id: 29546620<br />
+Title: Spawn #202<br />
+Author: Will Carlton<br />
+Author l-f: Carlton, Will<br />
+Additional Authors: F.C.O. Plascencia, Szymon Kudranski, Tom Orzechowski<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 5.00<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 25<br />
+Year Published: 2011<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1131)<br />
 

@@ -4,22 +4,22 @@ title: Gwiazda spadająca za dnia 1
 date_read: 2018/04/21
 ---
 
-Book Id: 34640272\ 
-Title: Gwiazda spadająca za dnia 1\ 
-Author: Mika Yamamori\ 
-Author l-f: Yamamori, Mika\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788365229755\ 
-My Rating: 0\ 
-Average Rating: 4.25\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Number of Pages: 200\ 
-Year Published: 2016\ 
-Original Publication Year: 2011\ 
-Date Read: 2018/04/21\ 
-Date Added: 2018/04/05\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 34640272<br />
+Title: Gwiazda spadająca za dnia 1<br />
+Author: Mika Yamamori<br />
+Author l-f: Yamamori, Mika<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788365229755<br />
+My Rating: 0<br />
+Average Rating: 4.25<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Number of Pages: 200<br />
+Year Published: 2016<br />
+Original Publication Year: 2011<br />
+Date Read: 2018/04/21<br />
+Date Added: 2018/04/05<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

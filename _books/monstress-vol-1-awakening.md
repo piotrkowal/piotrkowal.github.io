@@ -4,20 +4,20 @@ title: Monstress, Vol. 1 - Awakening
 date_read: None
 ---
 
-Book Id: 29396738\ 
-Title: Monstress, Vol. 1: Awakening\ 
-Author: Marjorie M. Liu\ 
-Author l-f: Liu, Marjorie M.\ 
-Additional Authors: Sana Takeda\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.96\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 202\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#209)\ 
+Book Id: 29396738<br />
+Title: Monstress, Vol. 1: Awakening<br />
+Author: Marjorie M. Liu<br />
+Author l-f: Liu, Marjorie M.<br />
+Additional Authors: Sana Takeda<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.96<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 202<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#209)<br />
 

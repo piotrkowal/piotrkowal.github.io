@@ -4,21 +4,21 @@ title: Panna doktór Sadowska
 date_read: None
 ---
 
-Book Id: 49112515\ 
-Title: Panna doktór Sadowska\ 
-Author: Wojciech Szot\ 
-Author l-f: Szot, Wojciech\ 
-Additional Authors: \ 
-ISBN: 8365970414\ 
-ISBN13: 9788365970411\ 
-My Rating: 0\ 
-Average Rating: 2.89\ 
-Publisher: Dowody na Istnienie\ 
-Binding: Paperback\ 
-Number of Pages: 384\ 
-Year Published: 2020\ 
-Date Added: 2020/08/08\ 
-Bookshelves: kupka-wstydu, ebook\ 
-Bookshelves with positions: kupka-wstydu (#2198), ebook (#20)\ 
-Exclusive Shelf: kupka-wstydu\ 
+Book Id: 49112515<br />
+Title: Panna doktór Sadowska<br />
+Author: Wojciech Szot<br />
+Author l-f: Szot, Wojciech<br />
+Additional Authors: <br />
+ISBN: 8365970414<br />
+ISBN13: 9788365970411<br />
+My Rating: 0<br />
+Average Rating: 2.89<br />
+Publisher: Dowody na Istnienie<br />
+Binding: Paperback<br />
+Number of Pages: 384<br />
+Year Published: 2020<br />
+Date Added: 2020/08/08<br />
+Bookshelves: kupka-wstydu, ebook<br />
+Bookshelves with positions: kupka-wstydu (#2198), ebook (#20)<br />
+Exclusive Shelf: kupka-wstydu<br />
 

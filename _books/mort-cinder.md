@@ -4,23 +4,23 @@ title: Mort Cinder
 date_read: 2018/11/10
 ---
 
-Book Id: 43617164\ 
-Title: Mort Cinder\ 
-Author: Héctor Germán Oesterheld\ 
-Author l-f: Oesterheld, Héctor Germán\ 
-Additional Authors: Alberto Breccia, Iwona Michałowska-Gabrych, Patrycja Zarawska\ 
-ISBN: \ 
-ISBN13: 9788381106207\ 
-My Rating: 0\ 
-Average Rating: 4.27\ 
-Publisher: Non Stop Comics\ 
-Binding: Hardcover\ 
-Number of Pages: 224\ 
-Year Published: 2018\ 
-Original Publication Year: 1962\ 
-Date Read: 2018/11/10\ 
-Date Added: 2018/10/07\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 43617164<br />
+Title: Mort Cinder<br />
+Author: Héctor Germán Oesterheld<br />
+Author l-f: Oesterheld, Héctor Germán<br />
+Additional Authors: Alberto Breccia, Iwona Michałowska-Gabrych, Patrycja Zarawska<br />
+ISBN: <br />
+ISBN13: 9788381106207<br />
+My Rating: 0<br />
+Average Rating: 4.27<br />
+Publisher: Non Stop Comics<br />
+Binding: Hardcover<br />
+Number of Pages: 224<br />
+Year Published: 2018<br />
+Original Publication Year: 1962<br />
+Date Read: 2018/11/10<br />
+Date Added: 2018/10/07<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

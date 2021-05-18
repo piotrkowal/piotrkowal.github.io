@@ -4,20 +4,20 @@ title: Museum Vol. 3
 date_read: None
 ---
 
-Book Id: 35139033\ 
-Title: Museum Vol. 3\ 
-Author: Ryousuke Tomoe\ 
-Author l-f: Tomoe, Ryousuke\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.90\ 
-Publisher: Kodansha\ 
-Binding: Kindle Edition\ 
-Number of Pages: 243\ 
-Year Published: 2017\ 
-Original Publication Year: 2014\ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2036)\ 
+Book Id: 35139033<br />
+Title: Museum Vol. 3<br />
+Author: Ryousuke Tomoe<br />
+Author l-f: Tomoe, Ryousuke<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.90<br />
+Publisher: Kodansha<br />
+Binding: Kindle Edition<br />
+Number of Pages: 243<br />
+Year Published: 2017<br />
+Original Publication Year: 2014<br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2036)<br />
 

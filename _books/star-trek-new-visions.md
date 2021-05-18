@@ -4,20 +4,20 @@ title: Star Trek - New Visions
 date_read: None
 ---
 
-Book Id: 22358405\ 
-Title: Star Trek: New Visions\ 
-Author: John Byrne\ 
-Author l-f: Byrne, John\ 
-Additional Authors: \ 
-ISBN: 1631400398\ 
-ISBN13: 9781631400391\ 
-My Rating: 0\ 
-Average Rating: 3.79\ 
-Publisher: IDW Publishing\ 
-Binding: Paperback\ 
-Number of Pages: 140\ 
-Year Published: 2014\ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1196)\ 
+Book Id: 22358405<br />
+Title: Star Trek: New Visions<br />
+Author: John Byrne<br />
+Author l-f: Byrne, John<br />
+Additional Authors: <br />
+ISBN: 1631400398<br />
+ISBN13: 9781631400391<br />
+My Rating: 0<br />
+Average Rating: 3.79<br />
+Publisher: IDW Publishing<br />
+Binding: Paperback<br />
+Number of Pages: 140<br />
+Year Published: 2014<br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1196)<br />
 

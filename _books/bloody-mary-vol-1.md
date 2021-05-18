@@ -4,21 +4,21 @@ title: Bloody Mary, Vol. 1
 date_read: None
 ---
 
-Book Id: 25205393\ 
-Title: Bloody Mary, Vol. 1\ 
-Author: Akaza Samamiya\ 
-Author l-f: Samamiya, Akaza\ 
-Additional Authors: \ 
-ISBN: 1421582864\ 
-ISBN13: 9781421582863\ 
-My Rating: 0\ 
-Average Rating: 4.00\ 
-Publisher: VIZ Media LLC\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2015\ 
-Original Publication Year: 2014\ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 25205393<br />
+Title: Bloody Mary, Vol. 1<br />
+Author: Akaza Samamiya<br />
+Author l-f: Samamiya, Akaza<br />
+Additional Authors: <br />
+ISBN: 1421582864<br />
+ISBN13: 9781421582863<br />
+My Rating: 0<br />
+Average Rating: 4.00<br />
+Publisher: VIZ Media LLC<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2015<br />
+Original Publication Year: 2014<br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

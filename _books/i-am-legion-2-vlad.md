@@ -4,21 +4,21 @@ title: I Am Legion  no. 2  - Vlad
 date_read: None
 ---
 
-Book Id: 24983795\ 
-Title: I Am Legion #2 : Vlad\ 
-Author: Fabien Nury\ 
-Author l-f: Nury, Fabien\ 
-Additional Authors: John Cassaday, Laura   Martin\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.47\ 
-Publisher: Humanoids Inc\ 
-Binding: Kindle Edition\ 
-Number of Pages: 184\ 
-Year Published: 2014\ 
-Original Publication Year: 2006\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1934)\ 
+Book Id: 24983795<br />
+Title: I Am Legion #2 : Vlad<br />
+Author: Fabien Nury<br />
+Author l-f: Nury, Fabien<br />
+Additional Authors: John Cassaday, Laura   Martin<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.47<br />
+Publisher: Humanoids Inc<br />
+Binding: Kindle Edition<br />
+Number of Pages: 184<br />
+Year Published: 2014<br />
+Original Publication Year: 2006<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1934)<br />
 

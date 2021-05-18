@@ -4,21 +4,21 @@ title: The Walking Dead, Vol. 32 - Rest In Peace
 date_read: None
 ---
 
-Book Id: 42835868\ 
-Title: The Walking Dead, Vol. 32: Rest In Peace\ 
-Author: Robert Kirkman\ 
-Author l-f: Kirkman, Robert\ 
-Additional Authors: Charlie Adlard, Stefano Gaudiano, Cliff Rathburn\ 
-ISBN: 1534312412\ 
-ISBN13: 9781534312418\ 
-My Rating: 0\ 
-Average Rating: 4.37\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/05/25\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1429)\ 
+Book Id: 42835868<br />
+Title: The Walking Dead, Vol. 32: Rest In Peace<br />
+Author: Robert Kirkman<br />
+Author l-f: Kirkman, Robert<br />
+Additional Authors: Charlie Adlard, Stefano Gaudiano, Cliff Rathburn<br />
+ISBN: 1534312412<br />
+ISBN13: 9781534312418<br />
+My Rating: 0<br />
+Average Rating: 4.37<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/05/25<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1429)<br />
 

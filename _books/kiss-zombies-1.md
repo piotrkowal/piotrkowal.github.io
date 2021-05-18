@@ -4,19 +4,19 @@ title: Kiss - Zombies  no. 1
 date_read: None
 ---
 
-Book Id: 48734797\ 
-Title: Kiss: Zombies #1\ 
-Author: Ethan Sacks\ 
-Author l-f: Sacks, Ethan\ 
-Additional Authors: Rodney Buchemi\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.50\ 
-Publisher: \ 
-Binding: Kindle Edition\ 
-Number of Pages: 31\ 
-Year Published: 2019\ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1624)\ 
+Book Id: 48734797<br />
+Title: Kiss: Zombies #1<br />
+Author: Ethan Sacks<br />
+Author l-f: Sacks, Ethan<br />
+Additional Authors: Rodney Buchemi<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.50<br />
+Publisher: <br />
+Binding: Kindle Edition<br />
+Number of Pages: 31<br />
+Year Published: 2019<br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1624)<br />
 

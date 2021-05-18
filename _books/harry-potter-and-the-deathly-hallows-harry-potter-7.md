@@ -4,19 +4,19 @@ title: Harry Potter and the Deathly Hallows (Harry Potter,  no. 7)
 date_read: None
 ---
 
-Book Id: 136251\ 
-Title: Harry Potter and the Deathly Hallows (Harry Potter, #7)\ 
-Author: J.K. Rowling\ 
-Author l-f: Rowling, J.K.\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.62\ 
-Publisher: Arthur A. Levine Books\ 
-Binding: Hardcover\ 
-Number of Pages: 759\ 
-Year Published: 2007\ 
-Date Added: 2016/10/19\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 136251<br />
+Title: Harry Potter and the Deathly Hallows (Harry Potter, #7)<br />
+Author: J.K. Rowling<br />
+Author l-f: Rowling, J.K.<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.62<br />
+Publisher: Arthur A. Levine Books<br />
+Binding: Hardcover<br />
+Number of Pages: 759<br />
+Year Published: 2007<br />
+Date Added: 2016/10/19<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

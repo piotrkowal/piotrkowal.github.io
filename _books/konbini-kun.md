@@ -4,21 +4,21 @@ title: Konbini-kun
 date_read: None
 ---
 
-Book Id: 28674681\ 
-Title: Konbini-kun\ 
-Author: Junko\ 
-Author l-f: Junko, Junko\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788363650667\ 
-My Rating: 0\ 
-Average Rating: 4.23\ 
-Publisher: Wydawnictwo Kotori\ 
-Binding: Paperback\ 
-Number of Pages: 190\ 
-Year Published: 2015\ 
-Original Publication Year: 2011\ 
-Date Added: 2020/01/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#773)\ 
+Book Id: 28674681<br />
+Title: Konbini-kun<br />
+Author: Junko<br />
+Author l-f: Junko, Junko<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788363650667<br />
+My Rating: 0<br />
+Average Rating: 4.23<br />
+Publisher: Wydawnictwo Kotori<br />
+Binding: Paperback<br />
+Number of Pages: 190<br />
+Year Published: 2015<br />
+Original Publication Year: 2011<br />
+Date Added: 2020/01/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#773)<br />
 

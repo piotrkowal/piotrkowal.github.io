@@ -4,24 +4,24 @@ title: Top 10
 date_read: 2019/11/06
 ---
 
-Book Id: 23012591\ 
-Title: Top 10\ 
-Author: Alan Moore\ 
-Author l-f: Moore, Alan\ 
-Additional Authors: Gene Ha, Zander Cannon\ 
-ISBN: 1401254934\ 
-ISBN13: 9781401254933\ 
-My Rating: 5\ 
-Average Rating: 4.27\ 
-Publisher: Vertigo\ 
-Binding: Paperback\ 
-Number of Pages: 352\ 
-Year Published: 2015\ 
-Original Publication Year: 1999\ 
-Date Read: 2019/11/06\ 
-Date Added: 2019/10/20\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 23012591<br />
+Title: Top 10<br />
+Author: Alan Moore<br />
+Author l-f: Moore, Alan<br />
+Additional Authors: Gene Ha, Zander Cannon<br />
+ISBN: 1401254934<br />
+ISBN13: 9781401254933<br />
+My Rating: 5<br />
+Average Rating: 4.27<br />
+Publisher: Vertigo<br />
+Binding: Paperback<br />
+Number of Pages: 352<br />
+Year Published: 2015<br />
+Original Publication Year: 1999<br />
+Date Read: 2019/11/06<br />
+Date Added: 2019/10/20<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

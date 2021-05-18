@@ -4,21 +4,21 @@ title: Spawn Origins, Volume 9
 date_read: None
 ---
 
-Book Id: 10198049\ 
-Title: Spawn Origins, Volume 9\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Greg Capullo, Clayton Crain\ 
-ISBN: 1607062364\ 
-ISBN13: 9781607062363\ 
-My Rating: 0\ 
-Average Rating: 4.05\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2011\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#218)\ 
+Book Id: 10198049<br />
+Title: Spawn Origins, Volume 9<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Greg Capullo, Clayton Crain<br />
+ISBN: 1607062364<br />
+ISBN13: 9781607062363<br />
+My Rating: 0<br />
+Average Rating: 4.05<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2011<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#218)<br />
 

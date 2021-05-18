@@ -4,22 +4,22 @@ title: Green Arrow - Kołczan, część 2 (Wielka Kolekcja Komiksów DC Comics, 
 date_read: None
 ---
 
-Book Id: 32505571\ 
-Title: Green Arrow: Kołczan, część 2 (Wielka Kolekcja Komiksów DC Comics, #4)\ 
-Author: Kevin Smith\ 
-Author l-f: Smith, Kevin\ 
-Additional Authors: Robert Kanigher, Phil Hester, Carmine Infantino, Guy Major, Maciek Drewnowski, Tomasz Kłoszewski\ 
-ISBN: \ 
-ISBN13: 9788377186046\ 
-My Rating: 0\ 
-Average Rating: 3.69\ 
-Publisher: Eaglemoss Collections\ 
-Binding: Hardcover\ 
-Number of Pages: 144\ 
-Year Published: 2016\ 
-Original Publication Year: 2001\ 
-Date Read: \ 
-Date Added: 2017/05/04\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 32505571<br />
+Title: Green Arrow: Kołczan, część 2 (Wielka Kolekcja Komiksów DC Comics, #4)<br />
+Author: Kevin Smith<br />
+Author l-f: Smith, Kevin<br />
+Additional Authors: Robert Kanigher, Phil Hester, Carmine Infantino, Guy Major, Maciek Drewnowski, Tomasz Kłoszewski<br />
+ISBN: <br />
+ISBN13: 9788377186046<br />
+My Rating: 0<br />
+Average Rating: 3.69<br />
+Publisher: Eaglemoss Collections<br />
+Binding: Hardcover<br />
+Number of Pages: 144<br />
+Year Published: 2016<br />
+Original Publication Year: 2001<br />
+Date Read: <br />
+Date Added: 2017/05/04<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

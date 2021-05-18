@@ -4,21 +4,21 @@ title: Muse Vol. 1 - Celia
 date_read: None
 ---
 
-Book Id: 29865252\ 
-Title: Muse Vol. 1: Celia\ 
-Author: Denis-Pierre Filippi\ 
-Author l-f: Filippi, Denis-Pierre\ 
-Additional Authors: Terry Dodson, Quinn Donoghue, Katia Donoghue\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.15\ 
-Publisher: Humanoids\ 
-Binding: Kindle Edition\ 
-Number of Pages: 57\ 
-Year Published: 2014\ 
-Original Publication Year: 2006\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1948)\ 
+Book Id: 29865252<br />
+Title: Muse Vol. 1: Celia<br />
+Author: Denis-Pierre Filippi<br />
+Author l-f: Filippi, Denis-Pierre<br />
+Additional Authors: Terry Dodson, Quinn Donoghue, Katia Donoghue<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.15<br />
+Publisher: Humanoids<br />
+Binding: Kindle Edition<br />
+Number of Pages: 57<br />
+Year Published: 2014<br />
+Original Publication Year: 2006<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1948)<br />
 

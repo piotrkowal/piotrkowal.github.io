@@ -4,20 +4,20 @@ title: Moon Knight  no. 3
 date_read: None
 ---
 
-Book Id: 31808010\ 
-Title: Moon Knight #3\ 
-Author: Warren Ellis\ 
-Author l-f: Ellis, Warren\ 
-Additional Authors: Declan Shalvey, Jordie Bellaire, Chris Eliopoulos\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.94\ 
-Publisher: Marvel\ 
-Binding: Kindle Edition\ 
-Number of Pages: 22\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 31808010<br />
+Title: Moon Knight #3<br />
+Author: Warren Ellis<br />
+Author l-f: Ellis, Warren<br />
+Additional Authors: Declan Shalvey, Jordie Bellaire, Chris Eliopoulos<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.94<br />
+Publisher: Marvel<br />
+Binding: Kindle Edition<br />
+Number of Pages: 22<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

@@ -4,22 +4,22 @@ title: Armor Hunters - Bloodshot
 date_read: None
 ---
 
-Book Id: 23116815\ 
-Title: Armor Hunters: Bloodshot\ 
-Author: Joe Harris\ 
-Author l-f: Harris, Joe\ 
-Additional Authors: Trevor Hairsine, Ryan Winn\ 
-ISBN: 1939346460\ 
-ISBN13: 9781939346469\ 
-My Rating: 0\ 
-Average Rating: 3.51\ 
-Publisher: Valiant Entertainment, LLC\ 
-Binding: Paperback\ 
-Number of Pages: 112\ 
-Year Published: 2015\ 
-Original Publication Year: 2014\ 
-Date Read: \ 
-Date Added: 2019/03/24\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1261)\ 
+Book Id: 23116815<br />
+Title: Armor Hunters: Bloodshot<br />
+Author: Joe Harris<br />
+Author l-f: Harris, Joe<br />
+Additional Authors: Trevor Hairsine, Ryan Winn<br />
+ISBN: 1939346460<br />
+ISBN13: 9781939346469<br />
+My Rating: 0<br />
+Average Rating: 3.51<br />
+Publisher: Valiant Entertainment, LLC<br />
+Binding: Paperback<br />
+Number of Pages: 112<br />
+Year Published: 2015<br />
+Original Publication Year: 2014<br />
+Date Read: <br />
+Date Added: 2019/03/24<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1261)<br />
 

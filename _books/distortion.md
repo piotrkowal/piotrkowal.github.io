@@ -4,20 +4,20 @@ title: Distortion
 date_read: None
 ---
 
-Book Id: 49387479\ 
-Title: Distortion\ 
-Author: Cezary Zbierzchowski\ 
-Author l-f: Zbierzchowski, Cezary\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788366178069\ 
-My Rating: 0\ 
-Average Rating: 4.07\ 
-Publisher: Powergraph\ 
-Binding: Hardcover\ 
-Number of Pages: 512\ 
-Year Published: 2019\ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1797)\ 
+Book Id: 49387479<br />
+Title: Distortion<br />
+Author: Cezary Zbierzchowski<br />
+Author l-f: Zbierzchowski, Cezary<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788366178069<br />
+My Rating: 0<br />
+Average Rating: 4.07<br />
+Publisher: Powergraph<br />
+Binding: Hardcover<br />
+Number of Pages: 512<br />
+Year Published: 2019<br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1797)<br />
 

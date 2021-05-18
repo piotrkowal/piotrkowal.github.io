@@ -4,23 +4,23 @@ title: Jak pisać. Pamiętnik rzemieślnika
 date_read: None
 ---
 
-Book Id: 8923229\ 
-Title: Jak pisać. Pamiętnik rzemieślnika\ 
-Author: Stephen King\ 
-Author l-f: King, Stephen\ 
-Additional Authors: Paulina Braiter-Ziemkiewicz\ 
-ISBN: 8378397351\ 
-ISBN13: 9788378397359\ 
-My Rating: 0\ 
-Average Rating: 4.32\ 
-Publisher: Wydawnictwo Prószyński i S-ka\ 
-Binding: Paperback\ 
-Number of Pages: 256\ 
-Year Published: 2008\ 
-Original Publication Year: 2000\ 
-Date Read: \ 
-Date Added: 2021/02/05\ 
-Bookshelves: currently-reading\ 
-Bookshelves with positions: currently-reading (#18)\ 
-Read Count: 1\ 
+Book Id: 8923229<br />
+Title: Jak pisać. Pamiętnik rzemieślnika<br />
+Author: Stephen King<br />
+Author l-f: King, Stephen<br />
+Additional Authors: Paulina Braiter-Ziemkiewicz<br />
+ISBN: 8378397351<br />
+ISBN13: 9788378397359<br />
+My Rating: 0<br />
+Average Rating: 4.32<br />
+Publisher: Wydawnictwo Prószyński i S-ka<br />
+Binding: Paperback<br />
+Number of Pages: 256<br />
+Year Published: 2008<br />
+Original Publication Year: 2000<br />
+Date Read: <br />
+Date Added: 2021/02/05<br />
+Bookshelves: currently-reading<br />
+Bookshelves with positions: currently-reading (#18)<br />
+Read Count: 1<br />
 

@@ -4,20 +4,20 @@ title: The Twilight Zone Vol. 1
 date_read: None
 ---
 
-Book Id: 29799399\ 
-Title: The Twilight Zone Vol. 1\ 
-Author: J. Michael Straczynski\ 
-Author l-f: Straczynski, J. Michael\ 
-Additional Authors: Guiu Vilanova\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.83\ 
-Publisher: Dynamite\ 
-Binding: Kindle Edition\ 
-Number of Pages: 122\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#321)\ 
+Book Id: 29799399<br />
+Title: The Twilight Zone Vol. 1<br />
+Author: J. Michael Straczynski<br />
+Author l-f: Straczynski, J. Michael<br />
+Additional Authors: Guiu Vilanova<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.83<br />
+Publisher: Dynamite<br />
+Binding: Kindle Edition<br />
+Number of Pages: 122<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#321)<br />
 

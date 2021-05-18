@@ -4,20 +4,20 @@ title: Cells at Work!, Vol. 5
 date_read: None
 ---
 
-Book Id: 32171348\ 
-Title: Cells at Work!, Vol. 5\ 
-Author: Akane Shimizu\ 
-Author l-f: Shimizu, Akane\ 
-Additional Authors: \ 
-ISBN: 1632364263\ 
-ISBN13: 9781632364265\ 
-My Rating: 0\ 
-Average Rating: 4.42\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2017\ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#532)\ 
+Book Id: 32171348<br />
+Title: Cells at Work!, Vol. 5<br />
+Author: Akane Shimizu<br />
+Author l-f: Shimizu, Akane<br />
+Additional Authors: <br />
+ISBN: 1632364263<br />
+ISBN13: 9781632364265<br />
+My Rating: 0<br />
+Average Rating: 4.42<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2017<br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#532)<br />
 

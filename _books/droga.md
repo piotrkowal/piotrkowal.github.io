@@ -4,22 +4,22 @@ title: Droga
 date_read: None
 ---
 
-Book Id: 6120230\ 
-Title: Droga\ 
-Author: Cormac McCarthy\ 
-Author l-f: McCarthy, Cormac\ 
-Additional Authors: Robert Sudół\ 
-ISBN: 8308041787\ 
-ISBN13: 9788308041789\ 
-My Rating: 0\ 
-Average Rating: 3.97\ 
-Publisher: Wydawnictwo Literackie\ 
-Binding: paperback\ 
-Number of Pages: 268\ 
-Year Published: 2008\ 
-Original Publication Year: 2006\ 
-Date Read: \ 
-Date Added: 2021/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2083)\ 
+Book Id: 6120230<br />
+Title: Droga<br />
+Author: Cormac McCarthy<br />
+Author l-f: McCarthy, Cormac<br />
+Additional Authors: Robert Sudół<br />
+ISBN: 8308041787<br />
+ISBN13: 9788308041789<br />
+My Rating: 0<br />
+Average Rating: 3.97<br />
+Publisher: Wydawnictwo Literackie<br />
+Binding: paperback<br />
+Number of Pages: 268<br />
+Year Published: 2008<br />
+Original Publication Year: 2006<br />
+Date Read: <br />
+Date Added: 2021/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2083)<br />
 

@@ -4,20 +4,20 @@ title: Dreamland. Opiatowa epidemia w USA
 date_read: None
 ---
 
-Book Id: 54610542\ 
-Title: Dreamland. Opiatowa epidemia w USA\ 
-Author: Sam Quinones\ 
-Author l-f: Quinones, Sam\ 
-Additional Authors: Maciej Kositorny\ 
-ISBN: \ 
-ISBN13: 9788380497412\ 
-My Rating: 0\ 
-Average Rating: 4.24\ 
-Publisher: \ 
-Binding: ebook\ 
-Year Published: 2018\ 
-Original Publication Year: 2015\ 
-Date Added: 2019/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2208)\ 
+Book Id: 54610542<br />
+Title: Dreamland. Opiatowa epidemia w USA<br />
+Author: Sam Quinones<br />
+Author l-f: Quinones, Sam<br />
+Additional Authors: Maciej Kositorny<br />
+ISBN: <br />
+ISBN13: 9788380497412<br />
+My Rating: 0<br />
+Average Rating: 4.24<br />
+Publisher: <br />
+Binding: ebook<br />
+Year Published: 2018<br />
+Original Publication Year: 2015<br />
+Date Added: 2019/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2208)<br />
 

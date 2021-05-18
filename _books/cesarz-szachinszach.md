@@ -4,20 +4,20 @@ title: Cesarz, Szachinszach
 date_read: None
 ---
 
-Book Id: 18369061\ 
-Title: Cesarz, Szachinszach\ 
-Author: Ryszard Kapuściński\ 
-Author l-f: Kapuściński, Ryszard\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 5\ 
-Average Rating: 4.14\ 
-Publisher: Czytelnik\ 
-Binding: Paperback\ 
-Number of Pages: 304\ 
-Year Published: 1990\ 
-Date Added: 2016/12/06\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 18369061<br />
+Title: Cesarz, Szachinszach<br />
+Author: Ryszard Kapuściński<br />
+Author l-f: Kapuściński, Ryszard<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 5<br />
+Average Rating: 4.14<br />
+Publisher: Czytelnik<br />
+Binding: Paperback<br />
+Number of Pages: 304<br />
+Year Published: 1990<br />
+Date Added: 2016/12/06<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

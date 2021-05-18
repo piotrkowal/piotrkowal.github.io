@@ -4,19 +4,19 @@ title: Vinland Saga, Volume 3 - A Bloody Coming of Age
 date_read: None
 ---
 
-Book Id: 22018898\ 
-Title: Vinland Saga, Volume 3: A Bloody Coming of Age\ 
-Author: Makoto Yukimura\ 
-Author l-f: Yukimura, Makoto\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.58\ 
-Publisher: Kodansha Comics\ 
-Binding: Kindle Edition\ 
-Number of Pages: 454\ 
-Year Published: 2014\ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#537)\ 
+Book Id: 22018898<br />
+Title: Vinland Saga, Volume 3: A Bloody Coming of Age<br />
+Author: Makoto Yukimura<br />
+Author l-f: Yukimura, Makoto<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.58<br />
+Publisher: Kodansha Comics<br />
+Binding: Kindle Edition<br />
+Number of Pages: 454<br />
+Year Published: 2014<br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#537)<br />
 

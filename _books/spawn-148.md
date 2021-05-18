@@ -4,20 +4,20 @@ title: Spawn  no. 148
 date_read: None
 ---
 
-Book Id: 28685211\ 
-Title: Spawn #148\ 
-Author: Brian Holguin\ 
-Author l-f: Holguin, Brian\ 
-Additional Authors: Todd McFarlane, Brian Haberlin, Allen Martinez, Danny Miki, Victor Olazaba, Tom Orzechowski, Angel  Medina\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.86\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 23\ 
-Year Published: 2005\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1072)\ 
+Book Id: 28685211<br />
+Title: Spawn #148<br />
+Author: Brian Holguin<br />
+Author l-f: Holguin, Brian<br />
+Additional Authors: Todd McFarlane, Brian Haberlin, Allen Martinez, Danny Miki, Victor Olazaba, Tom Orzechowski, Angel  Medina<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.86<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 23<br />
+Year Published: 2005<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1072)<br />
 

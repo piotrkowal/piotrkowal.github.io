@@ -4,20 +4,20 @@ title: Beck Vol. 19
 date_read: None
 ---
 
-Book Id: 8527697\ 
-Title: Beck Vol. 19\ 
-Author: Harold Sakuishi\ 
-Author l-f: Sakuishi, Harold\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.25\ 
-Publisher: Elex Media Komputindo\ 
-Binding: Paperback\ 
-Number of Pages: 194\ 
-Year Published: 2010\ 
-Original Publication Year: 2004\ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1494)\ 
+Book Id: 8527697<br />
+Title: Beck Vol. 19<br />
+Author: Harold Sakuishi<br />
+Author l-f: Sakuishi, Harold<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.25<br />
+Publisher: Elex Media Komputindo<br />
+Binding: Paperback<br />
+Number of Pages: 194<br />
+Year Published: 2010<br />
+Original Publication Year: 2004<br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1494)<br />
 

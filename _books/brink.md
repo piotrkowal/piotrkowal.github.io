@@ -4,20 +4,20 @@ title: Brink
 date_read: None
 ---
 
-Book Id: 36336266\ 
-Title: Brink\ 
-Author: Dan Abnett\ 
-Author l-f: Abnett, Dan\ 
-Additional Authors: I.N.J. Culbard\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.91\ 
-Publisher: 2000 AD Graphic Novels\ 
-Binding: Kindle Edition\ 
-Number of Pages: 96\ 
-Year Published: 2017\ 
-Original Publication Year: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1860)\ 
+Book Id: 36336266<br />
+Title: Brink<br />
+Author: Dan Abnett<br />
+Author l-f: Abnett, Dan<br />
+Additional Authors: I.N.J. Culbard<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.91<br />
+Publisher: 2000 AD Graphic Novels<br />
+Binding: Kindle Edition<br />
+Number of Pages: 96<br />
+Year Published: 2017<br />
+Original Publication Year: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1860)<br />
 

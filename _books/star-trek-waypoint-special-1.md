@@ -4,20 +4,20 @@ title: Star Trek - Waypoint Special  no. 1
 date_read: None
 ---
 
-Book Id: 43160734\ 
-Title: Star Trek: Waypoint Special #1\ 
-Author: Dave Baker\ 
-Author l-f: Baker, Dave\ 
-Additional Authors: Nicole Goux, Brandon Easton, Jackson Lanzing, Collin Kelly, Matthew Smith, Josh Hood, Sonny Liew\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.82\ 
-Publisher: IDW\ 
-Binding: Kindle Edition\ 
-Number of Pages: 52\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1195)\ 
+Book Id: 43160734<br />
+Title: Star Trek: Waypoint Special #1<br />
+Author: Dave Baker<br />
+Author l-f: Baker, Dave<br />
+Additional Authors: Nicole Goux, Brandon Easton, Jackson Lanzing, Collin Kelly, Matthew Smith, Josh Hood, Sonny Liew<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.82<br />
+Publisher: IDW<br />
+Binding: Kindle Edition<br />
+Number of Pages: 52<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1195)<br />
 

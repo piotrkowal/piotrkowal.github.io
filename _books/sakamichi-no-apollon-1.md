@@ -4,22 +4,22 @@ title: Sakamichi No Apollon - 1
 date_read: None
 ---
 
-Book Id: 6351000\ 
-Title: Sakamichi No Apollon: 1\ 
-Author: Yuki Kodama\ 
-Author l-f: Kodama, Yuki\ 
-Additional Authors: 小玉ユキ\ 
-ISBN: 4091316700\ 
-ISBN13: 9784091316707\ 
-My Rating: 5\ 
-Average Rating: 4.27\ 
-Publisher: Shōgakukan\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2008\ 
-Date Read: \ 
-Date Added: 2016/10/19\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 6351000<br />
+Title: Sakamichi No Apollon: 1<br />
+Author: Yuki Kodama<br />
+Author l-f: Kodama, Yuki<br />
+Additional Authors: 小玉ユキ<br />
+ISBN: 4091316700<br />
+ISBN13: 9784091316707<br />
+My Rating: 5<br />
+Average Rating: 4.27<br />
+Publisher: Shōgakukan<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2008<br />
+Date Read: <br />
+Date Added: 2016/10/19<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

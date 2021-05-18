@@ -4,21 +4,21 @@ title: Slaine - Books Of Invasions Vol. 1
 date_read: None
 ---
 
-Book Id: 21298940\ 
-Title: Slaine: Books Of Invasions Vol. 1\ 
-Author: Pat Mills\ 
-Author l-f: Mills, Pat\ 
-Additional Authors: Clint Langley\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.91\ 
-Publisher: 2000 AD Graphic Novels\ 
-Binding: Kindle Edition\ 
-Number of Pages: 112\ 
-Year Published: 2013\ 
-Original Publication Year: 2006\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1867)\ 
+Book Id: 21298940<br />
+Title: Slaine: Books Of Invasions Vol. 1<br />
+Author: Pat Mills<br />
+Author l-f: Mills, Pat<br />
+Additional Authors: Clint Langley<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.91<br />
+Publisher: 2000 AD Graphic Novels<br />
+Binding: Kindle Edition<br />
+Number of Pages: 112<br />
+Year Published: 2013<br />
+Original Publication Year: 2006<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1867)<br />
 

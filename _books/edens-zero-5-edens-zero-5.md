@@ -4,20 +4,20 @@ title: EDENS ZERO 5 (Edens Zero,  no. 5)
 date_read: None
 ---
 
-Book Id: 44780188\ 
-Title: EDENS ZERO 5 (Edens Zero, #5)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: 4065156777\ 
-ISBN13: 9784065156773\ 
-My Rating: 0\ 
-Average Rating: 4.21\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2019\ 
-Date Added: 2020/04/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1338)\ 
+Book Id: 44780188<br />
+Title: EDENS ZERO 5 (Edens Zero, #5)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: 4065156777<br />
+ISBN13: 9784065156773<br />
+My Rating: 0<br />
+Average Rating: 4.21<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2019<br />
+Date Added: 2020/04/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1338)<br />
 

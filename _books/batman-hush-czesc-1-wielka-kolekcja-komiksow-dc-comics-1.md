@@ -4,22 +4,22 @@ title: Batman - Hush, część 1 (Wielka Kolekcja Komiksów DC Comics,  no. 1)
 date_read: None
 ---
 
-Book Id: 31694409\ 
-Title: Batman: Hush, część 1 (Wielka Kolekcja Komiksów DC Comics, #1)\ 
-Author: Jeph Loeb\ 
-Author l-f: Loeb, Jeph\ 
-Additional Authors: Jim Lee, Scott Williams, Alex Sinclair, Jarosław Grzędowicz, Marek Starosta\ 
-ISBN: \ 
-ISBN13: 9788377186015\ 
-My Rating: 0\ 
-Average Rating: 4.09\ 
-Publisher: Eaglemoss Collections\ 
-Binding: Hardcover\ 
-Number of Pages: 160\ 
-Year Published: 2016\ 
-Original Publication Year: 2002\ 
-Date Read: \ 
-Date Added: 2018/12/02\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 31694409<br />
+Title: Batman: Hush, część 1 (Wielka Kolekcja Komiksów DC Comics, #1)<br />
+Author: Jeph Loeb<br />
+Author l-f: Loeb, Jeph<br />
+Additional Authors: Jim Lee, Scott Williams, Alex Sinclair, Jarosław Grzędowicz, Marek Starosta<br />
+ISBN: <br />
+ISBN13: 9788377186015<br />
+My Rating: 0<br />
+Average Rating: 4.09<br />
+Publisher: Eaglemoss Collections<br />
+Binding: Hardcover<br />
+Number of Pages: 160<br />
+Year Published: 2016<br />
+Original Publication Year: 2002<br />
+Date Read: <br />
+Date Added: 2018/12/02<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

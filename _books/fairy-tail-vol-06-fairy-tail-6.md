@@ -4,22 +4,22 @@ title: Fairy Tail, Vol. 06 (Fairy Tail,  no. 6)
 date_read: None
 ---
 
-Book Id: 5071490\ 
-Title: Fairy Tail, Vol. 06 (Fairy Tail, #6)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: William Flanagan\ 
-ISBN: 0345506812\ 
-ISBN13: 9780345506818\ 
-My Rating: 0\ 
-Average Rating: 4.42\ 
-Publisher: Del Rey\ 
-Binding: Paperback\ 
-Number of Pages: 208\ 
-Year Published: 2009\ 
-Original Publication Year: 2007\ 
-Date Read: \ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1276)\ 
+Book Id: 5071490<br />
+Title: Fairy Tail, Vol. 06 (Fairy Tail, #6)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: William Flanagan<br />
+ISBN: 0345506812<br />
+ISBN13: 9780345506818<br />
+My Rating: 0<br />
+Average Rating: 4.42<br />
+Publisher: Del Rey<br />
+Binding: Paperback<br />
+Number of Pages: 208<br />
+Year Published: 2009<br />
+Original Publication Year: 2007<br />
+Date Read: <br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1276)<br />
 

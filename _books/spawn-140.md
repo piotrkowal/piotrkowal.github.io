@@ -4,20 +4,20 @@ title: Spawn  no. 140
 date_read: None
 ---
 
-Book Id: 28682905\ 
-Title: Spawn #140\ 
-Author: Brian Holguin\ 
-Author l-f: Holguin, Brian\ 
-Additional Authors: Todd McFarlane, Jay Fotos, Nat Jones, Tom Orzechowski\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.33\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 24\ 
-Year Published: 2004\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1064)\ 
+Book Id: 28682905<br />
+Title: Spawn #140<br />
+Author: Brian Holguin<br />
+Author l-f: Holguin, Brian<br />
+Additional Authors: Todd McFarlane, Jay Fotos, Nat Jones, Tom Orzechowski<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.33<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 24<br />
+Year Published: 2004<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1064)<br />
 

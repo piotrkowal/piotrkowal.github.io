@@ -4,22 +4,22 @@ title: Świnki morskie
 date_read: None
 ---
 
-Book Id: 32792645\ 
-Title: Świnki morskie\ 
-Author: Ludvík Vaculík\ 
-Author l-f: Vaculík, Ludvík\ 
-Additional Authors: Mirosław Śmigielski\ 
-ISBN: \ 
-ISBN13: 9788394478322\ 
-My Rating: 0\ 
-Average Rating: 3.63\ 
-Publisher: Stara Szkoła\ 
-Binding: Paperback\ 
-Number of Pages: 206\ 
-Year Published: 2016\ 
-Original Publication Year: 1970\ 
-Date Read: \ 
-Date Added: 2020/08/29\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1774)\ 
+Book Id: 32792645<br />
+Title: Świnki morskie<br />
+Author: Ludvík Vaculík<br />
+Author l-f: Vaculík, Ludvík<br />
+Additional Authors: Mirosław Śmigielski<br />
+ISBN: <br />
+ISBN13: 9788394478322<br />
+My Rating: 0<br />
+Average Rating: 3.63<br />
+Publisher: Stara Szkoła<br />
+Binding: Paperback<br />
+Number of Pages: 206<br />
+Year Published: 2016<br />
+Original Publication Year: 1970<br />
+Date Read: <br />
+Date Added: 2020/08/29<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1774)<br />
 

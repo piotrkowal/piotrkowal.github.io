@@ -4,21 +4,21 @@ title: Brom
 date_read: None
 ---
 
-Book Id: 45441469\ 
-Title: Brom\ 
-Author: Unka Odya\ 
-Author l-f: Odya, Unka\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788395376702\ 
-My Rating: 2\ 
-Average Rating: 3.64\ 
-Publisher: Wydawnictwo 23\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2019\ 
-Date Added: 2019/10/13\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 45441469<br />
+Title: Brom<br />
+Author: Unka Odya<br />
+Author l-f: Odya, Unka<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788395376702<br />
+My Rating: 2<br />
+Average Rating: 3.64<br />
+Publisher: Wydawnictwo 23<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2019<br />
+Date Added: 2019/10/13<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

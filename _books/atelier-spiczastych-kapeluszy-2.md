@@ -4,19 +4,19 @@ title: Atelier spiczastych kapeluszy 2
 date_read: None
 ---
 
-Book Id: 53109629\ 
-Title: Atelier spiczastych kapeluszy 2\ 
-Author: Kamome Shirahama\ 
-Author l-f: Shirahama, Kamome\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.41\ 
-Publisher: Kotori\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Original Publication Year: 2017\ 
-Date Added: 2020/01/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#705)\ 
+Book Id: 53109629<br />
+Title: Atelier spiczastych kapeluszy 2<br />
+Author: Kamome Shirahama<br />
+Author l-f: Shirahama, Kamome<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.41<br />
+Publisher: Kotori<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Original Publication Year: 2017<br />
+Date Added: 2020/01/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#705)<br />
 

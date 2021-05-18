@@ -4,21 +4,21 @@ title: Sankarea 3 - Undying Love
 date_read: None
 ---
 
-Book Id: 17316527\ 
-Title: Sankarea 3: Undying Love\ 
-Author: Mitsuru Hattori\ 
-Author l-f: Hattori, Mitsuru\ 
-Additional Authors: \ 
-ISBN: 1612623530\ 
-ISBN13: 9781612623535\ 
-My Rating: 0\ 
-Average Rating: 3.97\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2041)\ 
+Book Id: 17316527<br />
+Title: Sankarea 3: Undying Love<br />
+Author: Mitsuru Hattori<br />
+Author l-f: Hattori, Mitsuru<br />
+Additional Authors: <br />
+ISBN: 1612623530<br />
+ISBN13: 9781612623535<br />
+My Rating: 0<br />
+Average Rating: 3.97<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2041)<br />
 

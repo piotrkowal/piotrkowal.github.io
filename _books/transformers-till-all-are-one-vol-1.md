@@ -4,20 +4,20 @@ title: Transformers - Till All Are One Vol. 1
 date_read: None
 ---
 
-Book Id: 33834310\ 
-Title: Transformers: Till All Are One Vol. 1\ 
-Author: Mairghread Scott\ 
-Author l-f: Scott, Mairghread\ 
-Additional Authors: Sara Pitre-Durocher\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.02\ 
-Publisher: IDW\ 
-Binding: Kindle Edition\ 
-Number of Pages: 105\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#435)\ 
+Book Id: 33834310<br />
+Title: Transformers: Till All Are One Vol. 1<br />
+Author: Mairghread Scott<br />
+Author l-f: Scott, Mairghread<br />
+Additional Authors: Sara Pitre-Durocher<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.02<br />
+Publisher: IDW<br />
+Binding: Kindle Edition<br />
+Number of Pages: 105<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#435)<br />
 

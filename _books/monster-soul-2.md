@@ -4,18 +4,18 @@ title: Monster Soul 2
 date_read: None
 ---
 
-Book Id: 6548855\ 
-Title: Monster Soul 2\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.74\ 
-Publisher: PT. Elex Media Komputindo\ 
-Binding: Paperback\ 
-Original Publication Year: 2010\ 
-Date Added: 2020/04/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1376)\ 
+Book Id: 6548855<br />
+Title: Monster Soul 2<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.74<br />
+Publisher: PT. Elex Media Komputindo<br />
+Binding: Paperback<br />
+Original Publication Year: 2010<br />
+Date Added: 2020/04/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1376)<br />
 

@@ -4,20 +4,20 @@ title: フェアリーテイル 51 [Fearī Teiru 51] (Fairy Tail,  no. 51)
 date_read: None
 ---
 
-Book Id: 25380320\ 
-Title: フェアリーテイル 51 [Fearī Teiru 51] (Fairy Tail, #51)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: 4063954897\ 
-ISBN13: 9784063954890\ 
-My Rating: 0\ 
-Average Rating: 4.38\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2015\ 
-Date Added: 2020/04/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1321)\ 
+Book Id: 25380320<br />
+Title: フェアリーテイル 51 [Fearī Teiru 51] (Fairy Tail, #51)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: 4063954897<br />
+ISBN13: 9784063954890<br />
+My Rating: 0<br />
+Average Rating: 4.38<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2015<br />
+Date Added: 2020/04/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1321)<br />
 

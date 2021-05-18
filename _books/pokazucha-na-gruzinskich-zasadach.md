@@ -4,20 +4,20 @@ title: Pokazucha. Na gruzińskich zasadach
 date_read: None
 ---
 
-Book Id: 52217942\ 
-Title: Pokazucha. Na gruzińskich zasadach\ 
-Author: Stasia Budzisz\ 
-Author l-f: Budzisz, Stasia\ 
-Additional Authors: \ 
-ISBN: 836638151X\ 
-ISBN13: 9788366381513\ 
-My Rating: 0\ 
-Average Rating: 3.82\ 
-Publisher: Wydawnictwo Poznańskie\ 
-Binding: Hardcover\ 
-Number of Pages: 241\ 
-Year Published: 2019\ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1750)\ 
+Book Id: 52217942<br />
+Title: Pokazucha. Na gruzińskich zasadach<br />
+Author: Stasia Budzisz<br />
+Author l-f: Budzisz, Stasia<br />
+Additional Authors: <br />
+ISBN: 836638151X<br />
+ISBN13: 9788366381513<br />
+My Rating: 0<br />
+Average Rating: 3.82<br />
+Publisher: Wydawnictwo Poznańskie<br />
+Binding: Hardcover<br />
+Number of Pages: 241<br />
+Year Published: 2019<br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1750)<br />
 

@@ -4,22 +4,22 @@ title: Suppli, Tom 1
 date_read: None
 ---
 
-Book Id: 6444686\ 
-Title: Suppli, Tom 1\ 
-Author: Mari Okazaki\ 
-Author l-f: Okazaki, Mari\ 
-Additional Authors: Magdalena Tomaszewska-Bolałek\ 
-ISBN: 8360740038\ 
-ISBN13: 9788360740033\ 
-My Rating: 0\ 
-Average Rating: 3.71\ 
-Publisher: Hanami\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2007\ 
-Original Publication Year: 2004\ 
-Date Read: \ 
-Date Added: 2018/10/01\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 6444686<br />
+Title: Suppli, Tom 1<br />
+Author: Mari Okazaki<br />
+Author l-f: Okazaki, Mari<br />
+Additional Authors: Magdalena Tomaszewska-Bolałek<br />
+ISBN: 8360740038<br />
+ISBN13: 9788360740033<br />
+My Rating: 0<br />
+Average Rating: 3.71<br />
+Publisher: Hanami<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2007<br />
+Original Publication Year: 2004<br />
+Date Read: <br />
+Date Added: 2018/10/01<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

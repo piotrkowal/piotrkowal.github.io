@@ -4,22 +4,22 @@ title: Lost Dogs
 date_read: 2019/01/05
 ---
 
-Book Id: 13496721\ 
-Title: Lost Dogs\ 
-Author: Jeff Lemire\ 
-Author l-f: Lemire, Jeff\ 
-Additional Authors: \ 
-ISBN: 1603091548\ 
-ISBN13: 9781603091541\ 
-My Rating: 4\ 
-Average Rating: 3.61\ 
-Publisher: Top Shelf Productions\ 
-Binding: Paperback\ 
-Number of Pages: 104\ 
-Year Published: 2012\ 
-Original Publication Year: 2005\ 
-Date Read: 2019/01/05\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 13496721<br />
+Title: Lost Dogs<br />
+Author: Jeff Lemire<br />
+Author l-f: Lemire, Jeff<br />
+Additional Authors: <br />
+ISBN: 1603091548<br />
+ISBN13: 9781603091541<br />
+My Rating: 4<br />
+Average Rating: 3.61<br />
+Publisher: Top Shelf Productions<br />
+Binding: Paperback<br />
+Number of Pages: 104<br />
+Year Published: 2012<br />
+Original Publication Year: 2005<br />
+Date Read: 2019/01/05<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

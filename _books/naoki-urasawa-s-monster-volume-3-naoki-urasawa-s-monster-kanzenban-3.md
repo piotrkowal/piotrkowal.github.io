@@ -4,21 +4,21 @@ title: Naoki Urasawa's Monster, Volume 3 (Naoki Urasawa's Monster - Kanzenban,  
 date_read: None
 ---
 
-Book Id: 7478330\ 
-Title: Naoki Urasawa's Monster, Volume 3 (Naoki Urasawa's Monster: Kanzenban, #3)\ 
-Author: Naoki Urasawa\ 
-Author l-f: Urasawa, Naoki\ 
-Additional Authors: \ 
-ISBN: 846747663X\ 
-ISBN13: 9788467476637\ 
-My Rating: 0\ 
-Average Rating: 4.47\ 
-Publisher: Planeta DeAgostini\ 
-Binding: Paperback\ 
-Number of Pages: 433\ 
-Year Published: 2009\ 
-Original Publication Year: 2008\ 
-Date Added: 2018/11/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#93)\ 
+Book Id: 7478330<br />
+Title: Naoki Urasawa's Monster, Volume 3 (Naoki Urasawa's Monster: Kanzenban, #3)<br />
+Author: Naoki Urasawa<br />
+Author l-f: Urasawa, Naoki<br />
+Additional Authors: <br />
+ISBN: 846747663X<br />
+ISBN13: 9788467476637<br />
+My Rating: 0<br />
+Average Rating: 4.47<br />
+Publisher: Planeta DeAgostini<br />
+Binding: Paperback<br />
+Number of Pages: 433<br />
+Year Published: 2009<br />
+Original Publication Year: 2008<br />
+Date Added: 2018/11/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#93)<br />
 

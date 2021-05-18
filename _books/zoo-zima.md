@@ -4,23 +4,23 @@ title: Zoo zimą
 date_read: None
 ---
 
-Book Id: 22729483\ 
-Title: Zoo zimą\ 
-Author: Jirō Taniguchi\ 
-Author l-f: Taniguchi, Jirō\ 
-Additional Authors: Radosław Bolałek\ 
-ISBN: 8360740259\ 
-ISBN13: 9788360740255\ 
-My Rating: 4\ 
-Average Rating: 3.90\ 
-Publisher: Hanami\ 
-Binding: Paperback\ 
-Number of Pages: 236\ 
-Year Published: 2009\ 
-Original Publication Year: 2008\ 
-Date Read: \ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 22729483<br />
+Title: Zoo zimą<br />
+Author: Jirō Taniguchi<br />
+Author l-f: Taniguchi, Jirō<br />
+Additional Authors: Radosław Bolałek<br />
+ISBN: 8360740259<br />
+ISBN13: 9788360740255<br />
+My Rating: 4<br />
+Average Rating: 3.90<br />
+Publisher: Hanami<br />
+Binding: Paperback<br />
+Number of Pages: 236<br />
+Year Published: 2009<br />
+Original Publication Year: 2008<br />
+Date Read: <br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

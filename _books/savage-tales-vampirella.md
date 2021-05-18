@@ -4,20 +4,20 @@ title: Savage Tales - Vampirella
 date_read: None
 ---
 
-Book Id: 39729010\ 
-Title: Savage Tales: Vampirella\ 
-Author: Erik Burnham\ 
-Author l-f: Burnham, Erik\ 
-Additional Authors: Anthony Marques\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 2.83\ 
-Publisher: Dynamite\ 
-Binding: Kindle Edition\ 
-Number of Pages: 40\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1580)\ 
+Book Id: 39729010<br />
+Title: Savage Tales: Vampirella<br />
+Author: Erik Burnham<br />
+Author l-f: Burnham, Erik<br />
+Additional Authors: Anthony Marques<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 2.83<br />
+Publisher: Dynamite<br />
+Binding: Kindle Edition<br />
+Number of Pages: 40<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1580)<br />
 

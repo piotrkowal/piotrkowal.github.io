@@ -4,22 +4,22 @@ title: Diosamante
 date_read: None
 ---
 
-Book Id: 15953593\ 
-Title: Diosamante\ 
-Author: Alejandro Jodorowsky\ 
-Author l-f: Jodorowsky, Alejandro\ 
-Additional Authors: Jean-Claude Gal\ 
-ISBN: 1594650101\ 
-ISBN13: 9781594650109\ 
-My Rating: 0\ 
-Average Rating: 3.42\ 
-Publisher: Humanoids, Inc.\ 
-Binding: Hardcover\ 
-Number of Pages: 96\ 
-Year Published: 2012\ 
-Original Publication Year: 1992\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1947)\ 
+Book Id: 15953593<br />
+Title: Diosamante<br />
+Author: Alejandro Jodorowsky<br />
+Author l-f: Jodorowsky, Alejandro<br />
+Additional Authors: Jean-Claude Gal<br />
+ISBN: 1594650101<br />
+ISBN13: 9781594650109<br />
+My Rating: 0<br />
+Average Rating: 3.42<br />
+Publisher: Humanoids, Inc.<br />
+Binding: Hardcover<br />
+Number of Pages: 96<br />
+Year Published: 2012<br />
+Original Publication Year: 1992<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1947)<br />
 

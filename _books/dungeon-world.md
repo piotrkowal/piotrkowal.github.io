@@ -4,23 +4,23 @@ title: Dungeon World
 date_read: None
 ---
 
-Book Id: 17336078\ 
-Title: Dungeon World\ 
-Author: Sage LaTorra\ 
-Author l-f: LaTorra, Sage\ 
-Additional Authors: Adam Koebel\ 
-ISBN: 9760988639\ 
-ISBN13: \ 
-My Rating: 0\ 
-Average Rating: 4.25\ 
-Publisher: Sage Kobold Productions\ 
-Binding: Paperback\ 
-Number of Pages: 404\ 
-Year Published: 2012\ 
-Date Read: \ 
-Date Added: 2021/02/15\ 
-Bookshelves: kupka-wstydu, dom\ 
-Bookshelves with positions: kupka-wstydu (#2128), dom (#25)\ 
-Exclusive Shelf: kupka-wstydu\ 
-Read Count: 2\ 
+Book Id: 17336078<br />
+Title: Dungeon World<br />
+Author: Sage LaTorra<br />
+Author l-f: LaTorra, Sage<br />
+Additional Authors: Adam Koebel<br />
+ISBN: 9760988639<br />
+ISBN13: <br />
+My Rating: 0<br />
+Average Rating: 4.25<br />
+Publisher: Sage Kobold Productions<br />
+Binding: Paperback<br />
+Number of Pages: 404<br />
+Year Published: 2012<br />
+Date Read: <br />
+Date Added: 2021/02/15<br />
+Bookshelves: kupka-wstydu, dom<br />
+Bookshelves with positions: kupka-wstydu (#2128), dom (#25)<br />
+Exclusive Shelf: kupka-wstydu<br />
+Read Count: 2<br />
 

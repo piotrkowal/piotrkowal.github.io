@@ -4,20 +4,20 @@ title: フェアリーテイル 36 [Fearī Teiru 36] (Fairy Tail,  no. 36)
 date_read: None
 ---
 
-Book Id: 17337194\ 
-Title: フェアリーテイル 36 [Fearī Teiru 36] (Fairy Tail, #36)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: 4063848108\ 
-ISBN13: 9784063848106\ 
-My Rating: 0\ 
-Average Rating: 4.42\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2013\ 
-Date Added: 2020/04/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1306)\ 
+Book Id: 17337194<br />
+Title: フェアリーテイル 36 [Fearī Teiru 36] (Fairy Tail, #36)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: 4063848108<br />
+ISBN13: 9784063848106<br />
+My Rating: 0<br />
+Average Rating: 4.42<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2013<br />
+Date Added: 2020/04/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1306)<br />
 

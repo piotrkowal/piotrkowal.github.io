@@ -4,21 +4,21 @@ title: Usłyszeć ciepło słońca. Teoria szczęścia (Usłyszeć ciepło sło�
 date_read: None
 ---
 
-Book Id: 35260436\ 
-Title: Usłyszeć ciepło słońca. Teoria szczęścia (Usłyszeć ciepło słońca, #2)\ 
-Author: Yuki Fumino\ 
-Author l-f: Fumino, Yuki\ 
-Additional Authors: Lucyna Wawrzyniak\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.41\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 320\ 
-Year Published: 2017\ 
-Original Publication Year: 2016\ 
-Date Read: \ 
-Date Added: 2020/01/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#771)\ 
+Book Id: 35260436<br />
+Title: Usłyszeć ciepło słońca. Teoria szczęścia (Usłyszeć ciepło słońca, #2)<br />
+Author: Yuki Fumino<br />
+Author l-f: Fumino, Yuki<br />
+Additional Authors: Lucyna Wawrzyniak<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.41<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 320<br />
+Year Published: 2017<br />
+Original Publication Year: 2016<br />
+Date Read: <br />
+Date Added: 2020/01/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#771)<br />
 

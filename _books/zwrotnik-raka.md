@@ -4,22 +4,22 @@ title: Zwrotnik raka
 date_read: None
 ---
 
-Book Id: 35261550\ 
-Title: Zwrotnik raka\ 
-Author: Henry Miller\ 
-Author l-f: Miller, Henry\ 
-Additional Authors: Lesław Ludwig\ 
-ISBN: \ 
-ISBN13: 9788365613233\ 
-My Rating: 0\ 
-Average Rating: 3.67\ 
-Publisher: Noir sur Blanc\ 
-Binding: Hardcover\ 
-Number of Pages: 360\ 
-Year Published: 2017\ 
-Original Publication Year: 1934\ 
-Date Read: \ 
-Date Added: 2021/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2089)\ 
+Book Id: 35261550<br />
+Title: Zwrotnik raka<br />
+Author: Henry Miller<br />
+Author l-f: Miller, Henry<br />
+Additional Authors: Lesław Ludwig<br />
+ISBN: <br />
+ISBN13: 9788365613233<br />
+My Rating: 0<br />
+Average Rating: 3.67<br />
+Publisher: Noir sur Blanc<br />
+Binding: Hardcover<br />
+Number of Pages: 360<br />
+Year Published: 2017<br />
+Original Publication Year: 1934<br />
+Date Read: <br />
+Date Added: 2021/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2089)<br />
 

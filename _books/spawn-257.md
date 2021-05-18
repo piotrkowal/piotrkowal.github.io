@@ -4,18 +4,18 @@ title: Spawn  no. 257
 date_read: None
 ---
 
-Book Id: 26057166\ 
-Title: Spawn #257\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Szymon Kudranski, Jonboy Meyers\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.43\ 
-Publisher: Image Comics\ 
-Binding: \ 
-Year Published: 2015\ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1075)\ 
+Book Id: 26057166<br />
+Title: Spawn #257<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Szymon Kudranski, Jonboy Meyers<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.43<br />
+Publisher: Image Comics<br />
+Binding: <br />
+Year Published: 2015<br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1075)<br />
 

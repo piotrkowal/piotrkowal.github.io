@@ -4,19 +4,19 @@ title: Jak leczyć magiczne stworzenia  - dziennik medycyny magicznej  no. 1
 date_read: None
 ---
 
-Book Id: 52732515\ 
-Title: Jak leczyć magiczne stworzenia : dziennik medycyny magicznej #1\ 
-Author: Kaziya\ 
-Author l-f: Kaziya, Kaziya\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.91\ 
-Publisher: Studio JG\ 
-Number of Pages: 185\ 
-Year Published: 2019\ 
-Original Publication Year: 2017\ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#502)\ 
+Book Id: 52732515<br />
+Title: Jak leczyć magiczne stworzenia : dziennik medycyny magicznej #1<br />
+Author: Kaziya<br />
+Author l-f: Kaziya, Kaziya<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.91<br />
+Publisher: Studio JG<br />
+Number of Pages: 185<br />
+Year Published: 2019<br />
+Original Publication Year: 2017<br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#502)<br />
 

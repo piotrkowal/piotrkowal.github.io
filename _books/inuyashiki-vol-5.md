@@ -4,22 +4,22 @@ title: Inuyashiki, Vol. 5
 date_read: None
 ---
 
-Book Id: 28687036\ 
-Title: Inuyashiki, Vol. 5\ 
-Author: Hiroya Oku\ 
-Author l-f: Oku, Hiroya\ 
-Additional Authors: Stephen Paul, Scott Brown\ 
-ISBN: 163236297X\ 
-ISBN13: 9781632362971\ 
-My Rating: 0\ 
-Average Rating: 3.90\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 196\ 
-Year Published: 2016\ 
-Original Publication Year: 2015\ 
-Date Read: \ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2069)\ 
+Book Id: 28687036<br />
+Title: Inuyashiki, Vol. 5<br />
+Author: Hiroya Oku<br />
+Author l-f: Oku, Hiroya<br />
+Additional Authors: Stephen Paul, Scott Brown<br />
+ISBN: 163236297X<br />
+ISBN13: 9781632362971<br />
+My Rating: 0<br />
+Average Rating: 3.90<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 196<br />
+Year Published: 2016<br />
+Original Publication Year: 2015<br />
+Date Read: <br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2069)<br />
 

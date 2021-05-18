@@ -4,22 +4,22 @@ title: Remina. Gwiazda Piekieł
 date_read: None
 ---
 
-Book Id: 25432533\ 
-Title: Remina. Gwiazda Piekieł\ 
-Author: Junji Ito\ 
-Author l-f: Ito, Junji\ 
-Additional Authors: Paweł Dybała\ 
-ISBN: 8374713399\ 
-ISBN13: 9788374713399\ 
-My Rating: 0\ 
-Average Rating: 3.69\ 
-Publisher: Japonica Polonica Fantastica\ 
-Binding: Paperback\ 
-Number of Pages: 294\ 
-Year Published: 2014\ 
-Original Publication Year: 2005\ 
-Date Read: \ 
-Date Added: 2018/01/10\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 25432533<br />
+Title: Remina. Gwiazda Piekieł<br />
+Author: Junji Ito<br />
+Author l-f: Ito, Junji<br />
+Additional Authors: Paweł Dybała<br />
+ISBN: 8374713399<br />
+ISBN13: 9788374713399<br />
+My Rating: 0<br />
+Average Rating: 3.69<br />
+Publisher: Japonica Polonica Fantastica<br />
+Binding: Paperback<br />
+Number of Pages: 294<br />
+Year Published: 2014<br />
+Original Publication Year: 2005<br />
+Date Read: <br />
+Date Added: 2018/01/10<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

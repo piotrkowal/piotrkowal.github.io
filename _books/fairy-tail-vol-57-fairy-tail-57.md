@@ -4,20 +4,20 @@ title: Fairy Tail, Vol. 57 (Fairy Tail,  no. 57)
 date_read: None
 ---
 
-Book Id: 29093102\ 
-Title: Fairy Tail, Vol. 57 (Fairy Tail, #57)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: 1632362910\ 
-ISBN13: 9781632362919\ 
-My Rating: 0\ 
-Average Rating: 4.39\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2016\ 
-Date Added: 2020/04/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1327)\ 
+Book Id: 29093102<br />
+Title: Fairy Tail, Vol. 57 (Fairy Tail, #57)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: 1632362910<br />
+ISBN13: 9781632362919<br />
+My Rating: 0<br />
+Average Rating: 4.39<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2016<br />
+Date Added: 2020/04/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1327)<br />
 

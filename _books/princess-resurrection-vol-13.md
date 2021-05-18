@@ -4,20 +4,20 @@ title: Princess Resurrection, Vol. 13
 date_read: None
 ---
 
-Book Id: 35104339\ 
-Title: Princess Resurrection, Vol. 13\ 
-Author: Yasunori Mitsunaga\ 
-Author l-f: Mitsunaga, Yasunori\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.81\ 
-Publisher: Kodansha\ 
-Binding: Kindle Edition\ 
-Number of Pages: 191\ 
-Year Published: 2017\ 
-Original Publication Year: 2010\ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2062)\ 
+Book Id: 35104339<br />
+Title: Princess Resurrection, Vol. 13<br />
+Author: Yasunori Mitsunaga<br />
+Author l-f: Mitsunaga, Yasunori<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.81<br />
+Publisher: Kodansha<br />
+Binding: Kindle Edition<br />
+Number of Pages: 191<br />
+Year Published: 2017<br />
+Original Publication Year: 2010<br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2062)<br />
 

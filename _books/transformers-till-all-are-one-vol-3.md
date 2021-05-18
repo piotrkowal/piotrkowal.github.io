@@ -4,21 +4,21 @@ title: Transformers - Till All Are One, Vol. 3
 date_read: None
 ---
 
-Book Id: 34437787\ 
-Title: Transformers: Till All Are One, Vol. 3\ 
-Author: Mairghread Scott\ 
-Author l-f: Scott, Mairghread\ 
-Additional Authors: Sara Pitre-Durocher\ 
-ISBN: 1684050863\ 
-ISBN13: 9781684050864\ 
-My Rating: 0\ 
-Average Rating: 4.22\ 
-Publisher: IDW Publishing\ 
-Binding: Paperback\ 
-Number of Pages: 144\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2019/10/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#437)\ 
+Book Id: 34437787<br />
+Title: Transformers: Till All Are One, Vol. 3<br />
+Author: Mairghread Scott<br />
+Author l-f: Scott, Mairghread<br />
+Additional Authors: Sara Pitre-Durocher<br />
+ISBN: 1684050863<br />
+ISBN13: 9781684050864<br />
+My Rating: 0<br />
+Average Rating: 4.22<br />
+Publisher: IDW Publishing<br />
+Binding: Paperback<br />
+Number of Pages: 144<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2019/10/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#437)<br />
 

@@ -4,16 +4,16 @@ title: Żywoty Mężów Pomarańczowych
 date_read: None
 ---
 
-Book Id: 6037389\ 
-Title: Żywoty Mężów Pomarańczowych\ 
-Author: Fydrych Waldemar Major\ 
-Author l-f: Major, Fydrych Waldemar\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 2.50\ 
-Date Added: 2021/03/08\ 
-Bookshelves: dom, kupka-wstydu\ 
-Bookshelves with positions: dom (#5), kupka-wstydu (#2171)\ 
-Exclusive Shelf: kupka-wstydu\ 
+Book Id: 6037389<br />
+Title: Żywoty Mężów Pomarańczowych<br />
+Author: Fydrych Waldemar Major<br />
+Author l-f: Major, Fydrych Waldemar<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 2.50<br />
+Date Added: 2021/03/08<br />
+Bookshelves: dom, kupka-wstydu<br />
+Bookshelves with positions: dom (#5), kupka-wstydu (#2171)<br />
+Exclusive Shelf: kupka-wstydu<br />
 

@@ -4,23 +4,23 @@ title: Sur les ailes du monde, Audubon
 date_read: 2019/10/07
 ---
 
-Book Id: 29087228\ 
-Title: Sur les ailes du monde, Audubon\ 
-Author: Fabien Grolleau\ 
-Author l-f: Grolleau, Fabien\ 
-Additional Authors: Jérémie Royer\ 
-ISBN: \ 
-ISBN13: 9782205073577\ 
-My Rating: 5\ 
-Average Rating: 3.67\ 
-Publisher: Dargaud\ 
-Binding: Hardcover\ 
-Number of Pages: 174\ 
-Year Published: 2016\ 
-Date Read: 2019/10/07\ 
-Date Added: 2019/10/13\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 2\ 
-Owned Copies: 0\ 
+Book Id: 29087228<br />
+Title: Sur les ailes du monde, Audubon<br />
+Author: Fabien Grolleau<br />
+Author l-f: Grolleau, Fabien<br />
+Additional Authors: Jérémie Royer<br />
+ISBN: <br />
+ISBN13: 9782205073577<br />
+My Rating: 5<br />
+Average Rating: 3.67<br />
+Publisher: Dargaud<br />
+Binding: Hardcover<br />
+Number of Pages: 174<br />
+Year Published: 2016<br />
+Date Read: 2019/10/07<br />
+Date Added: 2019/10/13<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 2<br />
+Owned Copies: 0<br />
 

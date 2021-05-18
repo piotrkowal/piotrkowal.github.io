@@ -4,20 +4,20 @@ title: Summer Wars  no. 1
 date_read: None
 ---
 
-Book Id: 42295518\ 
-Title: Summer Wars #1\ 
-Author: Mamoru Hosoda\ 
-Author l-f: Hosoda, Mamoru\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788380963399\ 
-My Rating: 0\ 
-Average Rating: 3.98\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Year Published: 2018\ 
-Original Publication Year: 2009\ 
-Date Added: 2018/05/04\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 42295518<br />
+Title: Summer Wars #1<br />
+Author: Mamoru Hosoda<br />
+Author l-f: Hosoda, Mamoru<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788380963399<br />
+My Rating: 0<br />
+Average Rating: 3.98<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Year Published: 2018<br />
+Original Publication Year: 2009<br />
+Date Added: 2018/05/04<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

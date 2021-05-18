@@ -4,22 +4,22 @@ title: Opowieść Panny Młodej, tom 1 (Opowieść Panny Młodej,  no. 1)
 date_read: None
 ---
 
-Book Id: 18164945\ 
-Title: Opowieść Panny Młodej, tom 1 (Opowieść Panny Młodej, #1)\ 
-Author: Kaoru Mori\ 
-Author l-f: Mori, Kaoru\ 
-Additional Authors: Paulina Ślusarczyk\ 
-ISBN: 8361356681\ 
-ISBN13: 9788361356684\ 
-My Rating: 0\ 
-Average Rating: 4.23\ 
-Publisher: Studio JG\ 
-Binding: Hardcover\ 
-Number of Pages: 192\ 
-Year Published: 2013\ 
-Original Publication Year: 2009\ 
-Date Read: \ 
-Date Added: 2020/01/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#703)\ 
+Book Id: 18164945<br />
+Title: Opowieść Panny Młodej, tom 1 (Opowieść Panny Młodej, #1)<br />
+Author: Kaoru Mori<br />
+Author l-f: Mori, Kaoru<br />
+Additional Authors: Paulina Ślusarczyk<br />
+ISBN: 8361356681<br />
+ISBN13: 9788361356684<br />
+My Rating: 0<br />
+Average Rating: 4.23<br />
+Publisher: Studio JG<br />
+Binding: Hardcover<br />
+Number of Pages: 192<br />
+Year Published: 2013<br />
+Original Publication Year: 2009<br />
+Date Read: <br />
+Date Added: 2020/01/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#703)<br />
 

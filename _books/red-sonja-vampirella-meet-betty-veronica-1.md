@@ -4,20 +4,20 @@ title: Red Sonja & Vampirella Meet Betty & Veronica  no. 1
 date_read: None
 ---
 
-Book Id: 45581606\ 
-Title: Red Sonja & Vampirella Meet Betty & Veronica #1\ 
-Author: Amy Chu\ 
-Author l-f: Chu, Amy\ 
-Additional Authors: M.L. Sanapo\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.48\ 
-Publisher: Archie Comics\ 
-Binding: Kindle Edition\ 
-Number of Pages: 37\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#644)\ 
+Book Id: 45581606<br />
+Title: Red Sonja & Vampirella Meet Betty & Veronica #1<br />
+Author: Amy Chu<br />
+Author l-f: Chu, Amy<br />
+Additional Authors: M.L. Sanapo<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.48<br />
+Publisher: Archie Comics<br />
+Binding: Kindle Edition<br />
+Number of Pages: 37<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#644)<br />
 

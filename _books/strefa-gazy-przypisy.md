@@ -4,24 +4,24 @@ title: Strefa Gazy. Przypisy
 date_read: 2017/07/26
 ---
 
-Book Id: 34385426\ 
-Title: Strefa Gazy. Przypisy\ 
-Author: Joe Sacco\ 
-Author l-f: Sacco, Joe\ 
-Additional Authors: Marek Cieślik\ 
-ISBN: 8365527197\ 
-ISBN13: 9788365527196\ 
-My Rating: 5\ 
-Average Rating: 4.31\ 
-Publisher: Timof i cisi wspólnicy\ 
-Binding: Hardcover\ 
-Number of Pages: 424\ 
-Year Published: 2017\ 
-Original Publication Year: 2009\ 
-Date Read: 2017/07/26\ 
-Date Added: 2017/07/23\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 34385426<br />
+Title: Strefa Gazy. Przypisy<br />
+Author: Joe Sacco<br />
+Author l-f: Sacco, Joe<br />
+Additional Authors: Marek Cieślik<br />
+ISBN: 8365527197<br />
+ISBN13: 9788365527196<br />
+My Rating: 5<br />
+Average Rating: 4.31<br />
+Publisher: Timof i cisi wspólnicy<br />
+Binding: Hardcover<br />
+Number of Pages: 424<br />
+Year Published: 2017<br />
+Original Publication Year: 2009<br />
+Date Read: 2017/07/26<br />
+Date Added: 2017/07/23<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

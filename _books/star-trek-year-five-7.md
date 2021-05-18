@@ -4,19 +4,19 @@ title: Star Trek - Year Five  no. 7
 date_read: None
 ---
 
-Book Id: 48639766\ 
-Title: Star Trek: Year Five #7\ 
-Author: Jackson Lanzing\ 
-Author l-f: Lanzing, Jackson\ 
-Additional Authors: Collin Kelly, Stephen Thompson\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.10\ 
-Publisher: \ 
-Binding: Kindle Edition\ 
-Number of Pages: 29\ 
-Year Published: 2019\ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1226)\ 
+Book Id: 48639766<br />
+Title: Star Trek: Year Five #7<br />
+Author: Jackson Lanzing<br />
+Author l-f: Lanzing, Jackson<br />
+Additional Authors: Collin Kelly, Stephen Thompson<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.10<br />
+Publisher: <br />
+Binding: Kindle Edition<br />
+Number of Pages: 29<br />
+Year Published: 2019<br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1226)<br />
 

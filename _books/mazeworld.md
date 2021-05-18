@@ -4,21 +4,21 @@ title: Mazeworld
 date_read: None
 ---
 
-Book Id: 13112406\ 
-Title: Mazeworld\ 
-Author: Alan Grant\ 
-Author l-f: Grant, Alan\ 
-Additional Authors: Arthur Ranson\ 
-ISBN: 1907992480\ 
-ISBN13: 9781907992483\ 
-My Rating: 0\ 
-Average Rating: 3.80\ 
-Publisher: 2000 AD\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2011\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1841)\ 
+Book Id: 13112406<br />
+Title: Mazeworld<br />
+Author: Alan Grant<br />
+Author l-f: Grant, Alan<br />
+Additional Authors: Arthur Ranson<br />
+ISBN: 1907992480<br />
+ISBN13: 9781907992483<br />
+My Rating: 0<br />
+Average Rating: 3.80<br />
+Publisher: 2000 AD<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2011<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1841)<br />
 

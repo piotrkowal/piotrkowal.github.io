@@ -4,23 +4,23 @@ title: Na własny koszt - komiksowy pamiętnik bywalca burdeli
 date_read: None
 ---
 
-Book Id: 20812874\ 
-Title: Na własny koszt: komiksowy pamiętnik bywalca burdeli\ 
-Author: Chester Brown\ 
-Author l-f: Brown, Chester\ 
-Additional Authors: Hubert Brychczyński\ 
-ISBN: \ 
-ISBN13: 9788363892227\ 
-My Rating: 5\ 
-Average Rating: 3.63\ 
-Publisher: Centrala\ 
-Binding: Paperback\ 
-Number of Pages: 272\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Read: \ 
-Date Added: 2016/09/17\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 20812874<br />
+Title: Na własny koszt: komiksowy pamiętnik bywalca burdeli<br />
+Author: Chester Brown<br />
+Author l-f: Brown, Chester<br />
+Additional Authors: Hubert Brychczyński<br />
+ISBN: <br />
+ISBN13: 9788363892227<br />
+My Rating: 5<br />
+Average Rating: 3.63<br />
+Publisher: Centrala<br />
+Binding: Paperback<br />
+Number of Pages: 272<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Read: <br />
+Date Added: 2016/09/17<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

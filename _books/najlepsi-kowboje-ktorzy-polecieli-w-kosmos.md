@@ -4,22 +4,22 @@ title: Najlepsi. Kowboje, którzy polecieli w kosmos
 date_read: None
 ---
 
-Book Id: 40613353\ 
-Title: Najlepsi. Kowboje, którzy polecieli w kosmos\ 
-Author: Tom Wolfe\ 
-Author l-f: Wolfe, Tom\ 
-Additional Authors: Jan Kraśko\ 
-ISBN: 8326826464\ 
-ISBN13: 9788326826467\ 
-My Rating: 0\ 
-Average Rating: 4.21\ 
-Publisher: Agora S.A.\ 
-Binding: Paperback\ 
-Number of Pages: 512\ 
-Year Published: 2018\ 
-Original Publication Year: 1979\ 
-Date Read: \ 
-Date Added: 2020/08/29\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1780)\ 
+Book Id: 40613353<br />
+Title: Najlepsi. Kowboje, którzy polecieli w kosmos<br />
+Author: Tom Wolfe<br />
+Author l-f: Wolfe, Tom<br />
+Additional Authors: Jan Kraśko<br />
+ISBN: 8326826464<br />
+ISBN13: 9788326826467<br />
+My Rating: 0<br />
+Average Rating: 4.21<br />
+Publisher: Agora S.A.<br />
+Binding: Paperback<br />
+Number of Pages: 512<br />
+Year Published: 2018<br />
+Original Publication Year: 1979<br />
+Date Read: <br />
+Date Added: 2020/08/29<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1780)<br />
 

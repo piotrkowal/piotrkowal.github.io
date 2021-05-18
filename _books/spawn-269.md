@@ -4,17 +4,17 @@ title: Spawn  no. 269
 date_read: None
 ---
 
-Book Id: 33632742\ 
-Title: Spawn #269\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.50\ 
-Publisher: Image Comics\ 
-Year Published: 2017\ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1144)\ 
+Book Id: 33632742<br />
+Title: Spawn #269<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.50<br />
+Publisher: Image Comics<br />
+Year Published: 2017<br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1144)<br />
 

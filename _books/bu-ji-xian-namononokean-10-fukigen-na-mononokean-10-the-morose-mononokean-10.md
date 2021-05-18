@@ -4,21 +4,21 @@ title: 不機嫌なモノノケ庵 10 [Fukigen na Mononokean 10] (The Morose Mon
 date_read: 2018/11/22
 ---
 
-Book Id: 36441457\ 
-Title: 不機嫌なモノノケ庵 10 [Fukigen na Mononokean 10] (The Morose Mononokean, #10)\ 
-Author: Kiri Wazawa\ 
-Author l-f: Wazawa, Kiri\ 
-ISBN: 475755589X\ 
-ISBN13: 9784757555891\ 
-My Rating: 0\ 
-Average Rating: 4.46\ 
-Publisher: スクウェア・エニックス\ 
-Binding: Paperback\ 
-Number of Pages: 193\ 
-Year Published: 2018\ 
-Date Read: 2018/11/22\ 
-Date Added: 2018/11/06\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 36441457<br />
+Title: 不機嫌なモノノケ庵 10 [Fukigen na Mononokean 10] (The Morose Mononokean, #10)<br />
+Author: Kiri Wazawa<br />
+Author l-f: Wazawa, Kiri<br />
+ISBN: 475755589X<br />
+ISBN13: 9784757555891<br />
+My Rating: 0<br />
+Average Rating: 4.46<br />
+Publisher: スクウェア・エニックス<br />
+Binding: Paperback<br />
+Number of Pages: 193<br />
+Year Published: 2018<br />
+Date Read: 2018/11/22<br />
+Date Added: 2018/11/06<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

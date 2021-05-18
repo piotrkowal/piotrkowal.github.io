@@ -4,21 +4,21 @@ title: Love Hina Omnibus 5
 date_read: None
 ---
 
-Book Id: 13573058\ 
-Title: Love Hina Omnibus 5\ 
-Author: Ken Akamatsu\ 
-Author l-f: Akamatsu, Ken\ 
-Additional Authors: \ 
-ISBN: 1612620221\ 
-ISBN13: 9781612620220\ 
-My Rating: 0\ 
-Average Rating: 4.42\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 400\ 
-Year Published: 2013\ 
-Original Publication Year: 2012\ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1475)\ 
+Book Id: 13573058<br />
+Title: Love Hina Omnibus 5<br />
+Author: Ken Akamatsu<br />
+Author l-f: Akamatsu, Ken<br />
+Additional Authors: <br />
+ISBN: 1612620221<br />
+ISBN13: 9781612620220<br />
+My Rating: 0<br />
+Average Rating: 4.42<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 400<br />
+Year Published: 2013<br />
+Original Publication Year: 2012<br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1475)<br />
 

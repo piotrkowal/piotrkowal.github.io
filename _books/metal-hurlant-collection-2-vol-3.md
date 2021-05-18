@@ -4,19 +4,19 @@ title: Metal Hurlant Collection 2 Vol. 3
 date_read: None
 ---
 
-Book Id: 26633560\ 
-Title: Metal Hurlant Collection 2 Vol. 3\ 
-Author: Various\ 
-Author l-f: Various, Various\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.17\ 
-Publisher: Humanoids\ 
-Binding: Kindle Edition\ 
-Number of Pages: 208\ 
-Year Published: 2014\ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1955)\ 
+Book Id: 26633560<br />
+Title: Metal Hurlant Collection 2 Vol. 3<br />
+Author: Various<br />
+Author l-f: Various, Various<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.17<br />
+Publisher: Humanoids<br />
+Binding: Kindle Edition<br />
+Number of Pages: 208<br />
+Year Published: 2014<br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1955)<br />
 

@@ -4,19 +4,19 @@ title: Star Trek - Discovery - Aftermath  no. 1
 date_read: None
 ---
 
-Book Id: 46130140\ 
-Title: Star Trek: Discovery: Aftermath #1\ 
-Author: Kirsten Beyer\ 
-Author l-f: Beyer, Kirsten\ 
-Additional Authors: Mike Johnson, Tony Shasteen\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.93\ 
-Publisher: \ 
-Binding: Kindle Edition\ 
-Number of Pages: 31\ 
-Year Published: 2019\ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1214)\ 
+Book Id: 46130140<br />
+Title: Star Trek: Discovery: Aftermath #1<br />
+Author: Kirsten Beyer<br />
+Author l-f: Beyer, Kirsten<br />
+Additional Authors: Mike Johnson, Tony Shasteen<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.93<br />
+Publisher: <br />
+Binding: Kindle Edition<br />
+Number of Pages: 31<br />
+Year Published: 2019<br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1214)<br />
 

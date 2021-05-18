@@ -4,21 +4,21 @@ title: Book of Death
 date_read: None
 ---
 
-Book Id: 26783213\ 
-Title: Book of Death\ 
-Author: Robert Venditti\ 
-Author l-f: Venditti, Robert\ 
-Additional Authors: Robert Gill, Doug Braithwaite\ 
-ISBN: 1939346975\ 
-ISBN13: 9781939346971\ 
-My Rating: 0\ 
-Average Rating: 3.62\ 
-Publisher: Valiant Entertainment, LLC\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1250)\ 
+Book Id: 26783213<br />
+Title: Book of Death<br />
+Author: Robert Venditti<br />
+Author l-f: Venditti, Robert<br />
+Additional Authors: Robert Gill, Doug Braithwaite<br />
+ISBN: 1939346975<br />
+ISBN13: 9781939346971<br />
+My Rating: 0<br />
+Average Rating: 3.62<br />
+Publisher: Valiant Entertainment, LLC<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1250)<br />
 

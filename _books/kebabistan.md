@@ -4,19 +4,19 @@ title: Kebabistan
 date_read: None
 ---
 
-Book Id: 43402854\ 
-Title: Kebabistan\ 
-Author: Krystian Nowak\ 
-Author l-f: Nowak, Krystian\ 
-Additional Authors: Jakub Szafrański\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.92\ 
-Publisher: Wydawnictwo Krytyki Politycznej\ 
-Binding: ebook\ 
-Number of Pages: \ 
-Year Published: 2020\ 
-Date Added: 2020/07/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2105)\ 
+Book Id: 43402854<br />
+Title: Kebabistan<br />
+Author: Krystian Nowak<br />
+Author l-f: Nowak, Krystian<br />
+Additional Authors: Jakub Szafrański<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.92<br />
+Publisher: Wydawnictwo Krytyki Politycznej<br />
+Binding: ebook<br />
+Number of Pages: <br />
+Year Published: 2020<br />
+Date Added: 2020/07/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2105)<br />
 

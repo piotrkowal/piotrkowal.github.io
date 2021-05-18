@@ -4,20 +4,20 @@ title: Robert Jordan’s The Wheel of Time - The Eye of the World  no. 2
 date_read: None
 ---
 
-Book Id: 23998213\ 
-Title: Robert Jordan’s The Wheel of Time: The Eye of the World #2\ 
-Author: Chuck Dixon\ 
-Author l-f: Dixon, Chuck\ 
-Additional Authors: Robert Jordan, Chase Conley\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.19\ 
-Publisher: Dynamite Entertainment\ 
-Binding: ebook\ 
-Number of Pages: 24\ 
-Year Published: 2011\ 
-Date Read: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1582)\ 
+Book Id: 23998213<br />
+Title: Robert Jordan’s The Wheel of Time: The Eye of the World #2<br />
+Author: Chuck Dixon<br />
+Author l-f: Dixon, Chuck<br />
+Additional Authors: Robert Jordan, Chase Conley<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.19<br />
+Publisher: Dynamite Entertainment<br />
+Binding: ebook<br />
+Number of Pages: 24<br />
+Year Published: 2011<br />
+Date Read: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1582)<br />
 

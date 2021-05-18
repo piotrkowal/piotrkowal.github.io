@@ -4,20 +4,20 @@ title: Transformers (2011-) Vol. 7 (Transformers - Robots In Disguise (2011-))
 date_read: None
 ---
 
-Book Id: 25487506\ 
-Title: Transformers (2011-) Vol. 7 (Transformers: Robots In Disguise (2011-))\ 
-Author: John Barber\ 
-Author l-f: Barber, John\ 
-Additional Authors: Sarah Stone, Livio Ramondelli, Andrew Griffith, Casey W. Coller\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.94\ 
-Publisher: IDW Publishing\ 
-Binding: Kindle Edition\ 
-Number of Pages: 152\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2019/10/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#386)\ 
+Book Id: 25487506<br />
+Title: Transformers (2011-) Vol. 7 (Transformers: Robots In Disguise (2011-))<br />
+Author: John Barber<br />
+Author l-f: Barber, John<br />
+Additional Authors: Sarah Stone, Livio Ramondelli, Andrew Griffith, Casey W. Coller<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.94<br />
+Publisher: IDW Publishing<br />
+Binding: Kindle Edition<br />
+Number of Pages: 152<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2019/10/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#386)<br />
 

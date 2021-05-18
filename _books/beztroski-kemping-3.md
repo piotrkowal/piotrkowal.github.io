@@ -4,21 +4,21 @@ title: Beztroski kemping  no. 3
 date_read: None
 ---
 
-Book Id: 45710695\ 
-Title: Beztroski kemping #3\ 
-Author: Afro\ 
-Author l-f: Afro, Afro\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 4\ 
-Average Rating: 4.27\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 178\ 
-Year Published: 2019\ 
-Original Publication Year: 2017\ 
-Date Added: 2020/01/12\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 45710695<br />
+Title: Beztroski kemping #3<br />
+Author: Afro<br />
+Author l-f: Afro, Afro<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 4<br />
+Average Rating: 4.27<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 178<br />
+Year Published: 2019<br />
+Original Publication Year: 2017<br />
+Date Added: 2020/01/12<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

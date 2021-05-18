@@ -4,18 +4,18 @@ title: Dragons Rioting  no. 7
 date_read: None
 ---
 
-Book Id: 42266441\ 
-Title: Dragons Rioting #7\ 
-Author: Tsuyoshi Watanabe\ 
-Author l-f: Watanabe, Tsuyoshi\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788380961395\ 
-My Rating: 0\ 
-Average Rating: 3.82\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Year Published: 2016\ 
-Date Added: 2018/10/09\ 
-Exclusive Shelf: read\ 
+Book Id: 42266441<br />
+Title: Dragons Rioting #7<br />
+Author: Tsuyoshi Watanabe<br />
+Author l-f: Watanabe, Tsuyoshi<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788380961395<br />
+My Rating: 0<br />
+Average Rating: 3.82<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Year Published: 2016<br />
+Date Added: 2018/10/09<br />
+Exclusive Shelf: read<br />
 

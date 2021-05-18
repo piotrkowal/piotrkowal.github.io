@@ -4,20 +4,20 @@ title: 黄昏乙女×アムネジア 5 [Tasogare Otome×Amnesia 5] (Dusk Maiden 
 date_read: None
 ---
 
-Book Id: 23480689\ 
-Title: 黄昏乙女×アムネジア 5 [Tasogare Otome×Amnesia 5] (Dusk Maiden of Amnesia, #5)\ 
-Author: Maybe\ 
-Author l-f: Maybe, Maybe\ 
-Additional Authors: \ 
-ISBN: 4757532938\ 
-ISBN13: 9784757532939\ 
-My Rating: 0\ 
-Average Rating: 4.18\ 
-Publisher: スクウェア・エニックス\ 
-Binding: Paperback\ 
-Number of Pages: 184\ 
-Year Published: 2011\ 
-Date Added: 2018/12/17\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#117)\ 
+Book Id: 23480689<br />
+Title: 黄昏乙女×アムネジア 5 [Tasogare Otome×Amnesia 5] (Dusk Maiden of Amnesia, #5)<br />
+Author: Maybe<br />
+Author l-f: Maybe, Maybe<br />
+Additional Authors: <br />
+ISBN: 4757532938<br />
+ISBN13: 9784757532939<br />
+My Rating: 0<br />
+Average Rating: 4.18<br />
+Publisher: スクウェア・エニックス<br />
+Binding: Paperback<br />
+Number of Pages: 184<br />
+Year Published: 2011<br />
+Date Added: 2018/12/17<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#117)<br />
 

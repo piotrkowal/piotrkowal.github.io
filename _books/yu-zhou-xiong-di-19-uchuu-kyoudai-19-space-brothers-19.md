@@ -4,20 +4,20 @@ title: 宇宙兄弟 19 [Uchuu Kyoudai 19] (Space Brothers,  no. 19)
 date_read: None
 ---
 
-Book Id: 18995750\ 
-Title: 宇宙兄弟 19 [Uchuu Kyoudai 19] (Space Brothers, #19)\ 
-Author: Chuya Koyama\ 
-Author l-f: Koyama, Chuya\ 
-Additional Authors: 小山宙哉\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.44\ 
-Publisher: 講談社\ 
-Binding: Kindle Edition\ 
-Number of Pages: 208\ 
-Year Published: 2012\ 
-Date Read: \ 
-Date Added: 2020/05/25\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1445)\ 
+Book Id: 18995750<br />
+Title: 宇宙兄弟 19 [Uchuu Kyoudai 19] (Space Brothers, #19)<br />
+Author: Chuya Koyama<br />
+Author l-f: Koyama, Chuya<br />
+Additional Authors: 小山宙哉<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.44<br />
+Publisher: 講談社<br />
+Binding: Kindle Edition<br />
+Number of Pages: 208<br />
+Year Published: 2012<br />
+Date Read: <br />
+Date Added: 2020/05/25<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1445)<br />
 

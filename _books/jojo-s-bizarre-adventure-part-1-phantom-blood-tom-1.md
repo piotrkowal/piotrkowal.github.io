@@ -4,24 +4,24 @@ title: JoJo's Bizarre Adventure - Part 1 - Phantom Blood. Tom 1
 date_read: None
 ---
 
-Book Id: 54995948\ 
-Title: JoJo's Bizarre Adventure: Part 1 - Phantom Blood. Tom 1\ 
-Author: Hirohiko Araki\ 
-Author l-f: Araki, Hirohiko\ 
-Additional Authors: Michał Żmijewski\ 
-ISBN: \ 
-ISBN13: 9788374718318\ 
-My Rating: 4\ 
-Average Rating: 4.09\ 
-Publisher:  J.P.Fantastica\ 
-Binding: Paperback\ 
-Number of Pages: 312\ 
-Year Published: 2020\ 
-Original Publication Year: 2002\ 
-Date Read: \ 
-Date Added: 2020/11/07\ 
-Exclusive Shelf: read\ 
-My Review: Ależ to drewniane\ 
-Read Count: 2\ 
-Owned Copies: 0\ 
+Book Id: 54995948<br />
+Title: JoJo's Bizarre Adventure: Part 1 - Phantom Blood. Tom 1<br />
+Author: Hirohiko Araki<br />
+Author l-f: Araki, Hirohiko<br />
+Additional Authors: Michał Żmijewski<br />
+ISBN: <br />
+ISBN13: 9788374718318<br />
+My Rating: 4<br />
+Average Rating: 4.09<br />
+Publisher:  J.P.Fantastica<br />
+Binding: Paperback<br />
+Number of Pages: 312<br />
+Year Published: 2020<br />
+Original Publication Year: 2002<br />
+Date Read: <br />
+Date Added: 2020/11/07<br />
+Exclusive Shelf: read<br />
+My Review: Ależ to drewniane<br />
+Read Count: 2<br />
+Owned Copies: 0<br />
 

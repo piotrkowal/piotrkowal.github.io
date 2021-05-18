@@ -4,21 +4,21 @@ title: Aniołowie Zbrodni  no. 2
 date_read: None
 ---
 
-Book Id: 42299489\ 
-Title: Aniołowie Zbrodni #2\ 
-Author: Kudan Naduka\ 
-Author l-f: Naduka, Kudan\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788380964136\ 
-My Rating: 0\ 
-Average Rating: 4.25\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Year Published: 2018\ 
-Original Publication Year: 2016\ 
-Date Added: 2018/10/14\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#34)\ 
-Read Count: 1\ 
+Book Id: 42299489<br />
+Title: Aniołowie Zbrodni #2<br />
+Author: Kudan Naduka<br />
+Author l-f: Naduka, Kudan<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788380964136<br />
+My Rating: 0<br />
+Average Rating: 4.25<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Year Published: 2018<br />
+Original Publication Year: 2016<br />
+Date Added: 2018/10/14<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#34)<br />
+Read Count: 1<br />
 

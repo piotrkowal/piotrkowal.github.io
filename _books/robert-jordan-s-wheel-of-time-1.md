@@ -4,19 +4,19 @@ title: Robert Jordan's Wheel of Time  no. 1
 date_read: None
 ---
 
-Book Id: 22632007\ 
-Title: Robert Jordan's Wheel of Time #1\ 
-Author: Chuck Dixon\ 
-Author l-f: Dixon, Chuck\ 
-Additional Authors: Chase Conley, Robert Jordan\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.08\ 
-Publisher: Dynamite\ 
-Binding: Comic Book\ 
-Number of Pages: 64\ 
-Year Published: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1581)\ 
+Book Id: 22632007<br />
+Title: Robert Jordan's Wheel of Time #1<br />
+Author: Chuck Dixon<br />
+Author l-f: Dixon, Chuck<br />
+Additional Authors: Chase Conley, Robert Jordan<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.08<br />
+Publisher: Dynamite<br />
+Binding: Comic Book<br />
+Number of Pages: 64<br />
+Year Published: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1581)<br />
 

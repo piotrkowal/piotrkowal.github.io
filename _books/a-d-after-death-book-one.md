@@ -4,20 +4,20 @@ title: A.D. After Death, Book One
 date_read: None
 ---
 
-Book Id: 25534845\ 
-Title: A.D. After Death, Book One\ 
-Author: Scott Snyder\ 
-Author l-f: Snyder, Scott\ 
-Additional Authors: Jeff Lemire\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.70\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 70\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#509)\ 
+Book Id: 25534845<br />
+Title: A.D. After Death, Book One<br />
+Author: Scott Snyder<br />
+Author l-f: Snyder, Scott<br />
+Additional Authors: Jeff Lemire<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.70<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 70<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#509)<br />
 

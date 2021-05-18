@@ -4,20 +4,20 @@ title: Spawn  no. 171
 date_read: None
 ---
 
-Book Id: 28805010\ 
-Title: Spawn #171\ 
-Author: David Hine\ 
-Author l-f: Hine, David\ 
-Additional Authors: Andy Troy, Brian Haberlin, Tom Orzechowski\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.67\ 
-Publisher: Image - Todd McFarlane Productions\ 
-Binding: Kindle Edition\ 
-Number of Pages: 24\ 
-Year Published: 2007\ 
-Original Publication Year: \ 
-Date Added: 2020/04/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1019)\ 
+Book Id: 28805010<br />
+Title: Spawn #171<br />
+Author: David Hine<br />
+Author l-f: Hine, David<br />
+Additional Authors: Andy Troy, Brian Haberlin, Tom Orzechowski<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.67<br />
+Publisher: Image - Todd McFarlane Productions<br />
+Binding: Kindle Edition<br />
+Number of Pages: 24<br />
+Year Published: 2007<br />
+Original Publication Year: <br />
+Date Added: 2020/04/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1019)<br />
 

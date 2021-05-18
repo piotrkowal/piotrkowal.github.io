@@ -4,21 +4,21 @@ title: Mars, Vol. 9
 date_read: None
 ---
 
-Book Id: 543968\ 
-Title: Mars, Vol. 9\ 
-Author: Fuyumi Soryo\ 
-Author l-f: Soryo, Fuyumi\ 
-Additional Authors: \ 
-ISBN: 1591821053\ 
-ISBN13: 9781591821052\ 
-My Rating: 0\ 
-Average Rating: 4.36\ 
-Publisher: Tokyopop\ 
-Binding: Paperback\ 
-Number of Pages: 200\ 
-Year Published: 2003\ 
-Original Publication Year: 1999\ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#488)\ 
+Book Id: 543968<br />
+Title: Mars, Vol. 9<br />
+Author: Fuyumi Soryo<br />
+Author l-f: Soryo, Fuyumi<br />
+Additional Authors: <br />
+ISBN: 1591821053<br />
+ISBN13: 9781591821052<br />
+My Rating: 0<br />
+Average Rating: 4.36<br />
+Publisher: Tokyopop<br />
+Binding: Paperback<br />
+Number of Pages: 200<br />
+Year Published: 2003<br />
+Original Publication Year: 1999<br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#488)<br />
 

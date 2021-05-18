@@ -4,22 +4,22 @@ title: Trupia Farma. Sekrety legendarnego laboratorium sądowego, gdzie zmarli o
 date_read: None
 ---
 
-Book Id: 15770319\ 
-Title: Trupia Farma. Sekrety legendarnego laboratorium sądowego, gdzie zmarli opowiadają swoje historie\ 
-Author: William M. Bass\ 
-Author l-f: Bass, William M.\ 
-Additional Authors: Jon Jefferson, Janusz Ochab\ 
-ISBN: 8324016562\ 
-ISBN13: 9788324016563\ 
-My Rating: 0\ 
-Average Rating: 4.20\ 
-Publisher: Społeczny Instytut Wydawniczy Znak\ 
-Binding: Paperback\ 
-Number of Pages: 344\ 
-Year Published: 2012\ 
-Original Publication Year: 2003\ 
-Date Read: \ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1743)\ 
+Book Id: 15770319<br />
+Title: Trupia Farma. Sekrety legendarnego laboratorium sądowego, gdzie zmarli opowiadają swoje historie<br />
+Author: William M. Bass<br />
+Author l-f: Bass, William M.<br />
+Additional Authors: Jon Jefferson, Janusz Ochab<br />
+ISBN: 8324016562<br />
+ISBN13: 9788324016563<br />
+My Rating: 0<br />
+Average Rating: 4.20<br />
+Publisher: Społeczny Instytut Wydawniczy Znak<br />
+Binding: Paperback<br />
+Number of Pages: 344<br />
+Year Published: 2012<br />
+Original Publication Year: 2003<br />
+Date Read: <br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1743)<br />
 

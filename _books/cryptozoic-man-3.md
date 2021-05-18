@@ -4,20 +4,20 @@ title: Cryptozoic Man  no. 3
 date_read: None
 ---
 
-Book Id: 18659254\ 
-Title: Cryptozoic Man #3\ 
-Author: Walter Flanagan\ 
-Author l-f: Flanagan, Walter\ 
-Additional Authors: Bryan Johnson\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 2.41\ 
-Publisher: Dynamite Entertainment\ 
-Binding: ebook\ 
-Number of Pages: 32\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#936)\ 
+Book Id: 18659254<br />
+Title: Cryptozoic Man #3<br />
+Author: Walter Flanagan<br />
+Author l-f: Flanagan, Walter<br />
+Additional Authors: Bryan Johnson<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 2.41<br />
+Publisher: Dynamite Entertainment<br />
+Binding: ebook<br />
+Number of Pages: 32<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#936)<br />
 

@@ -4,20 +4,20 @@ title: Robert Jordan's Wheel of Time - Eye of the World  no. 4 (Robert Jordan's 
 date_read: None
 ---
 
-Book Id: 23879659\ 
-Title: Robert Jordan's Wheel of Time: Eye of the World #4 (Robert Jordan's Wheel of Time:The Eye of the World)\ 
-Author: Chuck Dixon\ 
-Author l-f: Dixon, Chuck\ 
-Additional Authors: Robert Jordan, Chase Conley, Nicolas Chapuis\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.95\ 
-Publisher: Dynamite\ 
-Binding: Kindle Edition\ 
-Number of Pages: 23\ 
-Year Published: 2010\ 
-Original Publication Year: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1584)\ 
+Book Id: 23879659<br />
+Title: Robert Jordan's Wheel of Time: Eye of the World #4 (Robert Jordan's Wheel of Time:The Eye of the World)<br />
+Author: Chuck Dixon<br />
+Author l-f: Dixon, Chuck<br />
+Additional Authors: Robert Jordan, Chase Conley, Nicolas Chapuis<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.95<br />
+Publisher: Dynamite<br />
+Binding: Kindle Edition<br />
+Number of Pages: 23<br />
+Year Published: 2010<br />
+Original Publication Year: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1584)<br />
 

@@ -4,21 +4,21 @@ title: Hellboy Omnibus Volume 1 - Seed of Destruction
 date_read: None
 ---
 
-Book Id: 36290217\ 
-Title: Hellboy Omnibus Volume 1: Seed of Destruction\ 
-Author: Mike Mignola\ 
-Author l-f: Mignola, Mike\ 
-Additional Authors: John Byrne, Mark Chiarello, Dave    Stewart\ 
-ISBN: 1506706665\ 
-ISBN13: 9781506706665\ 
-My Rating: 0\ 
-Average Rating: 4.43\ 
-Publisher: Dark Horse Books\ 
-Binding: Paperback\ 
-Number of Pages: 368\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2019/10/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#129)\ 
+Book Id: 36290217<br />
+Title: Hellboy Omnibus Volume 1: Seed of Destruction<br />
+Author: Mike Mignola<br />
+Author l-f: Mignola, Mike<br />
+Additional Authors: John Byrne, Mark Chiarello, Dave    Stewart<br />
+ISBN: 1506706665<br />
+ISBN13: 9781506706665<br />
+My Rating: 0<br />
+Average Rating: 4.43<br />
+Publisher: Dark Horse Books<br />
+Binding: Paperback<br />
+Number of Pages: 368<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2019/10/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#129)<br />
 

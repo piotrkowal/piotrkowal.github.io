@@ -4,21 +4,21 @@ title: A Game of Thrones  no. 1
 date_read: None
 ---
 
-Book Id: 18337259\ 
-Title: A Game of Thrones #1\ 
-Author: Daniel Abraham\ 
-Author l-f: Abraham, Daniel\ 
-Additional Authors: George R.R. Martin, Tommy Patterson\ 
-ISBN: \ 
-ISBN13: 9780345536150\ 
-My Rating: 0\ 
-Average Rating: 4.62\ 
-Publisher: Bantam\ 
-Binding: ebook\ 
-Number of Pages: 32\ 
-Year Published: 2011\ 
-Date Read: \ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#327)\ 
+Book Id: 18337259<br />
+Title: A Game of Thrones #1<br />
+Author: Daniel Abraham<br />
+Author l-f: Abraham, Daniel<br />
+Additional Authors: George R.R. Martin, Tommy Patterson<br />
+ISBN: <br />
+ISBN13: 9780345536150<br />
+My Rating: 0<br />
+Average Rating: 4.62<br />
+Publisher: Bantam<br />
+Binding: ebook<br />
+Number of Pages: 32<br />
+Year Published: 2011<br />
+Date Read: <br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#327)<br />
 

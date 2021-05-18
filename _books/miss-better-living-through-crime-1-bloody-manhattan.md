@@ -4,20 +4,20 @@ title: Miss - Better Living Through Crime  no. 1  - Bloody Manhattan
 date_read: None
 ---
 
-Book Id: 26203774\ 
-Title: Miss: Better Living Through Crime #1 : Bloody Manhattan\ 
-Author: Philippe Thirault\ 
-Author l-f: Thirault, Philippe\ 
-Additional Authors: Marc Riou, Mark Vigouroux\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.70\ 
-Publisher: Humanoids Inc\ 
-Binding: Kindle Edition\ 
-Number of Pages: 198\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1877)\ 
+Book Id: 26203774<br />
+Title: Miss: Better Living Through Crime #1 : Bloody Manhattan<br />
+Author: Philippe Thirault<br />
+Author l-f: Thirault, Philippe<br />
+Additional Authors: Marc Riou, Mark Vigouroux<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.70<br />
+Publisher: Humanoids Inc<br />
+Binding: Kindle Edition<br />
+Number of Pages: 198<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1877)<br />
 

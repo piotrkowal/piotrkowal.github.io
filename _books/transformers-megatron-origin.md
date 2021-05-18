@@ -4,21 +4,21 @@ title: Transformers - Megatron Origin
 date_read: None
 ---
 
-Book Id: 1001382\ 
-Title: Transformers: Megatron Origin\ 
-Author: Eric Holmes\ 
-Author l-f: Holmes, Eric\ 
-Additional Authors: Alex Milne, Marcelo Matere\ 
-ISBN: 1600101062\ 
-ISBN13: 9781600101069\ 
-My Rating: 0\ 
-Average Rating: 3.88\ 
-Publisher: IDW Publishing\ 
-Binding: Paperback\ 
-Number of Pages: 104\ 
-Year Published: 2007\ 
-Date Read: \ 
-Date Added: 2019/10/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#402)\ 
+Book Id: 1001382<br />
+Title: Transformers: Megatron Origin<br />
+Author: Eric Holmes<br />
+Author l-f: Holmes, Eric<br />
+Additional Authors: Alex Milne, Marcelo Matere<br />
+ISBN: 1600101062<br />
+ISBN13: 9781600101069<br />
+My Rating: 0<br />
+Average Rating: 3.88<br />
+Publisher: IDW Publishing<br />
+Binding: Paperback<br />
+Number of Pages: 104<br />
+Year Published: 2007<br />
+Date Read: <br />
+Date Added: 2019/10/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#402)<br />
 

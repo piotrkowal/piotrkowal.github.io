@@ -4,20 +4,20 @@ title: フェアリーテイル 31 講談社キャラクターズA [Fearī Teiru
 date_read: None
 ---
 
-Book Id: 13504437\ 
-Title: フェアリーテイル 31 講談社キャラクターズA [Fearī Teiru 31 Special Edition DVD Bundle] (Fairy Tail, #31)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: \ 
-ISBN: 4063583694\ 
-ISBN13: 9784063583694\ 
-My Rating: 0\ 
-Average Rating: 4.39\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 200\ 
-Year Published: 2012\ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1301)\ 
+Book Id: 13504437<br />
+Title: フェアリーテイル 31 講談社キャラクターズA [Fearī Teiru 31 Special Edition DVD Bundle] (Fairy Tail, #31)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: <br />
+ISBN: 4063583694<br />
+ISBN13: 9784063583694<br />
+My Rating: 0<br />
+Average Rating: 4.39<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 200<br />
+Year Published: 2012<br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1301)<br />
 

@@ -4,21 +4,21 @@ title: Pumpkin Scissors 2
 date_read: None
 ---
 
-Book Id: 2373472\ 
-Title: Pumpkin Scissors 2\ 
-Author: Ryōtarō Iwanaga\ 
-Author l-f: Iwanaga, Ryōtarō\ 
-Additional Authors: \ 
-ISBN: 0345501411\ 
-ISBN13: 9780345501417\ 
-My Rating: 0\ 
-Average Rating: 3.90\ 
-Publisher: Del Rey\ 
-Binding: Paperback\ 
-Number of Pages: 240\ 
-Year Published: 2008\ 
-Original Publication Year: 2004\ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#268)\ 
+Book Id: 2373472<br />
+Title: Pumpkin Scissors 2<br />
+Author: Ryōtarō Iwanaga<br />
+Author l-f: Iwanaga, Ryōtarō<br />
+Additional Authors: <br />
+ISBN: 0345501411<br />
+ISBN13: 9780345501417<br />
+My Rating: 0<br />
+Average Rating: 3.90<br />
+Publisher: Del Rey<br />
+Binding: Paperback<br />
+Number of Pages: 240<br />
+Year Published: 2008<br />
+Original Publication Year: 2004<br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#268)<br />
 

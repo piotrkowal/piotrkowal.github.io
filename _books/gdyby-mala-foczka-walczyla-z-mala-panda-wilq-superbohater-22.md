@@ -4,21 +4,21 @@ title: Gdyby mała foczka walczyła z małą pandą (Wilq Superbohater,  no. 22)
 date_read: None
 ---
 
-Book Id: 27425549\ 
-Title: Gdyby mała foczka walczyła z małą pandą (Wilq Superbohater, #22)\ 
-Author: Bartosz Minkiewicz\ 
-Author l-f: Minkiewicz, Bartosz\ 
-Additional Authors: Tomasz Minkiewicz\ 
-ISBN: \ 
-ISBN13: 9788393384556\ 
-My Rating: 0\ 
-Average Rating: 3.82\ 
-Publisher: BM Vision\ 
-Binding: Paperback\ 
-Number of Pages: 40\ 
-Year Published: 2015\ 
-Date Read: \ 
-Date Added: 2020/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#826)\ 
+Book Id: 27425549<br />
+Title: Gdyby mała foczka walczyła z małą pandą (Wilq Superbohater, #22)<br />
+Author: Bartosz Minkiewicz<br />
+Author l-f: Minkiewicz, Bartosz<br />
+Additional Authors: Tomasz Minkiewicz<br />
+ISBN: <br />
+ISBN13: 9788393384556<br />
+My Rating: 0<br />
+Average Rating: 3.82<br />
+Publisher: BM Vision<br />
+Binding: Paperback<br />
+Number of Pages: 40<br />
+Year Published: 2015<br />
+Date Read: <br />
+Date Added: 2020/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#826)<br />
 

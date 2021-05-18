@@ -4,22 +4,22 @@ title: Fairy Tail, Vol. 02 (Fairy Tail,  no. 2)
 date_read: None
 ---
 
-Book Id: 2454990\ 
-Title: Fairy Tail, Vol. 02 (Fairy Tail, #2)\ 
-Author: Hiro Mashima\ 
-Author l-f: Mashima, Hiro\ 
-Additional Authors: William Flanagan\ 
-ISBN: 0345503309\ 
-ISBN13: 9780345503305\ 
-My Rating: 0\ 
-Average Rating: 4.41\ 
-Publisher: Del Rey\ 
-Binding: Paperback\ 
-Number of Pages: 208\ 
-Year Published: 2008\ 
-Original Publication Year: 2007\ 
-Date Read: \ 
-Date Added: 2020/04/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1272)\ 
+Book Id: 2454990<br />
+Title: Fairy Tail, Vol. 02 (Fairy Tail, #2)<br />
+Author: Hiro Mashima<br />
+Author l-f: Mashima, Hiro<br />
+Additional Authors: William Flanagan<br />
+ISBN: 0345503309<br />
+ISBN13: 9780345503305<br />
+My Rating: 0<br />
+Average Rating: 4.41<br />
+Publisher: Del Rey<br />
+Binding: Paperback<br />
+Number of Pages: 208<br />
+Year Published: 2008<br />
+Original Publication Year: 2007<br />
+Date Read: <br />
+Date Added: 2020/04/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1272)<br />
 

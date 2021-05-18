@@ -4,23 +4,23 @@ title: Torpedo 1972
 date_read: 2017/12/06
 ---
 
-Book Id: 36335469\ 
-Title: Torpedo 1972\ 
-Author: Enrique Sánchez Abulí\ 
-Author l-f: Abulí, Enrique Sánchez\ 
-Additional Authors: Eduardo Risso\ 
-ISBN: \ 
-ISBN13: 9788491671398\ 
-My Rating: 3\ 
-Average Rating: 3.59\ 
-Publisher: Panini Comics\ 
-Binding: Hardcover\ 
-Number of Pages: 64\ 
-Year Published: 2017\ 
-Date Read: 2017/12/06\ 
-Date Added: 2017/12/02\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 36335469<br />
+Title: Torpedo 1972<br />
+Author: Enrique Sánchez Abulí<br />
+Author l-f: Abulí, Enrique Sánchez<br />
+Additional Authors: Eduardo Risso<br />
+ISBN: <br />
+ISBN13: 9788491671398<br />
+My Rating: 3<br />
+Average Rating: 3.59<br />
+Publisher: Panini Comics<br />
+Binding: Hardcover<br />
+Number of Pages: 64<br />
+Year Published: 2017<br />
+Date Read: 2017/12/06<br />
+Date Added: 2017/12/02<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

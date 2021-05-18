@@ -4,21 +4,21 @@ title: Spawn Origins, Volume 17
 date_read: None
 ---
 
-Book Id: 16255296\ 
-Title: Spawn Origins, Volume 17\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Greg Capullo, Clayton Crain, Brian Holguin, Angel  Medina\ 
-ISBN: 1607066637\ 
-ISBN13: 9781607066637\ 
-My Rating: 0\ 
-Average Rating: 4.13\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 168\ 
-Year Published: 2013\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#226)\ 
+Book Id: 16255296<br />
+Title: Spawn Origins, Volume 17<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Greg Capullo, Clayton Crain, Brian Holguin, Angel  Medina<br />
+ISBN: 1607066637<br />
+ISBN13: 9781607066637<br />
+My Rating: 0<br />
+Average Rating: 4.13<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 168<br />
+Year Published: 2013<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#226)<br />
 

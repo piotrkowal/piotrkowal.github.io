@@ -4,22 +4,22 @@ title: Deadman Wonderland 3
 date_read: 2018/02/13
 ---
 
-Book Id: 15817796\ 
-Title: Deadman Wonderland 3\ 
-Author: Jinsei Kataoka\ 
-Author l-f: Kataoka, Jinsei\ 
-Additional Authors: Kazuma Kondou\ 
-ISBN: 3842001495\ 
-ISBN13: 9783842001497\ 
-My Rating: 0\ 
-Average Rating: 4.26\ 
-Publisher: TOKYOPOP GmbH\ 
-Binding: Paperback\ 
-Number of Pages: 436\ 
-Year Published: 2011\ 
-Date Read: 2018/02/13\ 
-Date Added: 2018/02/08\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 15817796<br />
+Title: Deadman Wonderland 3<br />
+Author: Jinsei Kataoka<br />
+Author l-f: Kataoka, Jinsei<br />
+Additional Authors: Kazuma Kondou<br />
+ISBN: 3842001495<br />
+ISBN13: 9783842001497<br />
+My Rating: 0<br />
+Average Rating: 4.26<br />
+Publisher: TOKYOPOP GmbH<br />
+Binding: Paperback<br />
+Number of Pages: 436<br />
+Year Published: 2011<br />
+Date Read: 2018/02/13<br />
+Date Added: 2018/02/08<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

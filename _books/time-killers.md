@@ -4,22 +4,22 @@ title: Time Killers
 date_read: None
 ---
 
-Book Id: 17884880\ 
-Title: Time Killers\ 
-Author: Kazue Kato\ 
-Author l-f: Kato, Kazue\ 
-Additional Authors: John Schmitt-Weigand\ 
-ISBN: 2889215091\ 
-ISBN13: 9782889215096\ 
-My Rating: 0\ 
-Average Rating: 3.79\ 
-Publisher: Kazé Manga\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#471)\ 
+Book Id: 17884880<br />
+Title: Time Killers<br />
+Author: Kazue Kato<br />
+Author l-f: Kato, Kazue<br />
+Additional Authors: John Schmitt-Weigand<br />
+ISBN: 2889215091<br />
+ISBN13: 9782889215096<br />
+My Rating: 0<br />
+Average Rating: 3.79<br />
+Publisher: Kazé Manga<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#471)<br />
 

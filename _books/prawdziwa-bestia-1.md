@@ -4,22 +4,22 @@ title: Prawdziwa bestia  no. 1
 date_read: None
 ---
 
-Book Id: 49952273\ 
-Title: Prawdziwa bestia #1\ 
-Author: Kotetsuko Yamamoto\ 
-Author l-f: Yamamoto, Kotetsuko\ 
-Additional Authors: Maja Krzycka\ 
-ISBN: \ 
-ISBN13: 9788365856654\ 
-My Rating: 0\ 
-Average Rating: 4.37\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 164\ 
-Year Published: 2019\ 
-Original Publication Year: 2008\ 
-Date Read: \ 
-Date Added: 2020/01/10\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#726)\ 
+Book Id: 49952273<br />
+Title: Prawdziwa bestia #1<br />
+Author: Kotetsuko Yamamoto<br />
+Author l-f: Yamamoto, Kotetsuko<br />
+Additional Authors: Maja Krzycka<br />
+ISBN: <br />
+ISBN13: 9788365856654<br />
+My Rating: 0<br />
+Average Rating: 4.37<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 164<br />
+Year Published: 2019<br />
+Original Publication Year: 2008<br />
+Date Read: <br />
+Date Added: 2020/01/10<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#726)<br />
 

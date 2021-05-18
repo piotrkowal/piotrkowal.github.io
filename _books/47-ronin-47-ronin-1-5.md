@@ -4,22 +4,22 @@ title: 47 Ronin (47 Ronin,  no. 1-5)
 date_read: None
 ---
 
-Book Id: 18619306\ 
-Title: 47 Ronin (47 Ronin, #1-5)\ 
-Author: Mike Richardson\ 
-Author l-f: Richardson, Mike\ 
-Additional Authors: Stan Sakai\ 
-ISBN: 1595829547\ 
-ISBN13: 9781595829542\ 
-My Rating: 4\ 
-Average Rating: 3.97\ 
-Publisher: Dark Horse Comics\ 
-Binding: Hardcover\ 
-Number of Pages: 144\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2017/04/16\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 18619306<br />
+Title: 47 Ronin (47 Ronin, #1-5)<br />
+Author: Mike Richardson<br />
+Author l-f: Richardson, Mike<br />
+Additional Authors: Stan Sakai<br />
+ISBN: 1595829547<br />
+ISBN13: 9781595829542<br />
+My Rating: 4<br />
+Average Rating: 3.97<br />
+Publisher: Dark Horse Comics<br />
+Binding: Hardcover<br />
+Number of Pages: 144<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2017/04/16<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

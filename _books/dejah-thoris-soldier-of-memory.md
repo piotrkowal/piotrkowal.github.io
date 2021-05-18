@@ -4,21 +4,21 @@ title: Dejah Thoris - Soldier of Memory
 date_read: None
 ---
 
-Book Id: 31386979\ 
-Title: Dejah Thoris: Soldier of Memory\ 
-Author: Frank J. Barbiere\ 
-Author l-f: Barbiere, Frank J.\ 
-Additional Authors: Francesco Manna, Nen Chang\ 
-ISBN: 1524101354\ 
-ISBN13: 9781524101350\ 
-My Rating: 0\ 
-Average Rating: 3.41\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Paperback\ 
-Number of Pages: 152\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1593)\ 
+Book Id: 31386979<br />
+Title: Dejah Thoris: Soldier of Memory<br />
+Author: Frank J. Barbiere<br />
+Author l-f: Barbiere, Frank J.<br />
+Additional Authors: Francesco Manna, Nen Chang<br />
+ISBN: 1524101354<br />
+ISBN13: 9781524101350<br />
+My Rating: 0<br />
+Average Rating: 3.41<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Paperback<br />
+Number of Pages: 152<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1593)<br />
 

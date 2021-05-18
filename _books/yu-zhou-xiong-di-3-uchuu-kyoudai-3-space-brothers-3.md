@@ -4,20 +4,20 @@ title: 宇宙兄弟 3 [Uchuu Kyoudai 3] (Space Brothers,  no. 3)
 date_read: None
 ---
 
-Book Id: 5196696\ 
-Title: 宇宙兄弟 3 [Uchuu Kyoudai 3] (Space Brothers, #3)\ 
-Author: Chuya Koyama\ 
-Author l-f: Koyama, Chuya\ 
-Additional Authors: \ 
-ISBN: 4063727327\ 
-ISBN13: 9784063727326\ 
-My Rating: 0\ 
-Average Rating: 4.37\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 224\ 
-Year Published: 2008\ 
-Date Added: 2020/05/25\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1436)\ 
+Book Id: 5196696<br />
+Title: 宇宙兄弟 3 [Uchuu Kyoudai 3] (Space Brothers, #3)<br />
+Author: Chuya Koyama<br />
+Author l-f: Koyama, Chuya<br />
+Additional Authors: <br />
+ISBN: 4063727327<br />
+ISBN13: 9784063727326<br />
+My Rating: 0<br />
+Average Rating: 4.37<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 224<br />
+Year Published: 2008<br />
+Date Added: 2020/05/25<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1436)<br />
 

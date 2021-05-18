@@ -4,23 +4,23 @@ title: Dziki Ląd
 date_read: None
 ---
 
-Book Id: 53711218\ 
-Title: Dziki Ląd\ 
-Author: Ram V.\ 
-Author l-f: V., Ram\ 
-Additional Authors: Sumit Kumar, Jacek Żuławnik\ 
-ISBN: \ 
-ISBN13: 9788395686900\ 
-My Rating: 0\ 
-Average Rating: 4.18\ 
-Publisher: Lost in Time\ 
-Binding: Hardcover\ 
-Number of Pages: 176\ 
-Year Published: 2020\ 
-Original Publication Year: 2019\ 
-Date Read: \ 
-Date Added: 2021/03/08\ 
-Bookshelves: kupka-wstydu, dom\ 
-Bookshelves with positions: kupka-wstydu (#2158), dom (#16)\ 
-Exclusive Shelf: kupka-wstydu\ 
+Book Id: 53711218<br />
+Title: Dziki Ląd<br />
+Author: Ram V.<br />
+Author l-f: V., Ram<br />
+Additional Authors: Sumit Kumar, Jacek Żuławnik<br />
+ISBN: <br />
+ISBN13: 9788395686900<br />
+My Rating: 0<br />
+Average Rating: 4.18<br />
+Publisher: Lost in Time<br />
+Binding: Hardcover<br />
+Number of Pages: 176<br />
+Year Published: 2020<br />
+Original Publication Year: 2019<br />
+Date Read: <br />
+Date Added: 2021/03/08<br />
+Bookshelves: kupka-wstydu, dom<br />
+Bookshelves with positions: kupka-wstydu (#2158), dom (#16)<br />
+Exclusive Shelf: kupka-wstydu<br />
 

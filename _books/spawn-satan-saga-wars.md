@@ -4,21 +4,21 @@ title: Spawn - Satan Saga Wars
 date_read: None
 ---
 
-Book Id: 29584615\ 
-Title: Spawn: Satan Saga Wars\ 
-Author: Todd McFarlane\ 
-Author l-f: McFarlane, Todd\ 
-Additional Authors: Erik Larsen, Jonboy Meyers\ 
-ISBN: 1632158078\ 
-ISBN13: 9781632158079\ 
-My Rating: 0\ 
-Average Rating: 3.70\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 184\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#233)\ 
+Book Id: 29584615<br />
+Title: Spawn: Satan Saga Wars<br />
+Author: Todd McFarlane<br />
+Author l-f: McFarlane, Todd<br />
+Additional Authors: Erik Larsen, Jonboy Meyers<br />
+ISBN: 1632158078<br />
+ISBN13: 9781632158079<br />
+My Rating: 0<br />
+Average Rating: 3.70<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 184<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#233)<br />
 

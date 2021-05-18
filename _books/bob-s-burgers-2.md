@@ -4,19 +4,19 @@ title: Bob's Burgers  no. 2
 date_read: None
 ---
 
-Book Id: 23286761\ 
-Title: Bob's Burgers #2\ 
-Author: Chad Brewster\ 
-Author l-f: Brewster, Chad\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.89\ 
-Publisher: Dynamite\ 
-Binding: Paperback\ 
-Number of Pages: 32\ 
-Year Published: 2014\ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#923)\ 
+Book Id: 23286761<br />
+Title: Bob's Burgers #2<br />
+Author: Chad Brewster<br />
+Author l-f: Brewster, Chad<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.89<br />
+Publisher: Dynamite<br />
+Binding: Paperback<br />
+Number of Pages: 32<br />
+Year Published: 2014<br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#923)<br />
 

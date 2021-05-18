@@ -4,21 +4,21 @@ title: PTSD Radio, Vol. 2 (PTSD Radio,  no. 2)
 date_read: None
 ---
 
-Book Id: 37532363\ 
-Title: PTSD Radio, Vol. 2 (PTSD Radio, #2)\ 
-Author: Masaaki Nakayama\ 
-Author l-f: Nakayama, Masaaki\ 
-Additional Authors: 中山昌亮\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.92\ 
-Publisher: Kodansha Comics Digital-First!\ 
-Binding: Kindle Edition\ 
-Number of Pages: 162\ 
-Year Published: 2017\ 
-Original Publication Year: 2014\ 
-Date Read: \ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2011)\ 
+Book Id: 37532363<br />
+Title: PTSD Radio, Vol. 2 (PTSD Radio, #2)<br />
+Author: Masaaki Nakayama<br />
+Author l-f: Nakayama, Masaaki<br />
+Additional Authors: 中山昌亮<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.92<br />
+Publisher: Kodansha Comics Digital-First!<br />
+Binding: Kindle Edition<br />
+Number of Pages: 162<br />
+Year Published: 2017<br />
+Original Publication Year: 2014<br />
+Date Read: <br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2011)<br />
 

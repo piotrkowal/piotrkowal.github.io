@@ -4,23 +4,23 @@ title: Tetris. Ludzie i gry
 date_read: None
 ---
 
-Book Id: 45416020\ 
-Title: Tetris. Ludzie i gry\ 
-Author: Box Brown\ 
-Author l-f: Brown, Box\ 
-Additional Authors: Marcin Wróbel\ 
-ISBN: 836614075X\ 
-ISBN13: 9788366140752\ 
-My Rating: 3\ 
-Average Rating: 3.80\ 
-Publisher: Marginesy\ 
-Binding: Paperback\ 
-Number of Pages: 256\ 
-Year Published: 2019\ 
-Original Publication Year: 2016\ 
-Date Read: \ 
-Date Added: 2019/10/13\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 45416020<br />
+Title: Tetris. Ludzie i gry<br />
+Author: Box Brown<br />
+Author l-f: Brown, Box<br />
+Additional Authors: Marcin Wróbel<br />
+ISBN: 836614075X<br />
+ISBN13: 9788366140752<br />
+My Rating: 3<br />
+Average Rating: 3.80<br />
+Publisher: Marginesy<br />
+Binding: Paperback<br />
+Number of Pages: 256<br />
+Year Published: 2019<br />
+Original Publication Year: 2016<br />
+Date Read: <br />
+Date Added: 2019/10/13<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

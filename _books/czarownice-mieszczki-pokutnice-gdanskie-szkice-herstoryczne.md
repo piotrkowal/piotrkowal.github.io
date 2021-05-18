@@ -4,20 +4,20 @@ title: Czarownice, mieszczki, pokutnice. Gdańskie szkice herstoryczne
 date_read: None
 ---
 
-Book Id: 53997103\ 
-Title: Czarownice, mieszczki, pokutnice. Gdańskie szkice herstoryczne\ 
-Author: Michał Ślubowski\ 
-Author l-f: Ślubowski, Michał\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788375281910\ 
-My Rating: 0\ 
-Average Rating: 3.50\ 
-Publisher: Wydawnictwo Marpress sp. z o.o.\ 
-Binding: Paperback\ 
-Number of Pages: 209\ 
-Year Published: 2020\ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1748)\ 
+Book Id: 53997103<br />
+Title: Czarownice, mieszczki, pokutnice. Gdańskie szkice herstoryczne<br />
+Author: Michał Ślubowski<br />
+Author l-f: Ślubowski, Michał<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788375281910<br />
+My Rating: 0<br />
+Average Rating: 3.50<br />
+Publisher: Wydawnictwo Marpress sp. z o.o.<br />
+Binding: Paperback<br />
+Number of Pages: 209<br />
+Year Published: 2020<br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1748)<br />
 

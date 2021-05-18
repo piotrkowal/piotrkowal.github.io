@@ -4,19 +4,19 @@ title: Django/Zorro  no. 1
 date_read: None
 ---
 
-Book Id: 23634476\ 
-Title: Django/Zorro #1\ 
-Author: Quentin Tarantino\ 
-Author l-f: Tarantino, Quentin\ 
-Additional Authors: Matt Wagner, Esteve Polls\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.81\ 
-Publisher: Vertigo\ 
-Binding: \ 
-Number of Pages: 32\ 
-Year Published: 2014\ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#956)\ 
+Book Id: 23634476<br />
+Title: Django/Zorro #1<br />
+Author: Quentin Tarantino<br />
+Author l-f: Tarantino, Quentin<br />
+Additional Authors: Matt Wagner, Esteve Polls<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.81<br />
+Publisher: Vertigo<br />
+Binding: <br />
+Number of Pages: 32<br />
+Year Published: 2014<br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#956)<br />
 

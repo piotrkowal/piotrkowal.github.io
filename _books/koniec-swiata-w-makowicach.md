@@ -4,21 +4,21 @@ title: Koniec świata w Makowicach
 date_read: None
 ---
 
-Book Id: 49975493\ 
-Title: Koniec świata w Makowicach\ 
-Author: Jan Mazur\ 
-Author l-f: Mazur, Jan\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788366128286\ 
-My Rating: 4\ 
-Average Rating: 3.48\ 
-Publisher: Kultura Gniewu\ 
-Binding: Paperback\ 
-Number of Pages: 232\ 
-Year Published: 2019\ 
-Date Added: 2020/01/13\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 49975493<br />
+Title: Koniec świata w Makowicach<br />
+Author: Jan Mazur<br />
+Author l-f: Mazur, Jan<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788366128286<br />
+My Rating: 4<br />
+Average Rating: 3.48<br />
+Publisher: Kultura Gniewu<br />
+Binding: Paperback<br />
+Number of Pages: 232<br />
+Year Published: 2019<br />
+Date Added: 2020/01/13<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

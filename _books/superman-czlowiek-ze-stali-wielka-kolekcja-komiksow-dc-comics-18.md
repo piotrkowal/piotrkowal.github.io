@@ -4,23 +4,23 @@ title: Superman - Człowiek ze stali (Wielka Kolekcja Komiksów DC Comics,  no. 
 date_read: 2017/05/04
 ---
 
-Book Id: 35010562\ 
-Title: Superman: Człowiek ze stali (Wielka Kolekcja Komiksów DC Comics, #18)\ 
-Author: John Byrne\ 
-Author l-f: Byrne, John\ 
-Additional Authors: Jerry Siegel, Joe Shuster, Dick Giordano, Tom Ziuko, Marek Starosta\ 
-ISBN: \ 
-ISBN13: 9788377186183\ 
-My Rating: 4\ 
-Average Rating: 3.94\ 
-Publisher: Eaglemoss Collections\ 
-Binding: Hardcover\ 
-Number of Pages: 176\ 
-Year Published: 2017\ 
-Original Publication Year: 1986\ 
-Date Read: 2017/05/04\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 35010562<br />
+Title: Superman: Człowiek ze stali (Wielka Kolekcja Komiksów DC Comics, #18)<br />
+Author: John Byrne<br />
+Author l-f: Byrne, John<br />
+Additional Authors: Jerry Siegel, Joe Shuster, Dick Giordano, Tom Ziuko, Marek Starosta<br />
+ISBN: <br />
+ISBN13: 9788377186183<br />
+My Rating: 4<br />
+Average Rating: 3.94<br />
+Publisher: Eaglemoss Collections<br />
+Binding: Hardcover<br />
+Number of Pages: 176<br />
+Year Published: 2017<br />
+Original Publication Year: 1986<br />
+Date Read: 2017/05/04<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

@@ -4,23 +4,23 @@ title: Monster  no. 1 (Monster,  no. 1-2)
 date_read: None
 ---
 
-Book Id: 21946567\ 
-Title: Monster #1 (Monster, #1-2)\ 
-Author: Naoki Urasawa\ 
-Author l-f: Urasawa, Naoki\ 
-Additional Authors: Radosław Bolałek\ 
-ISBN: \ 
-ISBN13: 9788360740835\ 
-My Rating: 5\ 
-Average Rating: 4.53\ 
-Publisher: Hanami\ 
-Binding: Paperback with flaps\ 
-Number of Pages: 428\ 
-Year Published: 2014\ 
-Original Publication Year: 1994\ 
-Date Read: \ 
-Date Added: 2017/08/02\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 21946567<br />
+Title: Monster #1 (Monster, #1-2)<br />
+Author: Naoki Urasawa<br />
+Author l-f: Urasawa, Naoki<br />
+Additional Authors: Radosław Bolałek<br />
+ISBN: <br />
+ISBN13: 9788360740835<br />
+My Rating: 5<br />
+Average Rating: 4.53<br />
+Publisher: Hanami<br />
+Binding: Paperback with flaps<br />
+Number of Pages: 428<br />
+Year Published: 2014<br />
+Original Publication Year: 1994<br />
+Date Read: <br />
+Date Added: 2017/08/02<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

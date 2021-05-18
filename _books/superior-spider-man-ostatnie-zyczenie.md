@@ -4,23 +4,23 @@ title: Superior Spider-man - Ostatnie życzenie
 date_read: None
 ---
 
-Book Id: 28592098\ 
-Title: Superior Spider-man: Ostatnie życzenie\ 
-Author: Dan Slott\ 
-Author l-f: Slott, Dan\ 
-Additional Authors: Richard Elson, Humberto Ramos, Piotr W. Cholewa\ 
-ISBN: \ 
-ISBN13: 9788328110731\ 
-My Rating: 4\ 
-Average Rating: 4.20\ 
-Publisher: Egmont Polska\ 
-Binding: Paperback\ 
-Number of Pages: 120\ 
-Year Published: 2015\ 
-Original Publication Year: 2013\ 
-Date Read: \ 
-Date Added: 2017/01/31\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 28592098<br />
+Title: Superior Spider-man: Ostatnie życzenie<br />
+Author: Dan Slott<br />
+Author l-f: Slott, Dan<br />
+Additional Authors: Richard Elson, Humberto Ramos, Piotr W. Cholewa<br />
+ISBN: <br />
+ISBN13: 9788328110731<br />
+My Rating: 4<br />
+Average Rating: 4.20<br />
+Publisher: Egmont Polska<br />
+Binding: Paperback<br />
+Number of Pages: 120<br />
+Year Published: 2015<br />
+Original Publication Year: 2013<br />
+Date Read: <br />
+Date Added: 2017/01/31<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

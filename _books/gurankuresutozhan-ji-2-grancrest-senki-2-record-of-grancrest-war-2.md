@@ -4,21 +4,21 @@ title: グランクレスト戦記 2 [Grancrest Senki 2] (Record of Grancrest Wa
 date_read: None
 ---
 
-Book Id: 36560043\ 
-Title: グランクレスト戦記 2 [Grancrest Senki 2] (Record of Grancrest War, #2)\ 
-Author: Ryo Mizuno\ 
-Author l-f: Mizuno, Ryo\ 
-Additional Authors: Mizuki Mikuni, Miyū, 水野良, 四葉真, 深遊\ 
-ISBN: 4592147863\ 
-ISBN13: 9784592147862\ 
-My Rating: 0\ 
-Average Rating: 3.78\ 
-Publisher: 白泉社\ 
-Binding: Paperback\ 
-Number of Pages: 160\ 
-Year Published: 2017\ 
-Date Read: \ 
-Date Added: 2020/01/09\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#685)\ 
+Book Id: 36560043<br />
+Title: グランクレスト戦記 2 [Grancrest Senki 2] (Record of Grancrest War, #2)<br />
+Author: Ryo Mizuno<br />
+Author l-f: Mizuno, Ryo<br />
+Additional Authors: Mizuki Mikuni, Miyū, 水野良, 四葉真, 深遊<br />
+ISBN: 4592147863<br />
+ISBN13: 9784592147862<br />
+My Rating: 0<br />
+Average Rating: 3.78<br />
+Publisher: 白泉社<br />
+Binding: Paperback<br />
+Number of Pages: 160<br />
+Year Published: 2017<br />
+Date Read: <br />
+Date Added: 2020/01/09<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#685)<br />
 

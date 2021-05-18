@@ -4,21 +4,21 @@ title: Ta małpa poszła do nieba
 date_read: None
 ---
 
-Book Id: 40219594\ 
-Title: Ta małpa poszła do nieba\ 
-Author: Gosia Kulik\ 
-Author l-f: Kulik, Gosia\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788364638862\ 
-My Rating: 4\ 
-Average Rating: 3.70\ 
-Publisher: Wydawnictwo Komiksowe\ 
-Binding: Paperback\ 
-Number of Pages: 144\ 
-Year Published: 2018\ 
-Date Added: 2019/03/24\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 40219594<br />
+Title: Ta małpa poszła do nieba<br />
+Author: Gosia Kulik<br />
+Author l-f: Kulik, Gosia<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788364638862<br />
+My Rating: 4<br />
+Average Rating: 3.70<br />
+Publisher: Wydawnictwo Komiksowe<br />
+Binding: Paperback<br />
+Number of Pages: 144<br />
+Year Published: 2018<br />
+Date Added: 2019/03/24<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

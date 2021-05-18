@@ -4,20 +4,20 @@ title: Cryptozoic Man  no. 1
 date_read: None
 ---
 
-Book Id: 18659252\ 
-Title: Cryptozoic Man #1\ 
-Author: Walter Flanagan\ 
-Author l-f: Flanagan, Walter\ 
-Additional Authors: Bryan Johnson\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 2.58\ 
-Publisher: Dynamite Entertainment\ 
-Binding: ebook\ 
-Number of Pages: 27\ 
-Year Published: 2013\ 
-Original Publication Year: \ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#934)\ 
+Book Id: 18659252<br />
+Title: Cryptozoic Man #1<br />
+Author: Walter Flanagan<br />
+Author l-f: Flanagan, Walter<br />
+Additional Authors: Bryan Johnson<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 2.58<br />
+Publisher: Dynamite Entertainment<br />
+Binding: ebook<br />
+Number of Pages: 27<br />
+Year Published: 2013<br />
+Original Publication Year: <br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#934)<br />
 

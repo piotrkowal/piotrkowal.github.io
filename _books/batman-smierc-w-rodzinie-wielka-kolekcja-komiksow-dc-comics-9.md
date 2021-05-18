@@ -4,22 +4,22 @@ title: Batman - Śmierć w rodzinie (Wielka Kolekcja Komiksów DC Comics,  no. 9
 date_read: None
 ---
 
-Book Id: 33665436\ 
-Title: Batman: Śmierć w rodzinie (Wielka Kolekcja Komiksów DC Comics, #9)\ 
-Author: Jim Starlin\ 
-Author l-f: Starlin, Jim\ 
-Additional Authors: Doug Moench, Jim Aparo, Don Newton, Adrienne Roy, Tomasz Kłoszewski\ 
-ISBN: \ 
-ISBN13: 9788377186091\ 
-My Rating: 0\ 
-Average Rating: 4.08\ 
-Publisher: Eaglemoss Collection\ 
-Binding: Hardcover\ 
-Number of Pages: 176\ 
-Year Published: 2016\ 
-Original Publication Year: 1988\ 
-Date Read: \ 
-Date Added: 2017/07/11\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 33665436<br />
+Title: Batman: Śmierć w rodzinie (Wielka Kolekcja Komiksów DC Comics, #9)<br />
+Author: Jim Starlin<br />
+Author l-f: Starlin, Jim<br />
+Additional Authors: Doug Moench, Jim Aparo, Don Newton, Adrienne Roy, Tomasz Kłoszewski<br />
+ISBN: <br />
+ISBN13: 9788377186091<br />
+My Rating: 0<br />
+Average Rating: 4.08<br />
+Publisher: Eaglemoss Collection<br />
+Binding: Hardcover<br />
+Number of Pages: 176<br />
+Year Published: 2016<br />
+Original Publication Year: 1988<br />
+Date Read: <br />
+Date Added: 2017/07/11<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

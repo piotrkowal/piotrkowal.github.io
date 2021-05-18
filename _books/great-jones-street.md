@@ -4,21 +4,21 @@ title: Great Jones Street
 date_read: None
 ---
 
-Book Id: 42383069\ 
-Title: Great Jones Street\ 
-Author: Don DeLillo\ 
-Author l-f: DeLillo, Don\ 
-Additional Authors: \ 
-ISBN: 8365613905\ 
-ISBN13: 9788365613905\ 
-My Rating: 0\ 
-Average Rating: 3.48\ 
-Publisher: Noir Sur Blanc\ 
-Binding: Paperback\ 
-Number of Pages: 240\ 
-Year Published: 2018\ 
-Original Publication Year: 1973\ 
-Date Added: 2021/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2084)\ 
+Book Id: 42383069<br />
+Title: Great Jones Street<br />
+Author: Don DeLillo<br />
+Author l-f: DeLillo, Don<br />
+Additional Authors: <br />
+ISBN: 8365613905<br />
+ISBN13: 9788365613905<br />
+My Rating: 0<br />
+Average Rating: 3.48<br />
+Publisher: Noir Sur Blanc<br />
+Binding: Paperback<br />
+Number of Pages: 240<br />
+Year Published: 2018<br />
+Original Publication Year: 1973<br />
+Date Added: 2021/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2084)<br />
 

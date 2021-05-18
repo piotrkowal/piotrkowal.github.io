@@ -4,19 +4,19 @@ title: Szlamu Król
 date_read: None
 ---
 
-Book Id: 30104417\ 
-Title: Szlamu Król\ 
-Author: Łukasz Kowalczuk\ 
-Author l-f: Kowalczuk, Łukasz\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 0.0\ 
-Publisher: Hate Core Comics\ 
-Binding: Paperback\ 
-Number of Pages: 4\ 
-Year Published: 2013\ 
-Date Added: 2020/03/27\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#994)\ 
+Book Id: 30104417<br />
+Title: Szlamu Król<br />
+Author: Łukasz Kowalczuk<br />
+Author l-f: Kowalczuk, Łukasz<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 0.0<br />
+Publisher: Hate Core Comics<br />
+Binding: Paperback<br />
+Number of Pages: 4<br />
+Year Published: 2013<br />
+Date Added: 2020/03/27<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#994)<br />
 

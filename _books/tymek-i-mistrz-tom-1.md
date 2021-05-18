@@ -4,21 +4,21 @@ title: Tymek i Mistrz. Tom 1
 date_read: None
 ---
 
-Book Id: 30048792\ 
-Title: Tymek i Mistrz. Tom 1\ 
-Author: Rafał Skarżycki\ 
-Author l-f: Skarżycki, Rafał\ 
-Additional Authors: Tomasz Lew Leśniak\ 
-ISBN: \ 
-ISBN13: 9788364858277\ 
-My Rating: 0\ 
-Average Rating: 3.71\ 
-Publisher: Kultura Gniewu\ 
-Binding: Hardcover\ 
-Number of Pages: 152\ 
-Year Published: 2016\ 
-Date Read: \ 
-Date Added: 2016/06/25\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 30048792<br />
+Title: Tymek i Mistrz. Tom 1<br />
+Author: Rafał Skarżycki<br />
+Author l-f: Skarżycki, Rafał<br />
+Additional Authors: Tomasz Lew Leśniak<br />
+ISBN: <br />
+ISBN13: 9788364858277<br />
+My Rating: 0<br />
+Average Rating: 3.71<br />
+Publisher: Kultura Gniewu<br />
+Binding: Hardcover<br />
+Number of Pages: 152<br />
+Year Published: 2016<br />
+Date Read: <br />
+Date Added: 2016/06/25<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

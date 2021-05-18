@@ -4,23 +4,23 @@ title: Zbrojni (Świat Dysku,  no. 15)
 date_read: None
 ---
 
-Book Id: 5927031\ 
-Title: Zbrojni (Świat Dysku, #15)\ 
-Author: Terry Pratchett\ 
-Author l-f: Pratchett, Terry\ 
-Additional Authors: Piotr W. Cholewa\ 
-ISBN: 8373379975\ 
-ISBN13: 9788373379978\ 
-My Rating: 0\ 
-Average Rating: 4.35\ 
-Publisher: Prószyński i S-ka\ 
-Binding: Paperback\ 
-Number of Pages: 316\ 
-Year Published: 2002\ 
-Original Publication Year: 1993\ 
-Date Read: \ 
-Date Added: 2021/03/08\ 
-Bookshelves: kupka-wstydu, dom\ 
-Bookshelves with positions: kupka-wstydu (#2172), dom (#13)\ 
-Exclusive Shelf: kupka-wstydu\ 
+Book Id: 5927031<br />
+Title: Zbrojni (Świat Dysku, #15)<br />
+Author: Terry Pratchett<br />
+Author l-f: Pratchett, Terry<br />
+Additional Authors: Piotr W. Cholewa<br />
+ISBN: 8373379975<br />
+ISBN13: 9788373379978<br />
+My Rating: 0<br />
+Average Rating: 4.35<br />
+Publisher: Prószyński i S-ka<br />
+Binding: Paperback<br />
+Number of Pages: 316<br />
+Year Published: 2002<br />
+Original Publication Year: 1993<br />
+Date Read: <br />
+Date Added: 2021/03/08<br />
+Bookshelves: kupka-wstydu, dom<br />
+Bookshelves with positions: kupka-wstydu (#2172), dom (#13)<br />
+Exclusive Shelf: kupka-wstydu<br />
 

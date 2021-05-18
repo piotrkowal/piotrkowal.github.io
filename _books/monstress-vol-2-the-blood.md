@@ -4,21 +4,21 @@ title: Monstress, Vol. 2 - The Blood
 date_read: None
 ---
 
-Book Id: 33540347\ 
-Title: Monstress, Vol. 2: The Blood\ 
-Author: Marjorie M. Liu\ 
-Author l-f: Liu, Marjorie M.\ 
-Additional Authors: Sana Takeda\ 
-ISBN: 1534300414\ 
-ISBN13: 9781534300415\ 
-My Rating: 0\ 
-Average Rating: 4.32\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 152\ 
-Year Published: 2017\ 
-Date Read: \ 
-Date Added: 2019/10/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1706)\ 
+Book Id: 33540347<br />
+Title: Monstress, Vol. 2: The Blood<br />
+Author: Marjorie M. Liu<br />
+Author l-f: Liu, Marjorie M.<br />
+Additional Authors: Sana Takeda<br />
+ISBN: 1534300414<br />
+ISBN13: 9781534300415<br />
+My Rating: 0<br />
+Average Rating: 4.32<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 152<br />
+Year Published: 2017<br />
+Date Read: <br />
+Date Added: 2019/10/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1706)<br />
 

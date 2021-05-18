@@ -4,21 +4,21 @@ title: Vampirella Masters Series Vol, 5 - Kurt Busiek
 date_read: None
 ---
 
-Book Id: 11519362\ 
-Title: Vampirella Masters Series Vol, 5: Kurt Busiek\ 
-Author: Kurt Busiek\ 
-Author l-f: Busiek, Kurt\ 
-Additional Authors: Dave Cockrum, Louis Small Jr., Louis Lachance\ 
-ISBN: 1606902350\ 
-ISBN13: 9781606902356\ 
-My Rating: 0\ 
-Average Rating: 3.12\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Paperback\ 
-Number of Pages: 330\ 
-Year Published: 2011\ 
-Date Read: \ 
-Date Added: 2019/02/28\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#344)\ 
+Book Id: 11519362<br />
+Title: Vampirella Masters Series Vol, 5: Kurt Busiek<br />
+Author: Kurt Busiek<br />
+Author l-f: Busiek, Kurt<br />
+Additional Authors: Dave Cockrum, Louis Small Jr., Louis Lachance<br />
+ISBN: 1606902350<br />
+ISBN13: 9781606902356<br />
+My Rating: 0<br />
+Average Rating: 3.12<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Paperback<br />
+Number of Pages: 330<br />
+Year Published: 2011<br />
+Date Read: <br />
+Date Added: 2019/02/28<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#344)<br />
 

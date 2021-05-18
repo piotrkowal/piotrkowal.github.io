@@ -4,21 +4,21 @@ title: Superman - Dziedzictwo, część 2 (Wielka Kolekcja Komiksów DC Comics, 
 date_read: None
 ---
 
-Book Id: 38728079\ 
-Title: Superman: Dziedzictwo, część 2 (Wielka Kolekcja Komiksów DC Comics, #40)\ 
-Author: Mark Waid\ 
-Author l-f: Waid, Mark\ 
-Additional Authors: Leinil Francis Yu, Al Plastino, Gerry Alanguilan, Dave McCaig, Marek Starosta\ 
-ISBN: \ 
-ISBN13: 9788377186404\ 
-My Rating: 0\ 
-Average Rating: 3.86\ 
-Publisher: Eaglemoss Collections\ 
-Binding: Hardcover\ 
-Number of Pages: 176\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2018/12/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#861)\ 
+Book Id: 38728079<br />
+Title: Superman: Dziedzictwo, część 2 (Wielka Kolekcja Komiksów DC Comics, #40)<br />
+Author: Mark Waid<br />
+Author l-f: Waid, Mark<br />
+Additional Authors: Leinil Francis Yu, Al Plastino, Gerry Alanguilan, Dave McCaig, Marek Starosta<br />
+ISBN: <br />
+ISBN13: 9788377186404<br />
+My Rating: 0<br />
+Average Rating: 3.86<br />
+Publisher: Eaglemoss Collections<br />
+Binding: Hardcover<br />
+Number of Pages: 176<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2018/12/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#861)<br />
 

@@ -4,21 +4,21 @@ title: Rycerz Agata
 date_read: None
 ---
 
-Book Id: 25438345\ 
-Title: Rycerz Agata\ 
-Author: Jakub Dębski\ 
-Author l-f: Dębski, Jakub\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788393705771\ 
-My Rating: 0\ 
-Average Rating: 3.90\ 
-Publisher: Jakub Dębski Demland\ 
-Binding: Paperback\ 
-Number of Pages: 24\ 
-Year Published: 2014\ 
-Date Added: 2018/10/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#103)\ 
-Read Count: 1\ 
+Book Id: 25438345<br />
+Title: Rycerz Agata<br />
+Author: Jakub Dębski<br />
+Author l-f: Dębski, Jakub<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788393705771<br />
+My Rating: 0<br />
+Average Rating: 3.90<br />
+Publisher: Jakub Dębski Demland<br />
+Binding: Paperback<br />
+Number of Pages: 24<br />
+Year Published: 2014<br />
+Date Added: 2018/10/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#103)<br />
+Read Count: 1<br />
 

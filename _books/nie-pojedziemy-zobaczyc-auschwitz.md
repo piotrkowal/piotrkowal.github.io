@@ -4,22 +4,22 @@ title: Nie pojedziemy zobaczyć Auschwitz
 date_read: None
 ---
 
-Book Id: 23489998\ 
-Title: Nie pojedziemy zobaczyć Auschwitz\ 
-Author: Jérémie Dres\ 
-Author l-f: Dres, Jérémie\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788393810406\ 
-My Rating: 2\ 
-Average Rating: 3.27\ 
-Publisher: MF Studio\ 
-Binding: Paperback\ 
-Number of Pages: 206\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Added: 2016/07/20\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 23489998<br />
+Title: Nie pojedziemy zobaczyć Auschwitz<br />
+Author: Jérémie Dres<br />
+Author l-f: Dres, Jérémie<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788393810406<br />
+My Rating: 2<br />
+Average Rating: 3.27<br />
+Publisher: MF Studio<br />
+Binding: Paperback<br />
+Number of Pages: 206<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Added: 2016/07/20<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

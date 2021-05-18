@@ -4,21 +4,21 @@ title: Homies
 date_read: None
 ---
 
-Book Id: 33585242\ 
-Title: Homies\ 
-Author: David Gonzales\ 
-Author l-f: Gonzales, David\ 
-Additional Authors: Elliott Serrano, Andrew Huerta\ 
-ISBN: 1524103802\ 
-ISBN13: 9781524103804\ 
-My Rating: 0\ 
-Average Rating: 3.50\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Paperback\ 
-Number of Pages: 104\ 
-Year Published: 2017\ 
-Date Read: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1601)\ 
+Book Id: 33585242<br />
+Title: Homies<br />
+Author: David Gonzales<br />
+Author l-f: Gonzales, David<br />
+Additional Authors: Elliott Serrano, Andrew Huerta<br />
+ISBN: 1524103802<br />
+ISBN13: 9781524103804<br />
+My Rating: 0<br />
+Average Rating: 3.50<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Paperback<br />
+Number of Pages: 104<br />
+Year Published: 2017<br />
+Date Read: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1601)<br />
 

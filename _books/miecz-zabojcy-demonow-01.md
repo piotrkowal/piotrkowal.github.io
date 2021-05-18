@@ -4,22 +4,22 @@ title: Miecz zabójcy demonów 01
 date_read: None
 ---
 
-Book Id: 53479074\ 
-Title: Miecz zabójcy demonów 01\ 
-Author: Koyoharu Gotouge\ 
-Author l-f: Gotouge, Koyoharu\ 
-Additional Authors: Wojciech Gęszczak\ 
-ISBN: \ 
-ISBN13: 9788380968103\ 
-My Rating: 4\ 
-Average Rating: 4.55\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Number of Pages: \ 
-Year Published: 2020\ 
-Original Publication Year: 2016\ 
-Date Added: 2020/04/10\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 53479074<br />
+Title: Miecz zabójcy demonów 01<br />
+Author: Koyoharu Gotouge<br />
+Author l-f: Gotouge, Koyoharu<br />
+Additional Authors: Wojciech Gęszczak<br />
+ISBN: <br />
+ISBN13: 9788380968103<br />
+My Rating: 4<br />
+Average Rating: 4.55<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Number of Pages: <br />
+Year Published: 2020<br />
+Original Publication Year: 2016<br />
+Date Added: 2020/04/10<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

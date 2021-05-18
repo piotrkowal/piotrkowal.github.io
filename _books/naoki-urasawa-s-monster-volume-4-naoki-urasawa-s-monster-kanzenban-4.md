@@ -4,21 +4,21 @@ title: Naoki Urasawa's Monster, Volume 4 (Naoki Urasawa's Monster - Kanzenban,  
 date_read: None
 ---
 
-Book Id: 7347940\ 
-Title: Naoki Urasawa's Monster, Volume 4 (Naoki Urasawa's Monster: Kanzenban, #4)\ 
-Author: Naoki Urasawa\ 
-Author l-f: Urasawa, Naoki\ 
-Additional Authors: \ 
-ISBN: 8467476648\ 
-ISBN13: 9788467476644\ 
-My Rating: 0\ 
-Average Rating: 4.56\ 
-Publisher: Planeta DeAgostini\ 
-Binding: Paperback\ 
-Number of Pages: 424\ 
-Year Published: 2009\ 
-Original Publication Year: 2008\ 
-Date Added: 2018/11/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#94)\ 
+Book Id: 7347940<br />
+Title: Naoki Urasawa's Monster, Volume 4 (Naoki Urasawa's Monster: Kanzenban, #4)<br />
+Author: Naoki Urasawa<br />
+Author l-f: Urasawa, Naoki<br />
+Additional Authors: <br />
+ISBN: 8467476648<br />
+ISBN13: 9788467476644<br />
+My Rating: 0<br />
+Average Rating: 4.56<br />
+Publisher: Planeta DeAgostini<br />
+Binding: Paperback<br />
+Number of Pages: 424<br />
+Year Published: 2009<br />
+Original Publication Year: 2008<br />
+Date Added: 2018/11/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#94)<br />
 

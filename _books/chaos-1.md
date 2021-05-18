@@ -4,20 +4,20 @@ title: Chaos!  no. 1
 date_read: None
 ---
 
-Book Id: 22675397\ 
-Title: Chaos! #1\ 
-Author: Tim Seeley\ 
-Author l-f: Seeley, Tim\ 
-Additional Authors: Mirka Andolfo\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 2.37\ 
-Publisher: Dynamite Entertainment\ 
-Binding: Paperback\ 
-Number of Pages: 32\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2020/01/23\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#928)\ 
+Book Id: 22675397<br />
+Title: Chaos! #1<br />
+Author: Tim Seeley<br />
+Author l-f: Seeley, Tim<br />
+Additional Authors: Mirka Andolfo<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 2.37<br />
+Publisher: Dynamite Entertainment<br />
+Binding: Paperback<br />
+Number of Pages: 32<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2020/01/23<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#928)<br />
 

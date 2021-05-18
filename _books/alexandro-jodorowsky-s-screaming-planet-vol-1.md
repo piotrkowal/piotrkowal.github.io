@@ -4,20 +4,20 @@ title: Alexandro Jodorowsky's Screaming Planet Vol. 1
 date_read: None
 ---
 
-Book Id: 24777152\ 
-Title: Alexandro Jodorowsky's Screaming Planet Vol. 1\ 
-Author: Alejandro Jodorowsky\ 
-Author l-f: Jodorowsky, Alejandro\ 
-Additional Authors: Various\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.59\ 
-Publisher: Humanoids\ 
-Binding: Kindle Edition\ 
-Number of Pages: 56\ 
-Year Published: 2014\ 
-Date Read: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1939)\ 
+Book Id: 24777152<br />
+Title: Alexandro Jodorowsky's Screaming Planet Vol. 1<br />
+Author: Alejandro Jodorowsky<br />
+Author l-f: Jodorowsky, Alejandro<br />
+Additional Authors: Various<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.59<br />
+Publisher: Humanoids<br />
+Binding: Kindle Edition<br />
+Number of Pages: 56<br />
+Year Published: 2014<br />
+Date Read: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1939)<br />
 

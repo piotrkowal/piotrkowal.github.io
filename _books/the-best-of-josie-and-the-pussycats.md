@@ -4,20 +4,20 @@ title: The Best of Josie and the Pussycats
 date_read: None
 ---
 
-Book Id: 34594002\ 
-Title: The Best of Josie and the Pussycats\ 
-Author: Archie Superstars\ 
-Author l-f: Superstars, Archie\ 
-Additional Authors: \ 
-ISBN: 1682559300\ 
-ISBN13: 9781682559307\ 
-My Rating: 0\ 
-Average Rating: 3.77\ 
-Publisher: Archie Comic Publications\ 
-Binding: Paperback\ 
-Number of Pages: 400\ 
-Year Published: 2017\ 
-Date Added: 2020/06/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2218)\ 
+Book Id: 34594002<br />
+Title: The Best of Josie and the Pussycats<br />
+Author: Archie Superstars<br />
+Author l-f: Superstars, Archie<br />
+Additional Authors: <br />
+ISBN: 1682559300<br />
+ISBN13: 9781682559307<br />
+My Rating: 0<br />
+Average Rating: 3.77<br />
+Publisher: Archie Comic Publications<br />
+Binding: Paperback<br />
+Number of Pages: 400<br />
+Year Published: 2017<br />
+Date Added: 2020/06/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2218)<br />
 

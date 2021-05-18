@@ -4,20 +4,20 @@ title: Będziesz smażyć się w piekle
 date_read: 2017/11/28
 ---
 
-Book Id: 32945738\ 
-Title: Będziesz smażyć się w piekle\ 
-Author: Krzysztof „Prosiak” Owedyk\ 
-Author l-f: Owedyk, Krzysztof „Prosiak”\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788364858468\ 
-My Rating: 0\ 
-Average Rating: 4.22\ 
-Publisher: Kultura Gniewu\ 
-Binding: Paperback\ 
-Number of Pages: 304\ 
-Year Published: 2016\ 
-Date Read: 2017/11/28\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 32945738<br />
+Title: Będziesz smażyć się w piekle<br />
+Author: Krzysztof „Prosiak” Owedyk<br />
+Author l-f: Owedyk, Krzysztof „Prosiak”<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788364858468<br />
+My Rating: 0<br />
+Average Rating: 4.22<br />
+Publisher: Kultura Gniewu<br />
+Binding: Paperback<br />
+Number of Pages: 304<br />
+Year Published: 2016<br />
+Date Read: 2017/11/28<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

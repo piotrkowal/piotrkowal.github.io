@@ -4,21 +4,21 @@ title: Zonzo
 date_read: None
 ---
 
-Book Id: 32335383\ 
-Title: Zonzo\ 
-Author: Joan Cornellà\ 
-Author l-f: Cornellà, Joan\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788365527172\ 
-My Rating: 0\ 
-Average Rating: 3.85\ 
-Publisher: Timof i cisi wspólnicy\ 
-Binding: Hardcover\ 
-Number of Pages: 56\ 
-Year Published: 2016\ 
-Original Publication Year: 2015\ 
-Date Added: 2018/10/10\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 32335383<br />
+Title: Zonzo<br />
+Author: Joan Cornellà<br />
+Author l-f: Cornellà, Joan<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788365527172<br />
+My Rating: 0<br />
+Average Rating: 3.85<br />
+Publisher: Timof i cisi wspólnicy<br />
+Binding: Hardcover<br />
+Number of Pages: 56<br />
+Year Published: 2016<br />
+Original Publication Year: 2015<br />
+Date Added: 2018/10/10<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

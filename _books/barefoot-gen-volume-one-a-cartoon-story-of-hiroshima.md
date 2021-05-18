@@ -4,22 +4,22 @@ title: Barefoot Gen, Volume One - A Cartoon Story of Hiroshima
 date_read: None
 ---
 
-Book Id: 116223\ 
-Title: Barefoot Gen, Volume One: A Cartoon Story of Hiroshima\ 
-Author: Keiji Nakazawa\ 
-Author l-f: Nakazawa, Keiji\ 
-Additional Authors: Art Spiegelman, Project Gen\ 
-ISBN: 0867196025\ 
-ISBN13: 9780867196023\ 
-My Rating: 0\ 
-Average Rating: 4.25\ 
-Publisher: Last Gasp\ 
-Binding: Paperback\ 
-Number of Pages: 284\ 
-Year Published: 2004\ 
-Original Publication Year: 1973\ 
-Date Read: \ 
-Date Added: 2019/10/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#201)\ 
+Book Id: 116223<br />
+Title: Barefoot Gen, Volume One: A Cartoon Story of Hiroshima<br />
+Author: Keiji Nakazawa<br />
+Author l-f: Nakazawa, Keiji<br />
+Additional Authors: Art Spiegelman, Project Gen<br />
+ISBN: 0867196025<br />
+ISBN13: 9780867196023<br />
+My Rating: 0<br />
+Average Rating: 4.25<br />
+Publisher: Last Gasp<br />
+Binding: Paperback<br />
+Number of Pages: 284<br />
+Year Published: 2004<br />
+Original Publication Year: 1973<br />
+Date Read: <br />
+Date Added: 2019/10/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#201)<br />
 

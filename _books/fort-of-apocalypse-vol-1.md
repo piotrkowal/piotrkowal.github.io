@@ -4,21 +4,21 @@ title: Fort of Apocalypse Vol. 1
 date_read: None
 ---
 
-Book Id: 27479315\ 
-Title: Fort of Apocalypse Vol. 1\ 
-Author: Yuu Kuraishi\ 
-Author l-f: Kuraishi, Yuu\ 
-Additional Authors: Kazu Inabe\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.67\ 
-Publisher: Kodansha\ 
-Binding: Kindle Edition\ 
-Number of Pages: 175\ 
-Year Published: 2015\ 
-Original Publication Year: 2012\ 
-Date Read: \ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2044)\ 
+Book Id: 27479315<br />
+Title: Fort of Apocalypse Vol. 1<br />
+Author: Yuu Kuraishi<br />
+Author l-f: Kuraishi, Yuu<br />
+Additional Authors: Kazu Inabe<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.67<br />
+Publisher: Kodansha<br />
+Binding: Kindle Edition<br />
+Number of Pages: 175<br />
+Year Published: 2015<br />
+Original Publication Year: 2012<br />
+Date Read: <br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2044)<br />
 

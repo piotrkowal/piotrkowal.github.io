@@ -4,20 +4,20 @@ title: Love Hina Omnibus 1
 date_read: None
 ---
 
-Book Id: 11615417\ 
-Title: Love Hina Omnibus 1\ 
-Author: Ken Akamatsu\ 
-Author l-f: Akamatsu, Ken\ 
-Additional Authors: \ 
-ISBN: 1935429477\ 
-ISBN13: 9781935429470\ 
-My Rating: 0\ 
-Average Rating: 4.04\ 
-Publisher: Kodansha Comics\ 
-Binding: Paperback\ 
-Number of Pages: 592\ 
-Year Published: 2011\ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1471)\ 
+Book Id: 11615417<br />
+Title: Love Hina Omnibus 1<br />
+Author: Ken Akamatsu<br />
+Author l-f: Akamatsu, Ken<br />
+Additional Authors: <br />
+ISBN: 1935429477<br />
+ISBN13: 9781935429470<br />
+My Rating: 0<br />
+Average Rating: 4.04<br />
+Publisher: Kodansha Comics<br />
+Binding: Paperback<br />
+Number of Pages: 592<br />
+Year Published: 2011<br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1471)<br />
 

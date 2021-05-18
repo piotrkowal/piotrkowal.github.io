@@ -4,20 +4,20 @@ title: James Bond 007  no. 8
 date_read: None
 ---
 
-Book Id: 44961014\ 
-Title: James Bond 007 #8\ 
-Author: Greg Pak\ 
-Author l-f: Pak, Greg\ 
-Additional Authors: Eric Gapstur\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.83\ 
-Publisher: Dynamite Comics\ 
-Binding: Kindle Edition\ 
-Number of Pages: 33\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1555)\ 
+Book Id: 44961014<br />
+Title: James Bond 007 #8<br />
+Author: Greg Pak<br />
+Author l-f: Pak, Greg<br />
+Additional Authors: Eric Gapstur<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.83<br />
+Publisher: Dynamite Comics<br />
+Binding: Kindle Edition<br />
+Number of Pages: 33<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1555)<br />
 

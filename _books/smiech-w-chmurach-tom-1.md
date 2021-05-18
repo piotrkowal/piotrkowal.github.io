@@ -4,22 +4,22 @@ title: Śmiech w chmurach Tom 1
 date_read: None
 ---
 
-Book Id: 25545089\ 
-Title: Śmiech w chmurach Tom 1\ 
-Author: Kemuri Karakara\ 
-Author l-f: Karakara, Kemuri\ 
-Additional Authors: 唐々煙\ 
-ISBN: \ 
-ISBN13: 9788364508523\ 
-My Rating: 0\ 
-Average Rating: 4.08\ 
-Publisher: Waneko\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2014\ 
-Original Publication Year: 2011\ 
-Date Read: \ 
-Date Added: 2018/05/07\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 25545089<br />
+Title: Śmiech w chmurach Tom 1<br />
+Author: Kemuri Karakara<br />
+Author l-f: Karakara, Kemuri<br />
+Additional Authors: 唐々煙<br />
+ISBN: <br />
+ISBN13: 9788364508523<br />
+My Rating: 0<br />
+Average Rating: 4.08<br />
+Publisher: Waneko<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2014<br />
+Original Publication Year: 2011<br />
+Date Read: <br />
+Date Added: 2018/05/07<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

@@ -4,21 +4,21 @@ title: Farmhand, Vol. 2 - Thorne in the Flesh
 date_read: None
 ---
 
-Book Id: 44440860\ 
-Title: Farmhand, Vol. 2: Thorne in the Flesh\ 
-Author: Rob Guillory\ 
-Author l-f: Guillory, Rob\ 
-Additional Authors: Taylor Wells\ 
-ISBN: 153431332X\ 
-ISBN13: 9781534313323\ 
-My Rating: 0\ 
-Average Rating: 4.07\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 144\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/07/05\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1630)\ 
+Book Id: 44440860<br />
+Title: Farmhand, Vol. 2: Thorne in the Flesh<br />
+Author: Rob Guillory<br />
+Author l-f: Guillory, Rob<br />
+Additional Authors: Taylor Wells<br />
+ISBN: 153431332X<br />
+ISBN13: 9781534313323<br />
+My Rating: 0<br />
+Average Rating: 4.07<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 144<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/07/05<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1630)<br />
 

@@ -4,22 +4,22 @@ title: Słoń na Zemplinie. Opowieści ze Słowacji
 date_read: None
 ---
 
-Book Id: 48758431\ 
-Title: Słoń na Zemplinie. Opowieści ze Słowacji\ 
-Author: Andrej Bán\ 
-Author l-f: Bán, Andrej\ 
-Additional Authors: Miłosz Waligórski\ 
-ISBN: \ 
-ISBN13: 9788365595249\ 
-My Rating: 0\ 
-Average Rating: 4.14\ 
-Publisher: Książkowe Klimaty\ 
-Binding: Paperback\ 
-Number of Pages: 304\ 
-Year Published: 2019\ 
-Original Publication Year: 2018\ 
-Date Read: \ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1746)\ 
+Book Id: 48758431<br />
+Title: Słoń na Zemplinie. Opowieści ze Słowacji<br />
+Author: Andrej Bán<br />
+Author l-f: Bán, Andrej<br />
+Additional Authors: Miłosz Waligórski<br />
+ISBN: <br />
+ISBN13: 9788365595249<br />
+My Rating: 0<br />
+Average Rating: 4.14<br />
+Publisher: Książkowe Klimaty<br />
+Binding: Paperback<br />
+Number of Pages: 304<br />
+Year Published: 2019<br />
+Original Publication Year: 2018<br />
+Date Read: <br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1746)<br />
 

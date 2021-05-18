@@ -4,21 +4,21 @@ title: The Walking Dead, Vol. 11 - Fear the Hunters
 date_read: None
 ---
 
-Book Id: 6488483\ 
-Title: The Walking Dead, Vol. 11: Fear the Hunters\ 
-Author: Robert Kirkman\ 
-Author l-f: Kirkman, Robert\ 
-Additional Authors: Charlie Adlard, Cliff Rathburn\ 
-ISBN: 1607061228\ 
-ISBN13: 9781607061229\ 
-My Rating: 0\ 
-Average Rating: 4.32\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 136\ 
-Year Published: 2010\ 
-Date Read: \ 
-Date Added: 2020/05/25\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1408)\ 
+Book Id: 6488483<br />
+Title: The Walking Dead, Vol. 11: Fear the Hunters<br />
+Author: Robert Kirkman<br />
+Author l-f: Kirkman, Robert<br />
+Additional Authors: Charlie Adlard, Cliff Rathburn<br />
+ISBN: 1607061228<br />
+ISBN13: 9781607061229<br />
+My Rating: 0<br />
+Average Rating: 4.32<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 136<br />
+Year Published: 2010<br />
+Date Read: <br />
+Date Added: 2020/05/25<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1408)<br />
 

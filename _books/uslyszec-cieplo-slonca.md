@@ -4,21 +4,21 @@ title: Usłyszeć ciepło słońca
 date_read: None
 ---
 
-Book Id: 32183330\ 
-Title: Usłyszeć ciepło słońca\ 
-Author: Yuki Fumino\ 
-Author l-f: Fumino, Yuki\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788394238629\ 
-My Rating: 0\ 
-Average Rating: 4.26\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 188\ 
-Year Published: 2016\ 
-Original Publication Year: 2014\ 
-Date Added: 2020/01/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#770)\ 
+Book Id: 32183330<br />
+Title: Usłyszeć ciepło słońca<br />
+Author: Yuki Fumino<br />
+Author l-f: Fumino, Yuki<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788394238629<br />
+My Rating: 0<br />
+Average Rating: 4.26<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 188<br />
+Year Published: 2016<br />
+Original Publication Year: 2014<br />
+Date Added: 2020/01/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#770)<br />
 

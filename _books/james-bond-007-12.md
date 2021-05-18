@@ -4,20 +4,20 @@ title: James Bond 007  no. 12
 date_read: None
 ---
 
-Book Id: 50899305\ 
-Title: James Bond 007 #12\ 
-Author: Greg Pak\ 
-Author l-f: Pak, Greg\ 
-Additional Authors: Robert Carey\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.09\ 
-Publisher: Dynamite Comics\ 
-Binding: Paperback\ 
-Number of Pages: 32\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1559)\ 
+Book Id: 50899305<br />
+Title: James Bond 007 #12<br />
+Author: Greg Pak<br />
+Author l-f: Pak, Greg<br />
+Additional Authors: Robert Carey<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.09<br />
+Publisher: Dynamite Comics<br />
+Binding: Paperback<br />
+Number of Pages: 32<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1559)<br />
 

@@ -4,22 +4,22 @@ title: Dziewczynka w Krainie Przeklętych - Siúil, a Rún, Tom 1 (dziewczynka w
 date_read: None
 ---
 
-Book Id: 34936240\ 
-Title: Dziewczynka w Krainie Przeklętych: Siúil, a Rún, Tom 1 (dziewczynka w krainie przeklętych, #1)\ 
-Author: Nagabe\ 
-Author l-f: Nagabe, Nagabe\ 
-Additional Authors: Paulina Ślusarczyk-Bryła\ 
-ISBN: \ 
-ISBN13: 9788380012172\ 
-My Rating: 0\ 
-Average Rating: 4.15\ 
-Publisher: Studio JG\ 
-Binding: Hardcover\ 
-Number of Pages: 180\ 
-Year Published: 2017\ 
-Original Publication Year: 2016\ 
-Date Read: \ 
-Date Added: 2018/11/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1788)\ 
+Book Id: 34936240<br />
+Title: Dziewczynka w Krainie Przeklętych: Siúil, a Rún, Tom 1 (dziewczynka w krainie przeklętych, #1)<br />
+Author: Nagabe<br />
+Author l-f: Nagabe, Nagabe<br />
+Additional Authors: Paulina Ślusarczyk-Bryła<br />
+ISBN: <br />
+ISBN13: 9788380012172<br />
+My Rating: 0<br />
+Average Rating: 4.15<br />
+Publisher: Studio JG<br />
+Binding: Hardcover<br />
+Number of Pages: 180<br />
+Year Published: 2017<br />
+Original Publication Year: 2016<br />
+Date Read: <br />
+Date Added: 2018/11/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1788)<br />
 

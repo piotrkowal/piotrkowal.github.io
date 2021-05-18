@@ -4,20 +4,20 @@ title: Moon Face Vol. 3 - The Zenith's Stone
 date_read: None
 ---
 
-Book Id: 40859146\ 
-Title: Moon Face Vol. 3: The Zenith's Stone\ 
-Author: Alejandro Jodorowsky\ 
-Author l-f: Jodorowsky, Alejandro\ 
-Additional Authors: François Boucq\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.07\ 
-Publisher: Humanoids\ 
-Binding: Kindle Edition\ 
-Number of Pages: 44\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2020/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1896)\ 
+Book Id: 40859146<br />
+Title: Moon Face Vol. 3: The Zenith's Stone<br />
+Author: Alejandro Jodorowsky<br />
+Author l-f: Jodorowsky, Alejandro<br />
+Additional Authors: François Boucq<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.07<br />
+Publisher: Humanoids<br />
+Binding: Kindle Edition<br />
+Number of Pages: 44<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2020/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1896)<br />
 

@@ -4,21 +4,21 @@ title: 将国のアルタイル 3 [Shoukoku no Altair 3] (Altair ve Savaşlar Ki
 date_read: None
 ---
 
-Book Id: 18069799\ 
-Title: 将国のアルタイル 3 [Shoukoku no Altair 3] (Altair ve Savaşlar Kitabı, #3)\ 
-Author: Kotono Kato\ 
-Author l-f: Kato, Kotono\ 
-Additional Authors: カトウコトノ\ 
-ISBN: 4063731480\ 
-ISBN13: 9784063731484\ 
-My Rating: 0\ 
-Average Rating: 3.91\ 
-Publisher: 講談社\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2008\ 
-Date Read: \ 
-Date Added: 2019/10/16\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#288)\ 
+Book Id: 18069799<br />
+Title: 将国のアルタイル 3 [Shoukoku no Altair 3] (Altair ve Savaşlar Kitabı, #3)<br />
+Author: Kotono Kato<br />
+Author l-f: Kato, Kotono<br />
+Additional Authors: カトウコトノ<br />
+ISBN: 4063731480<br />
+ISBN13: 9784063731484<br />
+My Rating: 0<br />
+Average Rating: 3.91<br />
+Publisher: 講談社<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2008<br />
+Date Read: <br />
+Date Added: 2019/10/16<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#288)<br />
 

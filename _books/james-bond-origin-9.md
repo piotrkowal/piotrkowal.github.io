@@ -4,20 +4,20 @@ title: James Bond - Origin  no. 9
 date_read: None
 ---
 
-Book Id: 44639085\ 
-Title: James Bond: Origin #9\ 
-Author: Jeff Parker\ 
-Author l-f: Parker, Jeff\ 
-Additional Authors: Ibrahim Moustafa\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.62\ 
-Publisher: Dynamite Comics\ 
-Binding: Paperback\ 
-Number of Pages: 32\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1550)\ 
+Book Id: 44639085<br />
+Title: James Bond: Origin #9<br />
+Author: Jeff Parker<br />
+Author l-f: Parker, Jeff<br />
+Additional Authors: Ibrahim Moustafa<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.62<br />
+Publisher: Dynamite Comics<br />
+Binding: Paperback<br />
+Number of Pages: 32<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1550)<br />
 

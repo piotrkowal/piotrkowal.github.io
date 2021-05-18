@@ -4,21 +4,21 @@ title: Ralph Azham - 1 - Czy oszukuje się tych, których się kocha? (Ralph Azh
 date_read: None
 ---
 
-Book Id: 27789316\ 
-Title: Ralph Azham - 1 - Czy oszukuje się tych, których się kocha? (Ralph Azham, #1)\ 
-Author: Lewis Trondheim\ 
-Author l-f: Trondheim, Lewis\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788363963255\ 
-My Rating: 0\ 
-Average Rating: 3.77\ 
-Publisher: Timof i cisi wspólnicy\ 
-Binding: Paperback\ 
-Number of Pages: 48\ 
-Year Published: 2013\ 
-Original Publication Year: 2011\ 
-Date Added: 2019/04/15\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#682)\ 
+Book Id: 27789316<br />
+Title: Ralph Azham - 1 - Czy oszukuje się tych, których się kocha? (Ralph Azham, #1)<br />
+Author: Lewis Trondheim<br />
+Author l-f: Trondheim, Lewis<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788363963255<br />
+My Rating: 0<br />
+Average Rating: 3.77<br />
+Publisher: Timof i cisi wspólnicy<br />
+Binding: Paperback<br />
+Number of Pages: 48<br />
+Year Published: 2013<br />
+Original Publication Year: 2011<br />
+Date Added: 2019/04/15<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#682)<br />
 

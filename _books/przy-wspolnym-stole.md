@@ -4,22 +4,22 @@ title: Przy wspólnym stole
 date_read: None
 ---
 
-Book Id: 36294470\ 
-Title: Przy wspólnym stole\ 
-Author: Ori Mita\ 
-Author l-f: Mita, Ori\ 
-Additional Authors: Małgorzata Rak\ 
-ISBN: \ 
-ISBN13: 9789265856012\ 
-My Rating: 5\ 
-Average Rating: 4.54\ 
-Publisher: Dango\ 
-Binding: Paperback\ 
-Number of Pages: 240\ 
-Year Published: 2017\ 
-Date Read: \ 
-Date Added: 2020/02/16\ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 36294470<br />
+Title: Przy wspólnym stole<br />
+Author: Ori Mita<br />
+Author l-f: Mita, Ori<br />
+Additional Authors: Małgorzata Rak<br />
+ISBN: <br />
+ISBN13: 9789265856012<br />
+My Rating: 5<br />
+Average Rating: 4.54<br />
+Publisher: Dango<br />
+Binding: Paperback<br />
+Number of Pages: 240<br />
+Year Published: 2017<br />
+Date Read: <br />
+Date Added: 2020/02/16<br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

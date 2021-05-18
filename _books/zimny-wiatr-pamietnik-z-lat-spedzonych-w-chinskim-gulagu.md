@@ -4,22 +4,22 @@ title: Zimny wiatr. Pamiętnik z lat spędzonych w chińskim gułagu
 date_read: None
 ---
 
-Book Id: 42751582\ 
-Title: Zimny wiatr. Pamiętnik z lat spędzonych w chińskim gułagu\ 
-Author: Harry Wu\ 
-Author l-f: Wu, Harry\ 
-Additional Authors: Joanna Krenz\ 
-ISBN: 8306035208\ 
-ISBN13: 9788306035209\ 
-My Rating: 0\ 
-Average Rating: 4.10\ 
-Publisher: Państwowy Instytut Wydawniczy\ 
-Binding: Paperback\ 
-Number of Pages: 312\ 
-Year Published: 2018\ 
-Original Publication Year: 1994\ 
-Date Read: \ 
-Date Added: 2020/07/06\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1721)\ 
+Book Id: 42751582<br />
+Title: Zimny wiatr. Pamiętnik z lat spędzonych w chińskim gułagu<br />
+Author: Harry Wu<br />
+Author l-f: Wu, Harry<br />
+Additional Authors: Joanna Krenz<br />
+ISBN: 8306035208<br />
+ISBN13: 9788306035209<br />
+My Rating: 0<br />
+Average Rating: 4.10<br />
+Publisher: Państwowy Instytut Wydawniczy<br />
+Binding: Paperback<br />
+Number of Pages: 312<br />
+Year Published: 2018<br />
+Original Publication Year: 1994<br />
+Date Read: <br />
+Date Added: 2020/07/06<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1721)<br />
 

@@ -4,18 +4,18 @@ title: Lady Killer, Vol. 2
 date_read: None
 ---
 
-Book Id: 30347784\ 
-Title: Lady Killer, Vol. 2\ 
-Author: Joëlle Jones\ 
-Author l-f: Jones, Joëlle\ 
-Additional Authors: \ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.15\ 
-Publisher: Dark Horse Comics\ 
-Number of Pages: 160\ 
-Year Published: 2017\ 
-Date Added: 2020/01/12\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#730)\ 
+Book Id: 30347784<br />
+Title: Lady Killer, Vol. 2<br />
+Author: Joëlle Jones<br />
+Author l-f: Jones, Joëlle<br />
+Additional Authors: <br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.15<br />
+Publisher: Dark Horse Comics<br />
+Number of Pages: 160<br />
+Year Published: 2017<br />
+Date Added: 2020/01/12<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#730)<br />
 

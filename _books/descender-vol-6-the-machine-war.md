@@ -4,21 +4,21 @@ title: Descender, Vol. 6 - The Machine War
 date_read: None
 ---
 
-Book Id: 37491889\ 
-Title: Descender, Vol. 6: The Machine War\ 
-Author: Jeff Lemire\ 
-Author l-f: Lemire, Jeff\ 
-Additional Authors: Dustin Nguyen\ 
-ISBN: 1534306900\ 
-ISBN13: 9781534306905\ 
-My Rating: 0\ 
-Average Rating: 4.30\ 
-Publisher: Image Comics\ 
-Binding: Paperback\ 
-Number of Pages: 152\ 
-Year Published: 2018\ 
-Date Read: \ 
-Date Added: 2019/10/21\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#507)\ 
+Book Id: 37491889<br />
+Title: Descender, Vol. 6: The Machine War<br />
+Author: Jeff Lemire<br />
+Author l-f: Lemire, Jeff<br />
+Additional Authors: Dustin Nguyen<br />
+ISBN: 1534306900<br />
+ISBN13: 9781534306905<br />
+My Rating: 0<br />
+Average Rating: 4.30<br />
+Publisher: Image Comics<br />
+Binding: Paperback<br />
+Number of Pages: 152<br />
+Year Published: 2018<br />
+Date Read: <br />
+Date Added: 2019/10/21<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#507)<br />
 

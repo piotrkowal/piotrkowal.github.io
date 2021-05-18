@@ -4,19 +4,19 @@ title: Milito Pro Christo
 date_read: None
 ---
 
-Book Id: 29622123\ 
-Title: Milito Pro Christo\ 
-Author: Jan Mazur\ 
-Author l-f: Mazur, Jan\ 
-Additional Authors: Brzozo\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 4.60\ 
-Publisher: \ 
-Binding: Paperback\ 
-Number of Pages: 12\ 
-Year Published: 2014\ 
-Date Added: 2020/01/13\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#796)\ 
+Book Id: 29622123<br />
+Title: Milito Pro Christo<br />
+Author: Jan Mazur<br />
+Author l-f: Mazur, Jan<br />
+Additional Authors: Brzozo<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 4.60<br />
+Publisher: <br />
+Binding: Paperback<br />
+Number of Pages: 12<br />
+Year Published: 2014<br />
+Date Added: 2020/01/13<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#796)<br />
 

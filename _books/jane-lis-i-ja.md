@@ -4,24 +4,24 @@ title: Jane, lis i ja
 date_read: 2019/01/20
 ---
 
-Book Id: 40958334\ 
-Title: Jane, lis i ja\ 
-Author: Fanny Britt\ 
-Author l-f: Britt, Fanny\ 
-Additional Authors: Isabelle Arsenault\ 
-ISBN: \ 
-ISBN13: 9788364858512\ 
-My Rating: 5\ 
-Average Rating: 4.00\ 
-Publisher: kultura gniewu\ 
-Binding: Hardcover\ 
-Number of Pages: 100\ 
-Year Published: 2018\ 
-Original Publication Year: 2012\ 
-Date Read: 2019/01/20\ 
-Date Added: 2019/01/08\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
-Owned Copies: 0\ 
+Book Id: 40958334<br />
+Title: Jane, lis i ja<br />
+Author: Fanny Britt<br />
+Author l-f: Britt, Fanny<br />
+Additional Authors: Isabelle Arsenault<br />
+ISBN: <br />
+ISBN13: 9788364858512<br />
+My Rating: 5<br />
+Average Rating: 4.00<br />
+Publisher: kultura gniewu<br />
+Binding: Hardcover<br />
+Number of Pages: 100<br />
+Year Published: 2018<br />
+Original Publication Year: 2012<br />
+Date Read: 2019/01/20<br />
+Date Added: 2019/01/08<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
+Owned Copies: 0<br />
 

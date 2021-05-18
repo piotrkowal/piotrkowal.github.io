@@ -4,21 +4,21 @@ title: Gwiazda Ratnera
 date_read: None
 ---
 
-Book Id: 35826285\ 
-Title: Gwiazda Ratnera\ 
-Author: Don DeLillo\ 
-Author l-f: DeLillo, Don\ 
-Additional Authors: \ 
-ISBN: \ 
-ISBN13: 9788373925335\ 
-My Rating: 0\ 
-Average Rating: 3.47\ 
-Publisher: Noir Sur Blanc\ 
-Binding: Paperback\ 
-Number of Pages: 504\ 
-Year Published: 2016\ 
-Original Publication Year: 1976\ 
-Date Added: 2021/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2085)\ 
+Book Id: 35826285<br />
+Title: Gwiazda Ratnera<br />
+Author: Don DeLillo<br />
+Author l-f: DeLillo, Don<br />
+Additional Authors: <br />
+ISBN: <br />
+ISBN13: 9788373925335<br />
+My Rating: 0<br />
+Average Rating: 3.47<br />
+Publisher: Noir Sur Blanc<br />
+Binding: Paperback<br />
+Number of Pages: 504<br />
+Year Published: 2016<br />
+Original Publication Year: 1976<br />
+Date Added: 2021/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2085)<br />
 

@@ -4,21 +4,21 @@ title: Happiness, Vol. 10
 date_read: None
 ---
 
-Book Id: 49981604\ 
-Title: Happiness, Vol. 10\ 
-Author: Shūzō Oshimi\ 
-Author l-f: Oshimi, Shūzō\ 
-Additional Authors: Kevin Gifford\ 
-ISBN: 1632368382\ 
-ISBN13: 9781632368386\ 
-My Rating: 0\ 
-Average Rating: 4.18\ 
-Publisher: Kodansha\ 
-Binding: Paperback\ 
-Number of Pages: 192\ 
-Year Published: 2019\ 
-Date Read: \ 
-Date Added: 2020/11/08\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2038)\ 
+Book Id: 49981604<br />
+Title: Happiness, Vol. 10<br />
+Author: Shūzō Oshimi<br />
+Author l-f: Oshimi, Shūzō<br />
+Additional Authors: Kevin Gifford<br />
+ISBN: 1632368382<br />
+ISBN13: 9781632368386<br />
+My Rating: 0<br />
+Average Rating: 4.18<br />
+Publisher: Kodansha<br />
+Binding: Paperback<br />
+Number of Pages: 192<br />
+Year Published: 2019<br />
+Date Read: <br />
+Date Added: 2020/11/08<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2038)<br />
 

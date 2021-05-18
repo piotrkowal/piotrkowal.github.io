@@ -4,20 +4,20 @@ title: Barbarella  no. 3
 date_read: None
 ---
 
-Book Id: 38602883\ 
-Title: Barbarella #3\ 
-Author: Mike Carey\ 
-Author l-f: Carey, Mike\ 
-Additional Authors: Kenan Yarar\ 
-ISBN: \ 
-My Rating: 0\ 
-Average Rating: 3.70\ 
-Publisher: Dynamite\ 
-Binding: Kindle Edition\ 
-Number of Pages: 32\ 
-Year Published: 2018\ 
-Original Publication Year: \ 
-Date Added: 2020/06/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1576)\ 
+Book Id: 38602883<br />
+Title: Barbarella #3<br />
+Author: Mike Carey<br />
+Author l-f: Carey, Mike<br />
+Additional Authors: Kenan Yarar<br />
+ISBN: <br />
+My Rating: 0<br />
+Average Rating: 3.70<br />
+Publisher: Dynamite<br />
+Binding: Kindle Edition<br />
+Number of Pages: 32<br />
+Year Published: 2018<br />
+Original Publication Year: <br />
+Date Added: 2020/06/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1576)<br />
 

@@ -4,23 +4,23 @@ title: JoJo's Bizarre Adventure - Part I - Phantom Blood. Tom 2 (JoJo's Bizarre 
 date_read: None
 ---
 
-Book Id: 54497858\ 
-Title: JoJo's Bizarre Adventure: Part I - Phantom Blood. Tom 2 (JoJo's Bizarre Adventure, #2)\ 
-Author: Hirohiko Araki\ 
-Author l-f: Araki, Hirohiko\ 
-Additional Authors: Michał Żmijewski\ 
-ISBN: \ 
-ISBN13: 9788374718424\ 
-My Rating: 0\ 
-Average Rating: 4.17\ 
-Publisher: J.P.Fantastica\ 
-Binding: Hardcover\ 
-Number of Pages: 296\ 
-Year Published: 2020\ 
-Original Publication Year: 2002\ 
-Date Read: \ 
-Date Added: 2020/11/11\ 
-Bookshelves: currently-reading\ 
-Bookshelves with positions: currently-reading (#9)\ 
-Read Count: 1\ 
+Book Id: 54497858<br />
+Title: JoJo's Bizarre Adventure: Part I - Phantom Blood. Tom 2 (JoJo's Bizarre Adventure, #2)<br />
+Author: Hirohiko Araki<br />
+Author l-f: Araki, Hirohiko<br />
+Additional Authors: Michał Żmijewski<br />
+ISBN: <br />
+ISBN13: 9788374718424<br />
+My Rating: 0<br />
+Average Rating: 4.17<br />
+Publisher: J.P.Fantastica<br />
+Binding: Hardcover<br />
+Number of Pages: 296<br />
+Year Published: 2020<br />
+Original Publication Year: 2002<br />
+Date Read: <br />
+Date Added: 2020/11/11<br />
+Bookshelves: currently-reading<br />
+Bookshelves with positions: currently-reading (#9)<br />
+Read Count: 1<br />
 

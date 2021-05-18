@@ -4,22 +4,22 @@ title: Jego krwawe zamiary
 date_read: None
 ---
 
-Book Id: 42323263\ 
-Title: Jego krwawe zamiary\ 
-Author: Graeme Macrae Burnet\ 
-Author l-f: Burnet, Graeme Macrae\ 
-Additional Authors: Monika Rodziewicz, Mirosław Śmigielski\ 
-ISBN: 8366013065\ 
-ISBN13: 9788366013063\ 
-My Rating: 0\ 
-Average Rating: 3.93\ 
-Publisher: Stara Szkoła\ 
-Binding: Paperback\ 
-Number of Pages: 368\ 
-Year Published: 2018\ 
-Original Publication Year: 2015\ 
-Date Read: \ 
-Date Added: 2021/01/18\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#2115)\ 
+Book Id: 42323263<br />
+Title: Jego krwawe zamiary<br />
+Author: Graeme Macrae Burnet<br />
+Author l-f: Burnet, Graeme Macrae<br />
+Additional Authors: Monika Rodziewicz, Mirosław Śmigielski<br />
+ISBN: 8366013065<br />
+ISBN13: 9788366013063<br />
+My Rating: 0<br />
+Average Rating: 3.93<br />
+Publisher: Stara Szkoła<br />
+Binding: Paperback<br />
+Number of Pages: 368<br />
+Year Published: 2018<br />
+Original Publication Year: 2015<br />
+Date Read: <br />
+Date Added: 2021/01/18<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#2115)<br />
 

@@ -4,22 +4,22 @@ title: Deadman Wonderland 4
 date_read: 2018/02/20
 ---
 
-Book Id: 15817801\ 
-Title: Deadman Wonderland 4\ 
-Author: Jinsei Kataoka\ 
-Author l-f: Kataoka, Jinsei\ 
-Additional Authors: Kazuma Kondou\ 
-ISBN: 3842002912\ 
-ISBN13: 9783842002913\ 
-My Rating: 0\ 
-Average Rating: 4.34\ 
-Publisher: TOKYOPOP GmbH\ 
-Binding: Paperback\ 
-Number of Pages: 436\ 
-Year Published: 2012\ 
-Date Read: 2018/02/20\ 
-Date Added: 2018/02/08\ 
-Bookshelves: \ 
-Exclusive Shelf: read\ 
-Read Count: 1\ 
+Book Id: 15817801<br />
+Title: Deadman Wonderland 4<br />
+Author: Jinsei Kataoka<br />
+Author l-f: Kataoka, Jinsei<br />
+Additional Authors: Kazuma Kondou<br />
+ISBN: 3842002912<br />
+ISBN13: 9783842002913<br />
+My Rating: 0<br />
+Average Rating: 4.34<br />
+Publisher: TOKYOPOP GmbH<br />
+Binding: Paperback<br />
+Number of Pages: 436<br />
+Year Published: 2012<br />
+Date Read: 2018/02/20<br />
+Date Added: 2018/02/08<br />
+Bookshelves: <br />
+Exclusive Shelf: read<br />
+Read Count: 1<br />
 

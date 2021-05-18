@@ -4,19 +4,19 @@ title: ベック 26
 date_read: None
 ---
 
-Book Id: 1733311\ 
-Title: ベック 26\ 
-Author: Harold Sakuishi\ 
-Author l-f: Sakuishi, Harold\ 
-Additional Authors: \ 
-ISBN: 4063721396\ 
-ISBN13: 9784063721393\ 
-My Rating: 0\ 
-Average Rating: 4.17\ 
-Publisher: 講談社\ 
-Binding: Paperback\ 
-Year Published: 2006\ 
-Date Added: 2020/06/02\ 
-Bookshelves: kupka-wstydu\ 
-Bookshelves with positions: kupka-wstydu (#1501)\ 
+Book Id: 1733311<br />
+Title: ベック 26<br />
+Author: Harold Sakuishi<br />
+Author l-f: Sakuishi, Harold<br />
+Additional Authors: <br />
+ISBN: 4063721396<br />
+ISBN13: 9784063721393<br />
+My Rating: 0<br />
+Average Rating: 4.17<br />
+Publisher: 講談社<br />
+Binding: Paperback<br />
+Year Published: 2006<br />
+Date Added: 2020/06/02<br />
+Bookshelves: kupka-wstydu<br />
+Bookshelves with positions: kupka-wstydu (#1501)<br />
 
