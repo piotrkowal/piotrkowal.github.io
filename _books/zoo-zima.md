@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Zoo zimą
-date_read: None
+date_read: 2017/02/01
 ---
 
 Book Id: 22729483<br />
