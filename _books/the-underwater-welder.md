@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Underwater Welder
-date_read: None
+date_read: 2018/12/15
 ---
 
 Book Id: 13602241<br />

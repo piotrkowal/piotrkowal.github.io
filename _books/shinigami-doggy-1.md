@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Shinigami Doggy  no. 1
-date_read: None
+date_read: 2018/10/10
 ---
 
 Book Id: 42273386<br />

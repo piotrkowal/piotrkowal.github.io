@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wrobiona w magię  no. 2
-date_read: None
+date_read: 2018/10/10
 ---
 
 Book Id: 42273480<br />

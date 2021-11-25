@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Zdarzyło się w Teksasie (Kaznodzieja,  no. 1)
-date_read: None
+date_read: 2016/11/11
 ---
 
 Book Id: 18017918<br />

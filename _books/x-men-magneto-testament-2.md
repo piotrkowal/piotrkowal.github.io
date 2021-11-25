@@ -1,7 +1,7 @@
 ---
 layout: book
 title: X-Men - Magneto - Testament  no. 2
-date_read: None
+date_read: 2019/11/04
 ---
 
 Book Id: 26002104<br />

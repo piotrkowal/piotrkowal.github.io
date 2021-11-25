@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ubel Blatt, Vol. 0
-date_read: None
+date_read: 2020/01/20
 ---
 
 Book Id: 20897851<br />

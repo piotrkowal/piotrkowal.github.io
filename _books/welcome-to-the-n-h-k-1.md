@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Welcome to the N.H.K.,  no. 1
-date_read: None
+date_read: 2018/10/13
 ---
 
 Book Id: 17451853<br />

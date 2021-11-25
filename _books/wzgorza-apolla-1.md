@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Sakamichi No Apollon - 1
-date_read: None
+date_read: 2016/10/19
 ---
 
 Book Id: 6351000<br />

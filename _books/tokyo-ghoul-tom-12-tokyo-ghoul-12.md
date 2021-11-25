@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tokyo Ghoul. Tom 12 (Tokyo Ghoul,  no. 12)
-date_read: None
+date_read: 2018/04/30
 ---
 
 Book Id: 34525715<br />

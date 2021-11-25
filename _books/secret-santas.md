@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Secret Santas
-date_read: None
+date_read: 2020/03/27
 ---
 
 Book Id: 43560874<br />

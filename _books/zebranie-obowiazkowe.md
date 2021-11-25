@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Zebranie obowiązkowe
-date_read: None
+date_read: 2019/12/01
 ---
 
 Book Id: 50869795<br />

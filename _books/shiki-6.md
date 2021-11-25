@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Shiki  no. 6
-date_read: None
+date_read: 2018/08/23
 ---
 
 Book Id: 42296364<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ultimate Comics Spider-Man - Kim jest Miles Morales? (Wielka Kolekcja Komiksów Marvela,  no. 114)
-date_read: None
+date_read: 2017/04/10
 ---
 
 Book Id: 36143803<br />

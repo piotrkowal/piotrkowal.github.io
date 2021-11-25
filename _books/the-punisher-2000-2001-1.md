@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Punisher (2000-2001)  no. 1
-date_read: None
+date_read: 2019/11/04
 ---
 
 Book Id: 25761493<br />

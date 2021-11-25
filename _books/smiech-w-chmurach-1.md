@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Śmiech w chmurach Tom 1
-date_read: None
+date_read: 2018/05/17
 ---
 
 Book Id: 25545089<br />

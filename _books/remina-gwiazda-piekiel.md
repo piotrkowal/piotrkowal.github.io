@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Remina. Gwiazda Piekieł
-date_read: None
+date_read: 2018/01/10
 ---
 
 Book Id: 25432533<br />

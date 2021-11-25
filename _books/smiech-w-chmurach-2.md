@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Śmiech w chmurach  no. 2
-date_read: None
+date_read: 2018/05/17
 ---
 
 Book Id: 42295628<br />

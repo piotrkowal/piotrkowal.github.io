@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ta małpa poszła do nieba
-date_read: None
+date_read: 2019/03/24
 ---
 
 Book Id: 40219594<br />

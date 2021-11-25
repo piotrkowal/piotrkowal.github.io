@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wilson
-date_read: None
+date_read: 2019/01/26
 ---
 
 Book Id: 43901976<br />

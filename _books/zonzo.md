@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Zonzo
-date_read: None
+date_read: 2018/12/12
 ---
 
 Book Id: 32335383<br />

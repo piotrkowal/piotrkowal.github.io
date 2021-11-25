@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Shiki, Tome 3
-date_read: None
+date_read: 2017/12/07
 ---
 
 Book Id: 42296373<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Rodacy
-date_read: None
+date_read: 2019/04/13
 ---
 
 Book Id: 33030006<br />

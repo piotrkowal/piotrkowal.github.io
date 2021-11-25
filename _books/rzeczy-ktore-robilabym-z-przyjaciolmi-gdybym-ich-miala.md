@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Rzeczy, które robiłabym z przyjaciółmi gdybym ich miała
-date_read: None
+date_read: 2020/10/18
 ---
 
 Book Id: 55710142<br />

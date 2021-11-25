@@ -1,7 +1,7 @@
 ---
 layout: book
 title: RUE
-date_read: None
+date_read: 2016/10/30
 ---
 
 Book Id: 17801139<br />

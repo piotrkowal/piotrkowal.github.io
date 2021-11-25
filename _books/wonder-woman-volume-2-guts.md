@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wonder Woman, Volume 2 - Guts
-date_read: None
+date_read: 2016/10/29
 ---
 
 Book Id: 15780174<br />

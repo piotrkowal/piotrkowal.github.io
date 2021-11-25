@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Weź się w garść
-date_read: None
+date_read: 2019/04/18
 ---
 
 Book Id: 41725806<br />

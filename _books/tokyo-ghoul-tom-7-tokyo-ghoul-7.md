@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tokyo Ghoul. Tom 7 (Tokyo Ghoul,  no. 7)
-date_read: None
+date_read: 2018/03/04
 ---
 
 Book Id: 30185855<br />

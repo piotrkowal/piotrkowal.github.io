@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tokyo Ghoul. Tom 11 (Tokyo Ghoul,  no. 11)
-date_read: None
+date_read: 2018/04/30
 ---
 
 Book Id: 33793485<br />

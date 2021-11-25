@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Summer Wars  no. 2
-date_read: None
+date_read: 2018/07/25
 ---
 
 Book Id: 42295860<br />

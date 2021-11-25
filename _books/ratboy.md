@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ratboy
-date_read: None
+date_read: 2016/11/02
 ---
 
 Book Id: 19541996<br />

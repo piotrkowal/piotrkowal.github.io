@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ristorante Paradiso
-date_read: None
+date_read: 2018/01/13
 ---
 
 Book Id: 6759122<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tymek i Mistrz. Tom 1
-date_read: None
+date_read: 2016/06/25
 ---
 
 Book Id: 30048792<br />

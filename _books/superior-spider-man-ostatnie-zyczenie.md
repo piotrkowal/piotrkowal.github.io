@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Superior Spider-man - Ostatnie życzenie
-date_read: None
+date_read: 2017/01/31
 ---
 
 Book Id: 28592098<br />

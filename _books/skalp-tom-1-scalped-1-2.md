@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Skalp, Tom 1 (Scalped  no. 1-2)
-date_read: None
+date_read: 2017/04/28
 ---
 
 Book Id: 31836675<br />

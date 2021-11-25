@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Trzy paradoksy
-date_read: None
+date_read: 2019/10/14
 ---
 
 Book Id: 6518587<br />

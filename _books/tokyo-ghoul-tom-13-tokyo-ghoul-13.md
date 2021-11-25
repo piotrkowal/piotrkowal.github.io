@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tokyo Ghoul. Tom 13 (Tokyo Ghoul,  no. 13)
-date_read: None
+date_read: 2018/04/30
 ---
 
 Book Id: 35125629<br />

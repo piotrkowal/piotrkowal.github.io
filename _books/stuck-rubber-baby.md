@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Stuck Rubber Baby
-date_read: None
+date_read: 2018/10/13
 ---
 
 Book Id: 18404001<br />

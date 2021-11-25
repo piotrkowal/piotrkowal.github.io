@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Skull-face Bookseller Honda-san, Vol. 3
+title: Honda, Sprzedawcy kontra mangowcy,  tom 3
 date_read: 2020/08/22
 ---
 

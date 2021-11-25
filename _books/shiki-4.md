@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Shiki  no. 4
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266192<br />

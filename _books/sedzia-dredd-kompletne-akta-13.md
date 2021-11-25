@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Sędzia Dredd - Kompletne Akta 13
-date_read: None
+date_read: 2020/01/12
 ---
 
 Book Id: 35686503<br />

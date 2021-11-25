@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ziemia swoich synów
-date_read: None
+date_read: 2019/06/01
 ---
 
 Book Id: 36333773<br />

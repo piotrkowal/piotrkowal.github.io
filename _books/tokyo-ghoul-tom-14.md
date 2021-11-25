@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Tokyo Ghoul tom 14
-date_read: None
+date_read: 2018/04/30
 ---
 
 Book Id: 35530839<br />

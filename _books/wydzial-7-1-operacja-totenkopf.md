@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wydział 7  no. 1 - Operacja Totenkopf
-date_read: None
+date_read: 2019/11/12
 ---
 
 Book Id: 41954199<br />

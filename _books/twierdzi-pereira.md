@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Twierdzi Pereira
-date_read: None
+date_read: 2019/11/07
 ---
 
 Book Id: 40274714<br />

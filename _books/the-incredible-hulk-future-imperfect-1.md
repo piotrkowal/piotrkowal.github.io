@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Incredible Hulk - Future Imperfect  no. 1
-date_read: None
+date_read: 2019/10/30
 ---
 
 Book Id: 9787035<br />

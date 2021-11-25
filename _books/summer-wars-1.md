@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Summer Wars  no. 1
-date_read: None
+date_read: 2018/05/04
 ---
 
 Book Id: 42295518<br />

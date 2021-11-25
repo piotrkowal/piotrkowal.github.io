@@ -1,7 +1,7 @@
 ---
 layout: book
 title: To nie jest las dla starych wilków
-date_read: None
+date_read: 2016/12/26
 ---
 
 Book Id: 32069643<br />

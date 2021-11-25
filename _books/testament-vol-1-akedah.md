@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Testament, Vol. 1 - Akedah
-date_read: None
+date_read: 2017/03/16
 ---
 
 Book Id: 42295965<br />

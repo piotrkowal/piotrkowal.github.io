@@ -1,7 +1,7 @@
 ---
 layout: book
 title: San Francisco. Dziki brzeg wolności
-date_read: None
+date_read: 2020/07/08
 ---
 
 Book Id: 52392007<br />

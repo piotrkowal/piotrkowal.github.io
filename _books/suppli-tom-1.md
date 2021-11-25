@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Suppli, Tom 1
-date_read: None
+date_read: 2018/10/01
 ---
 
 Book Id: 6444686<br />

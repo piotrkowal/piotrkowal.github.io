@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Zabawa w domek
-date_read: None
+date_read: 2020/10/02
 ---
 
 Book Id: 48741483<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wroniec
-date_read: None
+date_read: 2017/11/12
 ---
 
 Book Id: 7143510<br />

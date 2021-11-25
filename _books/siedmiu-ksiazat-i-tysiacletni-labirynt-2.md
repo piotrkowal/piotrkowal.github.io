@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Siedmiu książąt i tysiącletni labirynt 2
-date_read: None
+date_read: 2019/07/24
 ---
 
 Book Id: 45317616<br />

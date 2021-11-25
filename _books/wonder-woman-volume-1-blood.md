@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Wonder Woman, Volume 1 - Blood
-date_read: None
+date_read: 2016/09/1
 ---
 
 Book Id: 13227319<br />

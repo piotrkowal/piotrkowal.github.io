@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Siedmiu książąt i tysiącletni labirynt 1
-date_read: None
+date_read: 2019/07/24
 ---
 
 Book Id: 43477451<br />

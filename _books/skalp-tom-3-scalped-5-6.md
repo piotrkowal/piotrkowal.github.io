@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Skalp, Tom 3 (Scalped  no. 5-6)
-date_read: None
+date_read: 2018/12/02
 ---
 
 Book Id: 34220040<br />
