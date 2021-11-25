@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kot rabina tom zbiorczy (1-5)
-date_read: None
+date_read: 2017/02/17
 ---
 
 Book Id: 35439141<br />

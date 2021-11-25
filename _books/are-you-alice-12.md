@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Are You Alice?  no. 12
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266233<br />
