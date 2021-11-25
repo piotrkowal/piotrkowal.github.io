@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Król kebabów i inne zderzenia polsko-obce
-date_read: None
+date_read: 2016/12/06
 ---
 
 Book Id: 26808346<br />

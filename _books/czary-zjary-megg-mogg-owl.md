@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Czary zjary (Megg, Mogg & Owl)
-date_read: None
+date_read: 2020/06/12
 ---
 
 Book Id: 29984032<br />

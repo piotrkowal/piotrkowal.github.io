@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Długie Halloween, część 2 (Wielka Kolekcja Komiksów DC Comics,  no. 8)
-date_read: None
+date_read: 2017/05/04
 ---
 
 Book Id: 33310715<br />

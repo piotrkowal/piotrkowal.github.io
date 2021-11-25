@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Baboon!
-date_read: None
+date_read: 2020/12/06
 ---
 
 Book Id: 48768395<br />

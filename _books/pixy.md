@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Pixy
-date_read: None
+date_read: 2020/03/31
 ---
 
 Book Id: 149512<br />

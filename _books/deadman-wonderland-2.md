@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Deadman Wonderland. Tom 2 (Deadman Wonderland,  no. 2)
-date_read: None
+date_read: 2018/02/13
 ---
 
 Book Id: 25134074<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Porozmawiajmy o czymś przyjemniejszym
-date_read: None
+date_read: 2019/11/02
 ---
 
 Book Id: 45836443<br />

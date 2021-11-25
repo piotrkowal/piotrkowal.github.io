@@ -1,11 +1,11 @@
 ---
 layout: book
-title: The Boy and the Beast, Vol. 3
+title: Dziecię Bestii  no. 2
 date_read: 2020/05/25
 ---
 
 Book Id: 31934057<br />
-Title: The Boy and the Beast, Vol. 3<br />
+Title: Dziecię Bestii  no. 2<br />
 Author: Mamoru Hosoda<br />
 Author l-f: Hosoda, Mamoru<br />
 Additional Authors: Renji Asai<br />

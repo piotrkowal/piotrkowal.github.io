@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Catwoman - Wielki Skok Seliny (Wielka Kolekcja Komiksów DC Comics,  no. 11)
-date_read: None
+date_read: 2017/01/25
 ---
 
 Book Id: 34052168<br />

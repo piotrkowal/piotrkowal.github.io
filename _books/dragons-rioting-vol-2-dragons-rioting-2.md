@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting, Vol. 2 (Dragons Rioting,  no. 2)
-date_read: None
+date_read: 2018/03/04
 ---
 
 Book Id: 25746693<br />

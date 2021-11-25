@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Hiroki Endo - krótkie historie
-date_read: None
+date_read: 2016/07/23
 ---
 
 Book Id: 42294297<br />

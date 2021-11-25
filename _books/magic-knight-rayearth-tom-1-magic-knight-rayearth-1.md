@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Magic Knight Rayearth, Tom 1 (Magic Knight Rayearth,  no. 1)
-date_read: None
+date_read: 2019/06/02
 ---
 
 Book Id: 51833872<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Las
-date_read: None
+date_read: 2020/01/18
 ---
 
 Book Id: 44539657<br />

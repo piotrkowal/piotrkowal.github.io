@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Hieronymus
-date_read: None
+date_read: 2016/11/13
 ---
 
 Book Id: 27353818<br />

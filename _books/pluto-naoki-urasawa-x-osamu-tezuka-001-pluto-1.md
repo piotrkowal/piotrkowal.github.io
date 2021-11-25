@@ -1,7 +1,7 @@
 ---
 layout: book
 title: PLUTO - Naoki Urasawa x Osamu Tezuka, 001 (Pluto,  no. 1)
-date_read: None
+date_read: 2019/10/23
 ---
 
 Book Id: 13432688<br />

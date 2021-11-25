@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Na własny koszt - komiksowy pamiętnik bywalca burdeli
-date_read: None
+date_read: 2016/09/17
 ---
 
 Book Id: 20812874<br />

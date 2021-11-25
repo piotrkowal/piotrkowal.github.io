@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Książka, którą napisałem, żeby mieć na dziwki i narkotyki
-date_read: None
+date_read: 2016/08/06
 ---
 
 Book Id: 17189136<br />

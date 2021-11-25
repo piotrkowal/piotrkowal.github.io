@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Czyjś Tata
-date_read: None
+date_read: 2016/10/28
 ---
 
 Book Id: 25438358<br />

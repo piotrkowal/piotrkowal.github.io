@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Posępny Mononokean  no. 8
-date_read: None
+date_read: 2018/07/22
 ---
 
 Book Id: 42295748<br />

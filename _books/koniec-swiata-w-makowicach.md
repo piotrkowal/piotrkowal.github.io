@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Koniec świata w Makowicach
-date_read: None
+date_read: 2020/01/1
 ---
 
 Book Id: 49975493<br />

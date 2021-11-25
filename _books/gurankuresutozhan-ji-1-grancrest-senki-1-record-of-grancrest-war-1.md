@@ -1,7 +1,7 @@
 ---
 layout: book
 title: グランクレスト戦記 1 [Grancrest Senki 1] (Record of Grancrest War,  no. 1)
-date_read: None
+date_read: 2020/01/10
 ---
 
 Book Id: 36560032<br />

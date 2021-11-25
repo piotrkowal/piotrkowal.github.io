@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Giants
-date_read: None
+date_read: 2020/03/27
 ---
 
 Book Id: 42585489<br />

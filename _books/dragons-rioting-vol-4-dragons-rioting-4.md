@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting, Vol. 4 (Dragons Rioting,  no. 4)
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266336<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Pijak
-date_read: None
+date_read: 2020/01/19
 ---
 
 Book Id: 45694474<br />

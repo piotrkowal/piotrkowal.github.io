@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ludzie bezdomni 
-date_read: None
+date_read: 2016/12/29
 ---
 
 Book Id: 2696239<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Moje lesbijskie doświadczenia w walce z samotnością
-date_read: None
+date_read: 2019/08/11
 ---
 
 Book Id: 45358147<br />

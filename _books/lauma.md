@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Łauma
-date_read: None
+date_read: 2016/10/19
 ---
 
 Book Id: 7325132<br />

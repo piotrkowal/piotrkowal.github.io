@@ -1,7 +1,7 @@
 ---
 layout: book
 title: プランダラ 3 (Plunderer,  no. 3)
-date_read: None
+date_read: 2020/06/19
 ---
 
 Book Id: 32712185<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Pierwsza Naiwna
-date_read: None
+date_read: 2017/02/26
 ---
 
 Book Id: 23430768<br />

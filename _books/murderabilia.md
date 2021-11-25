@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Murderabilia
-date_read: None
+date_read: 2019/09/01
 ---
 
 Book Id: 41837969<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Little Bird  no. 2
-date_read: None
+date_read: 2020/01/10
 ---
 
 Book Id: 44570965<br />

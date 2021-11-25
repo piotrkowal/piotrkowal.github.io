@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Honda, Sprzedawcy kontra mangowcy,  no. 2
-date_read: None
+date_read: 2020/01/12
 ---
 
 Book Id: 53446104<br />

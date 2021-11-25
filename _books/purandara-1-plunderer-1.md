@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Plunderer tom 1
-date_read: None
+date_read: 2020/06/19
 ---
 
 Book Id: 51029823<br />

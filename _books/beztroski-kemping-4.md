@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Beztroski kemping  no. 4
-date_read: None
+date_read: 2020/02/20
 ---
 
 Book Id: 53129269<br />

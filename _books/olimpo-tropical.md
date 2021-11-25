@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Olimpo Tropical
-date_read: None
+date_read: 2019/10/21
 ---
 
 Book Id: 49705290<br />

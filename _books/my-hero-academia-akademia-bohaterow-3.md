@@ -1,7 +1,7 @@
 ---
 layout: book
 title: My Hero Academia - Akademia bohaterów  no. 3
-date_read: None
+date_read: 2018/07/22
 ---
 
 Book Id: 42296409<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Ziemia Jeden
-date_read: None
+date_read: 2016/12/26
 ---
 
 Book Id: 25458120<br />

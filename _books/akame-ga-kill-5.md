@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Akame ga KILL!  no. 5
-date_read: None
+date_read: 2018/07/22
 ---
 
 Book Id: 42295825<br />

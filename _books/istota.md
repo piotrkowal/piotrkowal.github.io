@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Istota
-date_read: None
+date_read: 2019/10/08
 ---
 
 Book Id: 40104208<br />

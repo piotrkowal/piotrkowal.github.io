@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Forest of Lore
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 31181140<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Oyaji Vol. 3
-date_read: None
+date_read: 2019/06/13
 ---
 
 Book Id: 26873985<br />

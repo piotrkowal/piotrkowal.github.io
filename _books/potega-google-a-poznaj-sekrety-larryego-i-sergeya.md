@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Potęga Google'a. Poznaj sekrety Larry’ego i Sergeya
-date_read: None
+date_read: 2016/10/28
 ---
 
 Book Id: 18493416<br />

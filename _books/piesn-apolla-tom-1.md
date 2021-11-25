@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Pieśń Apolla Tom 1
-date_read: None
+date_read: 2016/11/20
 ---
 
 Book Id: 42292726<br />

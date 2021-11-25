@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Beztroski kemping  no. 2
-date_read: None
+date_read: 2020/01/12
 ---
 
 Book Id: 45710665<br />

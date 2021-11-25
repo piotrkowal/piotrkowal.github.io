@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ayako
-date_read: None
+date_read: 2019/06/13
 ---
 
 Book Id: 45989860<br />

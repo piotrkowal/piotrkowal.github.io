@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting  no. 8
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266466<br />

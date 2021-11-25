@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Najgorszy komiks roku
-date_read: None
+date_read: 2018/12/21
 ---
 
 Book Id: 34531350<br />

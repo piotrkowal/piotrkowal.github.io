@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Rok pierwszy
-date_read: None
+date_read: 2016/10/29
 ---
 
 Book Id: 28364676<br />

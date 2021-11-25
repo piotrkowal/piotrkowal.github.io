@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Drugi Atlas zwierząt
-date_read: None
+date_read: 2018/10/12
 ---
 
 Book Id: 30131256<br />

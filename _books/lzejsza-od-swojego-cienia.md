@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Lżejsza od swojego cienia
-date_read: None
+date_read: 2019/10/17
 ---
 
 Book Id: 40227839<br />

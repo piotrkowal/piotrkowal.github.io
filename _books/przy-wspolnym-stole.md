@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Przy wspólnym stole
-date_read: None
+date_read: 2020/02/16
 ---
 
 Book Id: 36294470<br />

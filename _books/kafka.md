@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kafka
-date_read: None
+date_read: 2019/12/22
 ---
 
 Book Id: 61352<br />

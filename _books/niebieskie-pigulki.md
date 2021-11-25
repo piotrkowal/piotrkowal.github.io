@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Niebieskie pigułki
-date_read: None
+date_read: 2018/11/26
 ---
 
 Book Id: 6445006<br />

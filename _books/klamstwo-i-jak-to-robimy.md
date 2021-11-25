@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kłamstwo i jak to robimy
-date_read: None
+date_read: 2019/10/06
 ---
 
 Book Id: 45188422<br />

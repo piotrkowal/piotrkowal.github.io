@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ostatni serwer
-date_read: None
+date_read: 2016/10/28
 ---
 
 Book Id: 30131293<br />

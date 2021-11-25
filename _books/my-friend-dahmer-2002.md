@@ -1,7 +1,7 @@
 ---
 layout: book
 title: My Friend Dahmer [2002]
-date_read: None
+date_read: 2020/10/08
 ---
 
 Book Id: 6726717<br />

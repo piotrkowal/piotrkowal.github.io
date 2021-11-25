@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kaznodzieja - Na południe (Kaznodzieja,  no. 5.2)
-date_read: None
+date_read: 2016/11/11
 ---
 
 Book Id: 28429803<br />

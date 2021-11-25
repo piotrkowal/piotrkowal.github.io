@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Hush, część 2 (Wielka Kolekcja Komiksów DC Comics,  no. 2)
-date_read: None
+date_read: 2018/12/02
 ---
 
 Book Id: 31867026<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Are You Alice?  no. 5
-date_read: None
+date_read: 2018/08/23
 ---
 
 Book Id: 42273636<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kryzys tożsamości
-date_read: None
+date_read: 2016/11/05
 ---
 
 Book Id: 25442277<br />

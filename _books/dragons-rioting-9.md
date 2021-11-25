@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting  no. 9
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266290<br />

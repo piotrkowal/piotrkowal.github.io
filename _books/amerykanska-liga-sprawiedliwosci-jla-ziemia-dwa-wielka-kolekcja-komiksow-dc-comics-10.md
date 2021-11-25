@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Amerykańska Liga Sprawiedliwości - JLA - Ziemia dwa (Wielka Kolekcja Komiksów DC Comics,  no. 10)
-date_read: None
+date_read: 2017/01/05
 ---
 
 Book Id: 33759547<br />

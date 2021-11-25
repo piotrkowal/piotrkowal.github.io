@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Polina
-date_read: None
+date_read: 2019/11/11
 ---
 
 Book Id: 11196108<br />

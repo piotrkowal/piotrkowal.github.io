@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Córka Mendla. Wspomnienia
-date_read: None
+date_read: 2016/12/26
 ---
 
 Book Id: 18107715<br />

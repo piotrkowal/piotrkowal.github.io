@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Gwiazda spadająca za dnia 5
-date_read: None
+date_read: 2018/05/29
 ---
 
 Book Id: 34664783<br />

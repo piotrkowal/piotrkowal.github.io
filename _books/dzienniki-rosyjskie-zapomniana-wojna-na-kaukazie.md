@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dzienniki rosyjskie. Zapomniana wojna na Kaukazie
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 20626226<br />

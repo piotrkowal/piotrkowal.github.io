@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kanon graficzny. Tom 1. Od Gilgamesza do Tybetańskiej księgi umarłych
-date_read: None
+date_read: 2016/10/16
 ---
 
 Book Id: 22864350<br />

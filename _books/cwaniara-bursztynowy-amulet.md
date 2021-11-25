@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Cwaniara. Bursztynowy amulet
-date_read: None
+date_read: 2019/10/14
 ---
 
 Book Id: 52245200<br />

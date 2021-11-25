@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Lepperiada
-date_read: None
+date_read: 2019/05/03
 ---
 
 Book Id: 16158588<br />

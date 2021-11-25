@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Harry Potter and the Chamber of Secrets (Harry Potter,  no. 2)
-date_read: None
+date_read: 2003/06/01
 ---
 
 Book Id: 15881<br />

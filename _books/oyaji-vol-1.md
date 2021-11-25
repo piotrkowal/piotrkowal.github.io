@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Oyaji Vol. 1
-date_read: None
+date_read: 2019/06/13
 ---
 
 Book Id: 26873962<br />

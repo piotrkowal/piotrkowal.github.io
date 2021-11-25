@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting, Vol. 1 (Dragons Rioting,  no. 1)
-date_read: None
+date_read: 2018/03/04
 ---
 
 Book Id: 25677553<br />

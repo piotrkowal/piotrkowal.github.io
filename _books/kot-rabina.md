@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Kot rabina
+title: Kot rabina tom zbiorczy (1-5)
 date_read: None
 ---
 

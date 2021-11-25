@@ -1,11 +1,11 @@
 ---
 layout: book
-title: Cesarz, Szachinszach
-date_read: None
+title: Cesarz
+date_read: 2016/12/06
 ---
 
 Book Id: 18369061<br />
-Title: Cesarz, Szachinszach<br />
+Title: Cesarz<br />
 Author: Ryszard Kapuściński<br />
 Author l-f: Kapuściński, Ryszard<br />
 Additional Authors: <br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ziemia obiecana
-date_read: None
+date_read: 2017/06/23
 ---
 
 Book Id: 2162324<br />

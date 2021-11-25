@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Azyl Arkham
-date_read: None
+date_read: 2017/01/23
 ---
 
 Book Id: 26586059<br />

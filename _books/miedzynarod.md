@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Międzynaród
-date_read: None
+date_read: 2016/10/28
 ---
 
 Book Id: 13540043<br />

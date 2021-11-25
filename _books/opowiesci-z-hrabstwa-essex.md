@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Opowieści z hrabstwa Essex
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 8342709<br />

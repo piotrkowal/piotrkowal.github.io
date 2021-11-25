@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Frankenstein  (Junji Ito - Kolekcja horrorów,  no. 10)
-date_read: None
+date_read: 2020/01/12
 ---
 
 Book Id: 52565859<br />

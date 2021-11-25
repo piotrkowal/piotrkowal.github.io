@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Nacjolove
-date_read: None
+date_read: 2019/04/13
 ---
 
 Book Id: 41871491<br />

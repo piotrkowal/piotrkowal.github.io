@@ -1,7 +1,7 @@
 ---
 layout: book
 title: David Boring
-date_read: None
+date_read: 2016/09/17
 ---
 
 Book Id: 27041248<br />

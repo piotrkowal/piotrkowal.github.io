@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Bakuman. Tom 7 (Bakuman,  no. 7)
-date_read: None
+date_read: 2018/10/14
 ---
 
 Book Id: 41842790<br />

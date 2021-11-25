@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Centaurus  no. 1 - Ziemia obiecana
-date_read: None
+date_read: 2019/04/14
 ---
 
 Book Id: 40138185<br />

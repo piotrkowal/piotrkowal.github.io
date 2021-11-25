@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Monster  no. 1 (Monster,  no. 1-2)
-date_read: None
+date_read: 2017/08/02
 ---
 
 Book Id: 21946567<br />

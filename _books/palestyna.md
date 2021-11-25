@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Palestyna
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 24294686<br />

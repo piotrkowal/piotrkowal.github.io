@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Prison Pit, Vol. 1
-date_read: None
+date_read: 2019/10/13
 ---
 
 Book Id: 6621334<br />

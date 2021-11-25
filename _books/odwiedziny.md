@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Odwiedziny
-date_read: None
+date_read: 2018/12/20
 ---
 
 Book Id: 34531367<br />

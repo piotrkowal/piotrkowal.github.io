@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Deadpool (Superbohaterowie Marvela,  no. 17)
-date_read: None
+date_read: 2018/07/02
 ---
 
 Book Id: 40599726<br />

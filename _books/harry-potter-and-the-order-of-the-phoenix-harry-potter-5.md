@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Harry Potter and the Order of the Phoenix (Harry Potter,  no. 5)
-date_read: None
+date_read: 2005/03/01
 ---
 
 Book Id: 2<br />

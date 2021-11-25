@@ -1,7 +1,7 @@
 ---
 layout: book
-title: Bakuman 6
-date_read: None
+title: Bakuman tom 6
+date_read: 2018/10/14
 ---
 
 Book Id: 36206641<br />

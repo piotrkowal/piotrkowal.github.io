@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Czarnobyl. Strefa
-date_read: None
+date_read: 2018/11/29
 ---
 
 Book Id: 42089758<br />

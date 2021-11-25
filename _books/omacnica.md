@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Omacnica
-date_read: None
+date_read: 2016/10/2
 ---
 
 Book Id: 25437520<br />

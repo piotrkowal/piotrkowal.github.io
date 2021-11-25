@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Mówili na niego Karol
-date_read: None
+date_read: 2020/03/13
 ---
 
 Book Id: 51472138<br />

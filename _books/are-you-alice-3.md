@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Are You Alice?  no. 3
-date_read: None
+date_read: 2018/03/14
 ---
 
 Book Id: 42296128<br />

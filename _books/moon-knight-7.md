@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Moon Knight  no. 7
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 28137755<br />

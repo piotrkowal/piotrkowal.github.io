@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Długie Halloween, część 1 (Wielka Kolekcja Komiksów DC Comics,  no. 7)
-date_read: None
+date_read: 2017/05/04
 ---
 
 Book Id: 33005248<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 僕のヒーローアカデミア 6 [Boku No Hero Academia 6] (My Hero Academia,  no. 6)
-date_read: None
+date_read: 2018/11/16
 ---
 
 Book Id: 25806171<br />

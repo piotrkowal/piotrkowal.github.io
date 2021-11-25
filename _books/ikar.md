@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ikar
-date_read: None
+date_read: 2016/07/01
 ---
 
 Book Id: 16081231<br />

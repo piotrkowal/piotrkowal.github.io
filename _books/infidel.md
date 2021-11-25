@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Infidel
-date_read: None
+date_read: 2019/10/14
 ---
 
 Book Id: 53585126<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ghost World
-date_read: None
+date_read: 2019/01/26
 ---
 
 Book Id: 62953<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Brom
-date_read: None
+date_read: 2019/10/13
 ---
 
 Book Id: 45441469<br />

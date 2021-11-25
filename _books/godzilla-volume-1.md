@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Godzilla, Volume 1
-date_read: None
+date_read: 2019/10/15
 ---
 
 Book Id: 15896677<br />

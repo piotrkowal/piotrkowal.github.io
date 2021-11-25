@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kaznodzieja - Wojna w słońcu (Kaznodzieja,  no. 6)
-date_read: None
+date_read: 2016/11/11
 ---
 
 Book Id: 28429816<br />

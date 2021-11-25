@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 47 Ronin (47 Ronin,  no. 1-5)
-date_read: None
+date_read: 2017/04/16
 ---
 
 Book Id: 18619306<br />

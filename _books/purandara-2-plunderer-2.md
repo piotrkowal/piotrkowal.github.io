@@ -1,7 +1,7 @@
 ---
 layout: book
 title: プランダラ 2 (Plunderer,  no. 2)
-date_read: None
+date_read: 2020/06/19
 ---
 
 Book Id: 39818401<br />

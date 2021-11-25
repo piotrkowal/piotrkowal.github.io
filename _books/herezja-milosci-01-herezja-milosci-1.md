@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Herezja miłości  no. 01 (Herezja miłości,  no. 1)
-date_read: None
+date_read: 2018/10/13
 ---
 
 Book Id: 42296315<br />

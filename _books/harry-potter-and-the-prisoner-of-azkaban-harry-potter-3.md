@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Harry Potter and the Prisoner of Azkaban (Harry Potter,  no. 3)
-date_read: None
+date_read: 2004/03/01
 ---
 
 Book Id: 5<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Rewolucja według Ludwika  no. 1
-date_read: None
+date_read: 2019/02/25
 ---
 
 Book Id: 34510964<br />

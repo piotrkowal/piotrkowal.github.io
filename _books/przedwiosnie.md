@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Przedwiośnie 
-date_read: None
+date_read: 2018/01/09
 ---
 
 Book Id: 1904868<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Moon Knight  no. 5
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 26042181<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman. Tom 7. Ostateczna rozgrywka (Batman,  no. 7)
-date_read: None
+date_read: 2016/12/26
 ---
 
 Book Id: 33394606<br />

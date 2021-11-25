@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Patience
-date_read: None
+date_read: 2016/10/30
 ---
 
 Book Id: 30180684<br />

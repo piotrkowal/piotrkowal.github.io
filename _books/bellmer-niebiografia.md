@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Bellmer. Niebiografia
-date_read: None
+date_read: 2020/03/27
 ---
 
 Book Id: 36211496<br />

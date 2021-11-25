@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Mirai Nikki 6
-date_read: None
+date_read: 2018/03/04
 ---
 
 Book Id: 13529680<br />

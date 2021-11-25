@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Powstanie. Film narodowy
-date_read: None
+date_read: 2019/11/11
 ---
 
 Book Id: 36529472<br />

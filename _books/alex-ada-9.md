@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Alex + Ada  no. 9
-date_read: None
+date_read: 2018/12/03
 ---
 
 Book Id: 22892470<br />

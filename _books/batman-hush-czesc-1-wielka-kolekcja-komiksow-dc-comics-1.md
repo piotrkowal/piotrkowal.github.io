@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman - Hush, część 1 (Wielka Kolekcja Komiksów DC Comics,  no. 1)
-date_read: None
+date_read: 2018/12/02
 ---
 
 Book Id: 31694409<br />

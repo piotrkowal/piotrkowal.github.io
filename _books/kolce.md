@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Kolce
-date_read: None
+date_read: 2020/05/24
 ---
 
 Book Id: 48579279<br />

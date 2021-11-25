@@ -1,7 +1,7 @@
 ---
 layout: book
 title: JoJo's Bizarre Adventure - Part 1 - Phantom Blood. Tom 1
-date_read: None
+date_read: 2020/11/07
 ---
 
 Book Id: 54995948<br />

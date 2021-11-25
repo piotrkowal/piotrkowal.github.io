@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Harry Potter and the Deathly Hallows (Harry Potter,  no. 7)
-date_read: None
+date_read: 2007/03/01
 ---
 
 Book Id: 136251<br />

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Pamiętnik Przyszłości  no. 11
-date_read: None
+date_read: 2018/10/07
 ---
 
 Book Id: 42200868<br />

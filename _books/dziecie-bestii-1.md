@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dziecię Bestii  no. 1
-date_read: None
+date_read: 2018/10/07
 ---
 
 Book Id: 42200275<br />

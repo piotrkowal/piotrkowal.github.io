@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Przebudzenie
-date_read: None
+date_read: 2016/10/16
 ---
 
 Book Id: 42295931<br />

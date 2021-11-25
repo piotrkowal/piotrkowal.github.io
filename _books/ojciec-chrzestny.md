@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Ojciec chrzestny
-date_read: None
+date_read: 2016/06/25
 ---
 
 Book Id: 6163050<br />

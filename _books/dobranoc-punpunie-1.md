@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dobranoc, Punpunie  no. 1
-date_read: None
+date_read: 2020/01/12
 ---
 
 Book Id: 53009251<br />

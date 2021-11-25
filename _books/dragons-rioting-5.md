@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Dragons Rioting  no. 5
-date_read: None
+date_read: 2018/10/09
 ---
 
 Book Id: 42266487<br />

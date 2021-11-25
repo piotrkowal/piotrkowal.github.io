@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Green Arrow - Kołczan, część 1 (Wielka Kolekcja Komiksów DC Comics,  no. 3)
-date_read: None
+date_read: 2017/05/04
 ---
 
 Book Id: 32173137<br />

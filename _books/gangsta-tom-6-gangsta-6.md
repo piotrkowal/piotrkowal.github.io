@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Gangsta. Tom 6 (Gangsta.,  no. 6)
-date_read: None
+date_read: 2018/12/16
 ---
 
 Book Id: 37509659<br />

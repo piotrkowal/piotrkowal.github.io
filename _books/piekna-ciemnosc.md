@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Piękna ciemność
-date_read: None
+date_read: 2020/01/10
 ---
 
 Book Id: 41129512<br />

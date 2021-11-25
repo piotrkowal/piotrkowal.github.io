@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Bloody Mary, Vol. 2
-date_read: None
+date_read: 2016/07/20
 ---
 
 Book Id: 25814389<br />

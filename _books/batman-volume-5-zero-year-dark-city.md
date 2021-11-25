@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Batman, Volume 5 - Zero Year - Dark City
-date_read: None
+date_read: 2016/11/13
 ---
 
 Book Id: 21524934<br />
