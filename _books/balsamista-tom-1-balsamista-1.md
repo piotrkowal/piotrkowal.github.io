@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Balsamista, tom 1 (Balsamista,  no. 1)
-date_read: N2018/09/25one
+date_read: 2018/09/25
 ---
 
 Book Id: 6444823<br />
