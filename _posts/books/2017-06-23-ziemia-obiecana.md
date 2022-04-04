@@ -2,6 +2,7 @@
 layout: book
 title: Ziemia obiecana
 date_read: 2017/06/23
+tags: książki
 ---
 
 Book Id: 2162324<br />
@@ -21,4 +22,5 @@ Date Added: 2017/06/23<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Pandora Hearts, Volume 4
 date_read: 2019/01/31
+tags: książki
 ---
 
 Book Id: 2641208<br />
@@ -23,4 +24,5 @@ Date Added: 2018/12/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

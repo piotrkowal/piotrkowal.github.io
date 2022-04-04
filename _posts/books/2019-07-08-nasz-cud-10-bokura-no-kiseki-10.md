@@ -2,6 +2,7 @@
 layout: book
 title: Nasz cud 10 [Bokura no Kiseki 10]
 date_read: 2019/07/08
+tags: książki
 ---
 
 Book Id: 50790055<br />
@@ -22,4 +23,5 @@ Date Added: 2019/06/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

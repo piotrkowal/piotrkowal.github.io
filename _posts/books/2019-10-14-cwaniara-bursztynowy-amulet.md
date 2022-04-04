@@ -2,6 +2,7 @@
 layout: book
 title: Cwaniara. Bursztynowy amulet
 date_read: 2019/10/14
+tags: książki
 ---
 
 Book Id: 52245200<br />
@@ -16,4 +17,5 @@ Date Added: 2019/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

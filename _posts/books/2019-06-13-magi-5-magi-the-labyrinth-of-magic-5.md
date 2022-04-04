@@ -2,6 +2,7 @@
 layout: book
 title: マギ 5 (Magi - The Labyrinth of Magic,  no. 5)
 date_read: 2019/06/13
+tags: książki
 ---
 
 Book Id: 12349900<br />
@@ -22,4 +23,5 @@ Date Added: 2019/06/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: 暗殺教室 2 [Ansatsu Kyoushitsu 2] (Assassination Classroom,  no. 2)
 date_read: 2019/02/04
+tags: książki
 ---
 
 Book Id: 16078334<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/17<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

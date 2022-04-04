@@ -2,6 +2,7 @@
 layout: book
 title: Jane, lis i ja
 date_read: 2019/01/20
+tags: książki
 ---
 
 Book Id: 40958334<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

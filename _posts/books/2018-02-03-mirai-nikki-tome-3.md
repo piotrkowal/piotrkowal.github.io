@@ -2,6 +2,7 @@
 layout: book
 title: Mirai Nikki, Tome 3
 date_read: 2018/02/03
+tags: książki
 ---
 
 Book Id: 8892064<br />
@@ -22,4 +23,5 @@ Date Read: 2018/02/03<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Swamp Thing, Vol. 1 - Saga of the Swamp Thing
 date_read: 2017/03/29
+tags: książki
 ---
 
 Book Id: 102324<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Mój drogi bracie
 date_read: 2017/07/28
+tags: książki
 ---
 
 Book Id: 22614918<br />
@@ -22,4 +23,5 @@ Date Read: 2017/07/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

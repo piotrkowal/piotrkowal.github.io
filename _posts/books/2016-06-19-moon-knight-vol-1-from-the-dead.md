@@ -2,6 +2,7 @@
 layout: book
 title: Moon Knight, Vol. 1 - From the Dead
 date_read: 2016/06/19
+tags: książki
 ---
 
 Book Id: 20898006<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

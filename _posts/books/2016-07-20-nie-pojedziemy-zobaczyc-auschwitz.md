@@ -2,6 +2,7 @@
 layout: book
 title: Nie pojedziemy zobaczyć Auschwitz
 date_read: 2016/07/20
+tags: książki
 ---
 
 Book Id: 23489998<br />
@@ -22,4 +23,5 @@ Date Added: 2016/07/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

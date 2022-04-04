@@ -2,6 +2,7 @@
 layout: book
 title: Ludwig Revolution, Vol. 3
 date_read: 2019/05/20
+tags: książki
 ---
 
 Book Id: 2679055<br />
@@ -23,4 +24,5 @@ Date Added: 2019/01/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

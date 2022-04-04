@@ -2,6 +2,7 @@
 layout: book
 title: Batman. Tom 3. Śmierć rodziny (Batman,  no. 3)
 date_read: 2016/11/29
+tags: książki
 ---
 
 Book Id: 22033679<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

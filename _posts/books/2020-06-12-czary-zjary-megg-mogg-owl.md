@@ -2,6 +2,7 @@
 layout: book
 title: Czary zjary (Megg, Mogg & Owl)
 date_read: 2020/06/12
+tags: książki
 ---
 
 Book Id: 29984032<br />
@@ -22,4 +23,5 @@ Date Added: 2020/06/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

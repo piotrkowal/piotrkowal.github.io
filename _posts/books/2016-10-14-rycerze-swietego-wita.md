@@ -2,6 +2,7 @@
 layout: book
 title: Rycerze Świętego Wita
 date_read: 2016/10/14
+tags: książki
 ---
 
 Book Id: 21856619<br />
@@ -22,4 +23,5 @@ Date Added: 2016/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

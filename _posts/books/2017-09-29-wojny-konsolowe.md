@@ -2,6 +2,7 @@
 layout: book
 title: Wojny konsolowe
 date_read: 2017/09/29
+tags: książki
 ---
 
 Book Id: 35704151<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: W tym tygodniu w moje łapki wpadła książka  Wojny  Konsolowe. Czytałem już kilka opracowań o historii elektronicznej rozrywki, ale ta pozycja to coś zupełnie świeżego w naszym kraju. Całą bowiem historię walki pomiędzy wszechpotężnym i wszechwładnym Nintendo a biedniejszą i początkowo bez pomysłu na siebie Segą, obserwujemy z perspektywy szefa Sega of America, Toma Kalinske.<br/><br/>Reszta recenzji: http://bit.ly/2yxwEin<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

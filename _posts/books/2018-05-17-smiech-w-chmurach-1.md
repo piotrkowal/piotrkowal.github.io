@@ -2,6 +2,7 @@
 layout: book
 title: Śmiech w chmurach Tom 1
 date_read: 2018/05/17
+tags: książki
 ---
 
 Book Id: 25545089<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/05/07<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

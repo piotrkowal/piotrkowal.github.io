@@ -2,6 +2,7 @@
 layout: book
 title: Córka Mendla. Wspomnienia
 date_read: 2016/12/26
+tags: książki
 ---
 
 Book Id: 18107715<br />
@@ -23,4 +24,5 @@ Date Added: 2016/12/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

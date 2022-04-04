@@ -2,6 +2,7 @@
 layout: book
 title: 暗殺教室 3 [Ansatsu Kyoushitsu 3] (Assassination Classroom,  no. 3)
 date_read: 2019/02/17
+tags: książki
 ---
 
 Book Id: 17617859<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

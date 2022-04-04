@@ -2,6 +2,7 @@
 layout: book
 title: Najlepsi wrogowie - 2 - Historia relacji pomiędzy Stanami Zjednoczonymi a Bliskim Wschodem. Część druga 1953-1984
 date_read: 2017/05/23
+tags: książki
 ---
 
 Book Id: 32618568<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/05/23<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

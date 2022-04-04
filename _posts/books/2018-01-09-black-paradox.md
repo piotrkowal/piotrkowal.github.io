@@ -2,6 +2,7 @@
 layout: book
 title: Black Paradox
 date_read: 2018/01/09
+tags: książki
 ---
 
 Book Id: 20870762<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Cena nieważkości. Kulisy lotu Polaka w kosmos
 date_read: 2020/08/08
+tags: książki
 ---
 
 Book Id: 41461699<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review: Książka skacze z kwiatka na kwiatek, ale dzięki temu context wszystkich wydarzeń jest świetnie zarysowany.<br/><br/>Czyta się lekko, w miarę szybko, jak artykuł w magazynie, dla mnie to zaleta.<br/><br/>A za puentę to chciałbym z panem Hermaszewskim osobiście zbić piątkę, kiedy korona odpuści.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Plunderer tom 1
 date_read: 2020/06/19
+tags: książki
 ---
 
 Book Id: 51029823<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2015<br />
 Date Added: 2020/06/19<br />
 Exclusive Shelf: read<br />
 Owned Copies: 0<br />
+
 

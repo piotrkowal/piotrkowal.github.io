@@ -2,6 +2,7 @@
 layout: book
 title: Arab przyszłości, Tom 1 - Dzieciństwo na Bliskim Wschodzie (1978-1984)
 date_read: 2017/04/01
+tags: książki
 ---
 
 Book Id: 30185749<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

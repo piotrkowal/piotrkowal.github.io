@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga marnowania czasu
 date_read: 2018/01/29
+tags: książki
 ---
 
 Book Id: 37812742<br />
@@ -22,4 +23,5 @@ Date Read: 2018/01/29<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Nienawidzę Baśniowa, Tom 1 - I żyli długo i burzliwie
 date_read: 2018/10/06
+tags: książki
 ---
 
 Book Id: 41642435<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

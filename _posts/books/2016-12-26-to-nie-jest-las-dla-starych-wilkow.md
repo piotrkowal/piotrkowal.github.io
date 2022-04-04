@@ -2,6 +2,7 @@
 layout: book
 title: To nie jest las dla starych wilków
 date_read: 2016/12/26
+tags: książki
 ---
 
 Book Id: 32069643<br />
@@ -21,4 +22,5 @@ Date Added: 2016/12/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

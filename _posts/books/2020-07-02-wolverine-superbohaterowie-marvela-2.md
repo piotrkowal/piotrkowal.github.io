@@ -2,6 +2,7 @@
 layout: book
 title: Wolverine  (Superbohaterowie Marvela  no. 2)
 date_read: 2020/07/02
+tags: książki
 ---
 
 Book Id: 34834169<br />
@@ -23,4 +24,5 @@ Date Added: 2020/07/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

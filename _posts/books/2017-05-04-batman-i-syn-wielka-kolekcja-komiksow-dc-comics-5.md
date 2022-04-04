@@ -2,6 +2,7 @@
 layout: book
 title: Batman i syn (Wielka Kolekcja Komiksów DC Comics,  no. 5)
 date_read: 2017/05/04
+tags: książki
 ---
 
 Book Id: 32712644<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/05/04<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

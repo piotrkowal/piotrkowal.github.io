@@ -2,6 +2,7 @@
 layout: book
 title: Shitshow! Ameryka się sypie, a oglądalność szybuje
 date_read: 2020/07/29
+tags: książki
 ---
 
 Book Id: 43843275<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Ale śmiesznie, nic się nie zmieniło i jest tylko gorzej<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

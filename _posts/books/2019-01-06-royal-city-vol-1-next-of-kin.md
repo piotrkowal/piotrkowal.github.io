@@ -2,6 +2,7 @@
 layout: book
 title: Royal City, Vol. 1 - Next of Kin
 date_read: 2019/01/06
+tags: książki
 ---
 
 Book Id: 34975030<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/05<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

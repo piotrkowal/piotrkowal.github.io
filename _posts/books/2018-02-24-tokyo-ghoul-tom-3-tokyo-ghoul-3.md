@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul. Tom 3 (Tokyo Ghoul,  no. 3)
 date_read: 2018/02/24
+tags: książki
 ---
 
 Book Id: 26219799<br />
@@ -22,4 +23,5 @@ Date Read: 2018/02/24<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

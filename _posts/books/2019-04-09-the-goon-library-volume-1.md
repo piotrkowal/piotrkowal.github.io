@@ -2,6 +2,7 @@
 layout: book
 title: The Goon Library Volume 1
 date_read: 2019/04/09
+tags: książki
 ---
 
 Book Id: 25768986<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Gangsta. Tom 1 (Gangsta.,  no. 1)
 date_read: 2018/12/14
+tags: książki
 ---
 
 Book Id: 34761706<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

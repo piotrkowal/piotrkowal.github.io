@@ -2,6 +2,7 @@
 layout: book
 title: Ikigami - The Ultimate Limit, Volume 1 (Ikigami,  no. 1)
 date_read: 2019/10/18
+tags: książki
 ---
 
 Book Id: 4036916<br />
@@ -22,4 +23,5 @@ Date Added: 2019/10/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

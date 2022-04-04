@@ -2,6 +2,7 @@
 layout: book
 title: Summer Wars  no. 2
 date_read: 2018/07/25
+tags: książki
 ---
 
 Book Id: 42295860<br />
@@ -20,4 +21,5 @@ Original Publication Year: 2010<br />
 Date Added: 2018/10/13<br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
+
 

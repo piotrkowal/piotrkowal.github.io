@@ -2,6 +2,7 @@
 layout: book
 title: Tetris. Ludzie i gry
 date_read: 2019/10/13
+tags: książki
 ---
 
 Book Id: 45416020<br />
@@ -23,4 +24,5 @@ Date Added: 2019/10/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

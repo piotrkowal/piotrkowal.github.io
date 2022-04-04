@@ -2,6 +2,7 @@
 layout: book
 title: Akame ga KILL!  no. 8
 date_read: 2018/10/14
+tags: książki
 ---
 
 Book Id: 42299433<br />
@@ -21,4 +22,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

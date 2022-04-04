@@ -2,6 +2,7 @@
 layout: book
 title: Mirai Nikki 9
 date_read: 2018/04/19
+tags: książki
 ---
 
 Book Id: 10713795<br />
@@ -21,4 +22,5 @@ Date Read: 2018/04/19<br />
 Date Added: 2018/04/05<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

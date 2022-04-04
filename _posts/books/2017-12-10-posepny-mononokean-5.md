@@ -2,6 +2,7 @@
 layout: book
 title: Posępny Mononokean  no. 5
 date_read: 2017/12/10
+tags: książki
 ---
 
 Book Id: 42295718<br />
@@ -21,4 +22,5 @@ Date Read: 2017/12/10<br />
 Date Added: 2017/11/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

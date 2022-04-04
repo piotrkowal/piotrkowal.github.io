@@ -2,6 +2,7 @@
 layout: book
 title: Ślepa uliczka (Junji Ito - Kolekcja horrorów,  no. 6)
 date_read: 2018/10/06
+tags: książki
 ---
 
 Book Id: 36570778<br />
@@ -21,4 +22,5 @@ Original Publication Year: 1992<br />
 Date Added: 2018/10/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

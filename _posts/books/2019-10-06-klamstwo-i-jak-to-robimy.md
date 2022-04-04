@@ -2,6 +2,7 @@
 layout: book
 title: Kłamstwo i jak to robimy
 date_read: 2019/10/06
+tags: książki
 ---
 
 Book Id: 45188422<br />
@@ -23,4 +24,5 @@ Date Added: 2019/10/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

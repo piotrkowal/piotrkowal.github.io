@@ -2,6 +2,7 @@
 layout: book
 title: Herezja miłości  no. 02 (Herezja miłości,  no. 2)
 date_read: 2019/12/09
+tags: książki
 ---
 
 Book Id: 44652473<br />
@@ -20,4 +21,5 @@ Date Added: 2019/12/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

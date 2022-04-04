@@ -2,6 +2,7 @@
 layout: book
 title: My Hero Academia - Akademia bohaterów Tom 1
 date_read: 2017/12/11
+tags: książki
 ---
 
 Book Id: 38599853<br />
@@ -21,4 +22,5 @@ Date Added: 2017/02/27<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

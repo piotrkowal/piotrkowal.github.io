@@ -2,6 +2,7 @@
 layout: book
 title: My hero academia  Akademia bohaterów  no. 4
 date_read: 2018/10/07
+tags: książki
 ---
 
 Book Id: 42203905<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2015<br />
 Date Added: 2018/10/07<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

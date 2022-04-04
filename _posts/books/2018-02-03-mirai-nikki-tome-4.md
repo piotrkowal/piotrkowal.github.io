@@ -2,6 +2,7 @@
 layout: book
 title: Mirai Nikki, tome 4
 date_read: 2018/02/03
+tags: książki
 ---
 
 Book Id: 36410873<br />
@@ -22,4 +23,5 @@ Date Added: 2018/01/22<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

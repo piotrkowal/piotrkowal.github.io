@@ -2,6 +2,7 @@
 layout: book
 title: Robin - Rok pierwszy (Wielka Kolekcja Komiksów DC Comics,  no. 26)
 date_read: 2017/08/16
+tags: książki
 ---
 
 Book Id: 35969926<br />
@@ -23,4 +24,5 @@ Date Added: 2017/08/11<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
+
 

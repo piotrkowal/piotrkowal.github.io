@@ -2,6 +2,7 @@
 layout: book
 title: Olimpo Tropical
 date_read: 2019/10/21
+tags: książki
 ---
 
 Book Id: 49705290<br />
@@ -23,4 +24,5 @@ Date Added: 2019/10/21<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

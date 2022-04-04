@@ -2,6 +2,7 @@
 layout: book
 title: ボクラノキセキ 8 [Bokura no Kiseki 8]
 date_read: 2019/06/28
+tags: książki
 ---
 
 Book Id: 19549379<br />
@@ -22,4 +23,5 @@ Date Added: 2019/06/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

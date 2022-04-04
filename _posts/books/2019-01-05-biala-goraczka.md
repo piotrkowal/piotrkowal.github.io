@@ -2,6 +2,7 @@
 layout: book
 title: Biała gorączka
 date_read: 2019/01/05
+tags: książki
 ---
 
 Book Id: 6496255<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

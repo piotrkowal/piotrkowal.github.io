@@ -2,6 +2,7 @@
 layout: book
 title: Black Hammer  no. 3
 date_read: 2019/01/20
+tags: książki
 ---
 
 Book Id: 32176804<br />
@@ -21,4 +22,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

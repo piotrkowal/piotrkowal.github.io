@@ -2,6 +2,7 @@
 layout: book
 title: Czyjś Tata
 date_read: 2016/10/28
+tags: książki
 ---
 
 Book Id: 25438358<br />
@@ -21,4 +22,5 @@ Date Added: 2016/10/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

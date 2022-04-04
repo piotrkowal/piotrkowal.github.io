@@ -2,6 +2,7 @@
 layout: book
 title: Miecz zabójcy demonów 01
 date_read: 2020/04/10
+tags: książki
 ---
 
 Book Id: 53479074<br />
@@ -22,4 +23,5 @@ Date Added: 2020/04/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

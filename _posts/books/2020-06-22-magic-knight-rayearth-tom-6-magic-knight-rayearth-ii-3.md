@@ -2,6 +2,7 @@
 layout: book
 title: Magic Knight Rayearth, Tom 6 (Magic Knight Rayearth II,  no. 3)
 date_read: 2020/06/22
+tags: książki
 ---
 
 Book Id: 52231541<br />
@@ -21,4 +22,5 @@ Date Added: 2020/04/08<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

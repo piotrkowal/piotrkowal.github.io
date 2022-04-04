@@ -2,6 +2,7 @@
 layout: book
 title: Kryzys tożsamości
 date_read: 2016/11/05
+tags: książki
 ---
 
 Book Id: 25442277<br />
@@ -23,4 +24,5 @@ Date Added: 2016/11/05<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

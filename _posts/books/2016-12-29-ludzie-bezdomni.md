@@ -2,6 +2,7 @@
 layout: book
 title: Ludzie bezdomni 
 date_read: 2016/12/29
+tags: książki
 ---
 
 Book Id: 2696239<br />
@@ -22,4 +23,5 @@ Date Added: 2016/12/29<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

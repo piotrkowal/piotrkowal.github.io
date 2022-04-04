@@ -2,6 +2,7 @@
 layout: book
 title: Superman - Ostatni Syn Kryptona (Wielka Kolekcja Komiksów DC Comics,  no. 12)
 date_read: 2017/03/02
+tags: książki
 ---
 
 Book Id: 34431886<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

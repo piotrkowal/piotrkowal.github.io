@@ -2,6 +2,7 @@
 layout: book
 title: Eksmitowani. Nędza i zyski w jednym z amerykańskich miast
 date_read: 2020/09/08
+tags: książki
 ---
 
 Book Id: 49381334<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Książka mocarna, 30% zawartości to przypisy, które będę musiał niechybnie przeczytać. Możliwe że w związku z tym przeczytam ją ponownie, jak w sumie żadną lekturę do tej pory. <br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

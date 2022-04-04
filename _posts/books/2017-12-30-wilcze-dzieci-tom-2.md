@@ -2,6 +2,7 @@
 layout: book
 title: Wilcze dzieci, Tom 2
 date_read: 2017/12/30
+tags: książki
 ---
 
 Book Id: 35616265<br />
@@ -22,4 +23,5 @@ Date Read: 2017/12/30<br />
 Date Added: 2017/12/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

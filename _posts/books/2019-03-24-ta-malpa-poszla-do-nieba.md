@@ -2,6 +2,7 @@
 layout: book
 title: Ta małpa poszła do nieba
 date_read: 2019/03/24
+tags: książki
 ---
 
 Book Id: 40219594<br />
@@ -21,4 +22,5 @@ Date Added: 2019/03/24<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

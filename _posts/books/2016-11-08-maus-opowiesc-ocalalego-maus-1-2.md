@@ -2,6 +2,7 @@
 layout: book
 title: Maus - Opowieść ocalałego (Maus,  no. 1-2)
 date_read: 2016/11/08
+tags: książki
 ---
 
 Book Id: 33167137<br />
@@ -23,4 +24,5 @@ Date Added: 2016/11/08<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

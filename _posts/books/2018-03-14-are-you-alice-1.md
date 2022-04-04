@@ -2,6 +2,7 @@
 layout: book
 title: Are You Alice?  no. 1
 date_read: 2018/03/14
+tags: książki
 ---
 
 Book Id: 42296060<br />
@@ -22,4 +23,5 @@ Date Read: 2018/03/14<br />
 Date Added: 2018/03/04<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

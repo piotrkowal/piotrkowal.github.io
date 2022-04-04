@@ -2,6 +2,7 @@
 layout: book
 title: Pogrzebana. Życie, śmierć i rewolucja w Egipcie
 date_read: 2021/03/11
+tags: książki
 ---
 
 Book Id: 56530407<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Długaśna książka przedstawiająca Egipt z różnych stron, ale nie skupiająca się wyłącznie na suchych faktach. Razem z autorem przechodzi się płynnie pomiędzy starożytnością, Egiptem nowożytnym i tym teraźniejszym, poznając mnogość losów ludzkich i to, jak w miarę niewiele zmieniło się w naturze ludzkiej.<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

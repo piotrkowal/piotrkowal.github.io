@@ -2,6 +2,7 @@
 layout: book
 title: Harry Potter i Kamień Filozoficzny (Harry Potter,  no. 1)
 date_read: 2003/03/01
+tags: książki
 ---
 
 Book Id: 1811146<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2016/10/19<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

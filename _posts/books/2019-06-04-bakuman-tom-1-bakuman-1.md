@@ -2,6 +2,7 @@
 layout: book
 title: Bakuman. Tom 1 (Bakuman,  no. 1)
 date_read: 2019/06/04
+tags: książki
 ---
 
 Book Id: 40209271<br />
@@ -22,4 +23,5 @@ Date Added: 2016/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

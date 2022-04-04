@@ -2,6 +2,7 @@
 layout: book
 title: Kryjówka dezertera (Junji Ito - Kolekcja horrorów,  no. 5)
 date_read: 2018/10/06
+tags: książki
 ---
 
 Book Id: 34853673<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2011<br />
 Date Added: 2018/10/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

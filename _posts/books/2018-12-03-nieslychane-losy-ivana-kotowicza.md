@@ -2,6 +2,7 @@
 layout: book
 title: Niesłychane losy Ivana Kotowicza
 date_read: 2018/12/03
+tags: książki
 ---
 
 Book Id: 25439427<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

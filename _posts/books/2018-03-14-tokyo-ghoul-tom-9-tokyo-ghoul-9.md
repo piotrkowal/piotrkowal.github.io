@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul. Tom 9 (Tokyo Ghoul,  no. 9)
 date_read: 2018/03/14
+tags: książki
 ---
 
 Book Id: 32028110<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2013<br />
 Date Added: 2018/03/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

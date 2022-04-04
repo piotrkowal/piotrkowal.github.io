@@ -2,6 +2,7 @@
 layout: book
 title: Atlas zwierząt
 date_read: 2016/11/19
+tags: książki
 ---
 
 Book Id: 30131251<br />
@@ -22,4 +23,5 @@ Date Added: 2016/10/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

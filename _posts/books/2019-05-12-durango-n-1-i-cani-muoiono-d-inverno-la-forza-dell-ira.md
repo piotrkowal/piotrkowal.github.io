@@ -2,6 +2,7 @@
 layout: book
 title: Durango n. 1 - I cani muoiono d'inverno - La forza dell'ira
 date_read: 2019/05/12
+tags: książki
 ---
 
 Book Id: 13499529<br />
@@ -21,4 +22,5 @@ Date Read: 2019/05/12<br />
 Date Added: 2019/04/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

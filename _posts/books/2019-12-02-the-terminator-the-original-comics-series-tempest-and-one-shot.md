@@ -2,6 +2,7 @@
 layout: book
 title: The Terminator - The Original Comics Series-Tempest and One Shot
 date_read: 2019/12/02
+tags: książki
 ---
 
 Book Id: 35416905<br />
@@ -23,4 +24,5 @@ Date Added: 2019/11/11<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

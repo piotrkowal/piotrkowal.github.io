@@ -2,6 +2,7 @@
 layout: book
 title: Ubel Blatt, Vol. 0
 date_read: 2020/01/20
+tags: książki
 ---
 
 Book Id: 20897851<br />
@@ -20,4 +21,5 @@ Year Published: 2014<br />
 Original Publication Year: 2005<br />
 Date Added: 2020/01/20<br />
 Exclusive Shelf: read<br />
+
 

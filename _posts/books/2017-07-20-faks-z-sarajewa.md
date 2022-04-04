@@ -2,6 +2,7 @@
 layout: book
 title: Faks z Sarajewa
 date_read: 2017/07/20
+tags: książki
 ---
 
 Book Id: 34983374<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

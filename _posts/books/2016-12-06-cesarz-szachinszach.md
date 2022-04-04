@@ -2,6 +2,7 @@
 layout: book
 title: Cesarz
 date_read: 2016/12/06
+tags: książki
 ---
 
 Book Id: 18369061<br />
@@ -20,4 +21,5 @@ Date Added: 2016/12/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

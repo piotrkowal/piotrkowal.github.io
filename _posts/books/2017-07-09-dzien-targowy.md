@@ -2,6 +2,7 @@
 layout: book
 title: Dzień targowy
 date_read: 2017/07/09
+tags: książki
 ---
 
 Book Id: 25483240<br />
@@ -22,4 +23,5 @@ Date Read: 2017/07/09<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

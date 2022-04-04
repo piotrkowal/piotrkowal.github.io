@@ -2,6 +2,7 @@
 layout: book
 title: Pozdrowienia z Serbii. Dziennik komiksowy z czasów konfliktu w Serbii
 date_read: 2017/10/13
+tags: książki
 ---
 
 Book Id: 18719279<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

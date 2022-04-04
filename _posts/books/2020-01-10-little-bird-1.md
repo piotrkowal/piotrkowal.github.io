@@ -2,6 +2,7 @@
 layout: book
 title: Little Bird  no. 1
 date_read: 2020/01/10
+tags: książki
 ---
 
 Book Id: 43923798<br />
@@ -21,4 +22,5 @@ Date Added: 2020/01/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

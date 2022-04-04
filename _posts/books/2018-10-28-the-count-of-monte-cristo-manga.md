@@ -2,6 +2,7 @@
 layout: book
 title: The Count of Monte Cristo (Manga)
 date_read: 2018/10/28
+tags: książki
 ---
 
 Book Id: 34014066<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

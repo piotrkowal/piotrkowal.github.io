@@ -2,6 +2,7 @@
 layout: book
 title: The Valiant
 date_read: 2018/12/16
+tags: książki
 ---
 
 Book Id: 24830026<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

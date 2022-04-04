@@ -2,6 +2,7 @@
 layout: book
 title: Jak przestałem kochać design
 date_read: 2020/08/30
+tags: książki
 ---
 
 Book Id: 25154137<br />
@@ -22,4 +23,5 @@ Date Added: 2020/08/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

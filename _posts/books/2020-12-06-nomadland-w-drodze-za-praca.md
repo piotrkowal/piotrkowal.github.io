@@ -2,6 +2,7 @@
 layout: book
 title: Nomadland. W drodze za pracą
 date_read: 2020/12/06
+tags: książki
 ---
 
 Book Id: 55320874<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Pouczająca lektura. <br/>Aż zaczynam się bać<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

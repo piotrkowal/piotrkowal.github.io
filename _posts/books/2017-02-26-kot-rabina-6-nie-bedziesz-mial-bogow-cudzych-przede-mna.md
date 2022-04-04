@@ -2,6 +2,7 @@
 layout: book
 title: Kot Rabina - 6 - Nie będziesz miał bogów cudzych przede mną
 date_read: 2017/02/26
+tags: książki
 ---
 
 Book Id: 26813227<br />
@@ -22,4 +23,5 @@ Date Added: 2017/02/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

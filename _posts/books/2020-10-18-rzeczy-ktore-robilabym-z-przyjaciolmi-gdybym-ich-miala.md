@@ -2,6 +2,7 @@
 layout: book
 title: Rzeczy, które robiłabym z przyjaciółmi gdybym ich miała
 date_read: 2020/10/18
+tags: książki
 ---
 
 Book Id: 55710142<br />
@@ -20,4 +21,5 @@ Exclusive Shelf: read<br />
 My Review: Uważajcie, jeśli ktoś dał mniej niż 5 gwiazdek to znaczy że tego nie czytał!<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

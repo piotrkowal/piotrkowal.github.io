@@ -2,6 +2,7 @@
 layout: book
 title: Piękna ciemność
 date_read: 2020/01/10
+tags: książki
 ---
 
 Book Id: 41129512<br />
@@ -23,4 +24,5 @@ Date Added: 2020/01/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

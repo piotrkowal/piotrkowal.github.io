@@ -2,6 +2,7 @@
 layout: book
 title: Umowa z Bogiem. Trylogia - Życie na Dropsie Avenue
 date_read: 2016/08/18
+tags: książki
 ---
 
 Book Id: 23252118<br />
@@ -23,4 +24,5 @@ Date Added: 2016/08/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

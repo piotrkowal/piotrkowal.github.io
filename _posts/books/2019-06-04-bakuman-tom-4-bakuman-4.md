@@ -2,6 +2,7 @@
 layout: book
 title: Bakuman, Tom 4 (Bakuman,  no. 4)
 date_read: 2019/06/04
+tags: książki
 ---
 
 Book Id: 40490243<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

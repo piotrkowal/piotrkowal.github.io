@@ -2,6 +2,7 @@
 layout: book
 title: Lex Luthor - Człowiek ze stali (Wielka Kolekcja Komiksów DC Comics,  no. 19)
 date_read: 2016/10/14
+tags: książki
 ---
 
 Book Id: 35073710<br />
@@ -22,4 +23,5 @@ Date Added: 2016/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

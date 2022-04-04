@@ -2,6 +2,7 @@
 layout: book
 title: Dragons Rioting  no. 8
 date_read: 2018/10/09
+tags: książki
 ---
 
 Book Id: 42266466<br />
@@ -18,4 +19,5 @@ Binding: Paperback<br />
 Year Published: 2017<br />
 Date Added: 2018/10/09<br />
 Exclusive Shelf: read<br />
+
 

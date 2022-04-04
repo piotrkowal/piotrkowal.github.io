@@ -2,6 +2,7 @@
 layout: book
 title: Lżejsza od swojego cienia
 date_read: 2019/10/17
+tags: książki
 ---
 
 Book Id: 40227839<br />
@@ -23,4 +24,5 @@ Date Added: 2019/10/17<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

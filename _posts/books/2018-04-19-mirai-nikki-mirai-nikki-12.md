@@ -2,6 +2,7 @@
 layout: book
 title: Mirai Nikki (Mirai Nikki  no. 12)
 date_read: 2018/04/19
+tags: książki
 ---
 
 Book Id: 18242453<br />
@@ -23,4 +24,5 @@ Date Added: 2018/04/05<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

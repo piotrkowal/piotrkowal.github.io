@@ -2,6 +2,7 @@
 layout: book
 title: Rewolucja według Ludwika  no. 1
 date_read: 2019/02/25
+tags: książki
 ---
 
 Book Id: 34510964<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2019/02/25<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

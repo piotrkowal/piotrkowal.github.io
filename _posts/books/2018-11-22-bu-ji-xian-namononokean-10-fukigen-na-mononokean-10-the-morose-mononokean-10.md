@@ -2,6 +2,7 @@
 layout: book
 title: 不機嫌なモノノケ庵 10 [Fukigen na Mononokean 10] (The Morose Mononokean,  no. 10)
 date_read: 2018/11/22
+tags: książki
 ---
 
 Book Id: 36441457<br />
@@ -21,4 +22,5 @@ Date Added: 2018/11/06<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

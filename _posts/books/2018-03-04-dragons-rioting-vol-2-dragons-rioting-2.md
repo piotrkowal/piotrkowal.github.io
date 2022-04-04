@@ -2,6 +2,7 @@
 layout: book
 title: Dragons Rioting, Vol. 2 (Dragons Rioting,  no. 2)
 date_read: 2018/03/04
+tags: książki
 ---
 
 Book Id: 25746693<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2013<br />
 Date Added: 2018/03/04<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

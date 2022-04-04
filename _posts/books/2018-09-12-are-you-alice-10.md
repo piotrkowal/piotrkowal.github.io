@@ -2,6 +2,7 @@
 layout: book
 title: Are You Alice?  no. 10
 date_read: 2018/09/12
+tags: książki
 ---
 
 Book Id: 42296214<br />
@@ -21,4 +22,5 @@ Date Read: 2018/09/12<br />
 Date Added: 2018/07/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

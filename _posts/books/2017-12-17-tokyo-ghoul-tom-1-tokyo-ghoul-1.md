@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul, tom 1 (Tokyo Ghoul,  no. 1)
 date_read: 2017/12/17
+tags: książki
 ---
 
 Book Id: 25599464<br />
@@ -23,4 +24,5 @@ Date Added: 2017/02/27<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

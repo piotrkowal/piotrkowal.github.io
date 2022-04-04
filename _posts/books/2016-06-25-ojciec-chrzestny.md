@@ -2,6 +2,7 @@
 layout: book
 title: Ojciec chrzestny
 date_read: 2016/06/25
+tags: książki
 ---
 
 Book Id: 6163050<br />
@@ -23,4 +24,5 @@ Date Added: 2016/06/25<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

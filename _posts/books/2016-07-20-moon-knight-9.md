@@ -2,6 +2,7 @@
 layout: book
 title: Moon Knight  no. 9
 date_read: 2016/07/20
+tags: książki
 ---
 
 Book Id: 28514617<br />
@@ -20,4 +21,5 @@ Original Publication Year: 2014<br />
 Date Added: 2016/07/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

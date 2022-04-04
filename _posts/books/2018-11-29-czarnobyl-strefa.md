@@ -2,6 +2,7 @@
 layout: book
 title: Czarnobyl. Strefa
 date_read: 2018/11/29
+tags: książki
 ---
 
 Book Id: 42089758<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/11/29<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

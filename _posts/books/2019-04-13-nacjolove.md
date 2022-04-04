@@ -2,6 +2,7 @@
 layout: book
 title: Nacjolove
 date_read: 2019/04/13
+tags: książki
 ---
 
 Book Id: 41871491<br />
@@ -22,4 +23,5 @@ Exclusive Shelf: read<br />
 My Review: Uczciwe, prawdziwe, brzydkie i obrzydliwe. Czekam na więcej takich komiksów.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

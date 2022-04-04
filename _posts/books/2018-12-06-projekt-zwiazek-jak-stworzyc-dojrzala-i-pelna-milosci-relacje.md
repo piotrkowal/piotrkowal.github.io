@@ -2,6 +2,7 @@
 layout: book
 title: Projekt - związek. Jak stworzyć dojrzałą i pełną miłości relację
 date_read: 2018/12/06
+tags: książki
 ---
 
 Book Id: 39677003<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

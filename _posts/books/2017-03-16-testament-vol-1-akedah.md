@@ -2,6 +2,7 @@
 layout: book
 title: Testament, Vol. 1 - Akedah
 date_read: 2017/03/16
+tags: książki
 ---
 
 Book Id: 42295965<br />
@@ -22,4 +23,5 @@ Date Added: 2017/03/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

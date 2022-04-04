@@ -2,6 +2,7 @@
 layout: book
 title: Strefa bezpieczeństwa Goražde
 date_read: 2016/09/27
+tags: książki
 ---
 
 Book Id: 17571461<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

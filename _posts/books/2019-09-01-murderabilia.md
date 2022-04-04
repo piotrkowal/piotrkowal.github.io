@@ -2,6 +2,7 @@
 layout: book
 title: Murderabilia
 date_read: 2019/09/01
+tags: książki
 ---
 
 Book Id: 41837969<br />
@@ -23,4 +24,5 @@ Date Added: 2019/09/01<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

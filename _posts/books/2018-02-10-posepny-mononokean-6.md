@@ -2,6 +2,7 @@
 layout: book
 title: Posępny Mononokean  no. 6
 date_read: 2018/02/10
+tags: książki
 ---
 
 Book Id: 42295729<br />
@@ -21,4 +22,5 @@ Date Read: 2018/02/10<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

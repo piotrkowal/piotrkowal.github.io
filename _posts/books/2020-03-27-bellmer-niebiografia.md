@@ -2,6 +2,7 @@
 layout: book
 title: Bellmer. Niebiografia
 date_read: 2020/03/27
+tags: książki
 ---
 
 Book Id: 36211496<br />
@@ -22,4 +23,5 @@ Exclusive Shelf: read<br />
 My Review: Nie dziwię się że Pająk nic z niego nie zrozumiał. Nie znałem tego pana i jego twórczości wcześniej, teraz mam zamiar to nadrobić i przeczytać ponownie.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

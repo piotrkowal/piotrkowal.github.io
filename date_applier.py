@@ -37,12 +37,8 @@ books_filenames = books_filenames+ glob.glob(draft_dir+'*md')
 for filename in books_filenames:
     book_date_read = ''
     if len(sys.argv) > 1:
-        roll_back_post_filename(filename) if sys.argv[1] == 'revert' else _
+        roll_back_post_filename(filename) if sys.argv[1] == 'revert' else 0
 
-        if sys.argv[1] == 'mv':
-            process = subprocess.Popen(["git", 'mv', filename, destination_filename], stdout=subprocess.PIPE)
-            output = process.communicate()[0]
-            print(output)
     if is_file_postlike(filename):
         print('Post is already named with a date at start!')
         continue
@@ -60,4 +56,8 @@ for filename in books_filenames:
     destination_filename =  path+ '/' + book_date_read + '-' + original_name
     print("renamed: {}" .format(destination_filename))
     
-    os.rename(filename, destination_filename)
+    if sys.argv[1] == 'mv':
+        process = subprocess.Popen(["git", 'mv', filename, destination_filename], stdout=subprocess.PIPE)
+        output = process.communicate()[0]
+        print(output)
+    # os.rename(filename, destination_filename)

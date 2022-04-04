@@ -2,6 +2,7 @@
 layout: book
 title: Wonder Woman - Krąg (Wielka Kolekcja Komiksów DC Comics,  no. 6)
 date_read: 2016/11/11
+tags: książki
 ---
 
 Book Id: 32870437<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

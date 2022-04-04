@@ -2,6 +2,7 @@
 layout: book
 title: Wilcze dzieci, Tom 1
 date_read: 2017/12/26
+tags: książki
 ---
 
 Book Id: 29875283<br />
@@ -22,4 +23,5 @@ Date Read: 2017/12/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

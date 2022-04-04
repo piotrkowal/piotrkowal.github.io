@@ -2,6 +2,7 @@
 layout: book
 title: Deadman Wonderland 3
 date_read: 2018/02/13
+tags: książki
 ---
 
 Book Id: 15817796<br />
@@ -22,4 +23,5 @@ Date Added: 2018/02/08<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

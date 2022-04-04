@@ -2,6 +2,7 @@
 layout: book
 title: Magic Knight Rayearth, Tom 4 (Magic Knight Rayearth,  no. 4)
 date_read: 2020/05/25
+tags: książki
 ---
 
 Book Id: 52163969<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

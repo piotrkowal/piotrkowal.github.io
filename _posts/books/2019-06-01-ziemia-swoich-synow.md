@@ -2,6 +2,7 @@
 layout: book
 title: Ziemia swoich synów
 date_read: 2019/06/01
+tags: książki
 ---
 
 Book Id: 36333773<br />
@@ -23,4 +24,5 @@ Date Added: 2019/04/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

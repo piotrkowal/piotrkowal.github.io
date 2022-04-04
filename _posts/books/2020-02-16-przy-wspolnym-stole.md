@@ -2,6 +2,7 @@
 layout: book
 title: Przy wspólnym stole
 date_read: 2020/02/16
+tags: książki
 ---
 
 Book Id: 36294470<br />
@@ -22,4 +23,5 @@ Date Added: 2020/02/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

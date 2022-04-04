@@ -2,6 +2,7 @@
 layout: book
 title: Porozmawiajmy o czymś przyjemniejszym
 date_read: 2019/11/02
+tags: książki
 ---
 
 Book Id: 45836443<br />
@@ -22,4 +23,5 @@ Date Added: 2019/11/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Batman. Tom 4. Rok zerowy - Tajemnicze miasto (Batman,  no. 4)
 date_read: 2016/11/12
+tags: książki
 ---
 
 Book Id: 24992737<br />
@@ -22,4 +23,5 @@ Date Added: 2016/11/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

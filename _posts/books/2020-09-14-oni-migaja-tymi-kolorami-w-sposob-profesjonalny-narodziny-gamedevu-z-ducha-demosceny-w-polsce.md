@@ -2,6 +2,7 @@
 layout: book
 title: Oni migają tymi kolorami w sposób profesjonalny. Narodziny gamedevu z ducha demosceny w Polsce
 date_read: 2020/09/14
+tags: książki
 ---
 
 Book Id: 49187644<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

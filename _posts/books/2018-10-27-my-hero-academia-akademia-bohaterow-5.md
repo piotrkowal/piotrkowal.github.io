@@ -2,6 +2,7 @@
 layout: book
 title: My Hero Academia - Akademia bohaterów  no. 5
 date_read: 2018/10/27
+tags: książki
 ---
 
 Book Id: 42292633<br />
@@ -21,4 +22,5 @@ Date Read: 2018/10/27<br />
 Date Added: 2018/10/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

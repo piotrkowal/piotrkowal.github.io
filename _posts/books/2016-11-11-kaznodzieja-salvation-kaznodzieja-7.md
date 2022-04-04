@@ -2,6 +2,7 @@
 layout: book
 title: Kaznodzieja - Salvation (Kaznodzieja,  no. 7)
 date_read: 2016/11/11
+tags: książki
 ---
 
 Book Id: 28429830<br />
@@ -23,4 +24,5 @@ Date Added: 2016/11/11<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

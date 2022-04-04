@@ -2,6 +2,7 @@
 layout: book
 title: Peanuts Vol. 1
 date_read: 2019/02/12
+tags: książki
 ---
 
 Book Id: 13047046<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

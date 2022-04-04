@@ -2,6 +2,7 @@
 layout: book
 title: Bakuman, Volume 9 - Talent and Pride (Bakuman,  no. 9)
 date_read: 2019/01/20
+tags: książki
 ---
 
 Book Id: 12266251<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

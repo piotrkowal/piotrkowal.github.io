@@ -2,6 +2,7 @@
 layout: book
 title: Lepperiada
 date_read: 2019/05/03
+tags: książki
 ---
 
 Book Id: 16158588<br />
@@ -21,4 +22,5 @@ Date Added: 2019/05/03<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

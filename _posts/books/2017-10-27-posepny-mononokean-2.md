@@ -2,6 +2,7 @@
 layout: book
 title: Posępny Mononokean 2
 date_read: 2017/10/27
+tags: książki
 ---
 
 Book Id: 41966757<br />
@@ -22,4 +23,5 @@ Date Read: 2017/10/27<br />
 Date Added: 2017/10/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

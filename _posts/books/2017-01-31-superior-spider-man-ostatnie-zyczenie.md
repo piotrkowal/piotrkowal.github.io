@@ -2,6 +2,7 @@
 layout: book
 title: Superior Spider-man - Ostatnie życzenie
 date_read: 2017/01/31
+tags: książki
 ---
 
 Book Id: 28592098<br />
@@ -23,4 +24,5 @@ Date Added: 2017/01/31<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

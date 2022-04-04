@@ -2,6 +2,7 @@
 layout: book
 title: Dziecię Bestii  no. 2
 date_read: 2020/05/25
+tags: książki
 ---
 
 Book Id: 31934057<br />
@@ -23,4 +24,5 @@ Date Added: 2018/12/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

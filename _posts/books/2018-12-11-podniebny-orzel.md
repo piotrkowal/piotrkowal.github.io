@@ -2,6 +2,7 @@
 layout: book
 title: Podniebny Orzeł
 date_read: 2018/12/11
+tags: książki
 ---
 
 Book Id: 27823850<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

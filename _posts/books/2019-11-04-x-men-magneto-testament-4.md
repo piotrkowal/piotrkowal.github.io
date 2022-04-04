@@ -2,6 +2,7 @@
 layout: book
 title: X-Men - Magneto - Testament  no. 4
 date_read: 2019/11/04
+tags: książki
 ---
 
 Book Id: 25897031<br />
@@ -20,4 +21,5 @@ Date Read: <br />
 Date Added: 2019/11/04<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

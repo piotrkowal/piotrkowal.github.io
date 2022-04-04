@@ -2,6 +2,7 @@
 layout: book
 title: Monster  no. 1 (Monster,  no. 1-2)
 date_read: 2017/08/02
+tags: książki
 ---
 
 Book Id: 21946567<br />
@@ -23,4 +24,5 @@ Date Added: 2017/08/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

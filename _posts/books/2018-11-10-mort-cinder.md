@@ -2,6 +2,7 @@
 layout: book
 title: Mort Cinder
 date_read: 2018/11/10
+tags: książki
 ---
 
 Book Id: 43617164<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/07<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

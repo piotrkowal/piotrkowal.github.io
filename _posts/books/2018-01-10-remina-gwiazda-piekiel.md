@@ -2,6 +2,7 @@
 layout: book
 title: Remina. Gwiazda Piekieł
 date_read: 2018/01/10
+tags: książki
 ---
 
 Book Id: 25432533<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/01/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

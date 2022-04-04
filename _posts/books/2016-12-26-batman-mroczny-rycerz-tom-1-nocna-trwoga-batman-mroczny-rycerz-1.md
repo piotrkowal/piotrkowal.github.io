@@ -2,6 +2,7 @@
 layout: book
 title: Batman - Mroczny rycerz. Tom 1. Nocna trwoga (Batman - Mroczny rycerz,  no. 1)
 date_read: 2016/12/26
+tags: książki
 ---
 
 Book Id: 24993926<br />
@@ -23,4 +24,5 @@ Date Added: 2016/12/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

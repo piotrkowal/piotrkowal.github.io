@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul Light Novel. Pustka
 date_read: 2018/07/22
+tags: książki
 ---
 
 Book Id: 40868054<br />
@@ -21,4 +22,5 @@ Date Read: 2018/07/22<br />
 Date Added: 2018/03/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

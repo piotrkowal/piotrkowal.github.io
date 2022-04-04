@@ -2,6 +2,7 @@
 layout: book
 title: Superman - Czerwony Syn
 date_read: 2016/12/03
+tags: książki
 ---
 
 Book Id: 25592242<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Batman. Tom 6. Cmentarna szychta (Batman,  no. 6)
 date_read: 2017/01/13
+tags: książki
 ---
 
 Book Id: 28008551<br />
@@ -21,4 +22,5 @@ Date Read: 2017/01/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

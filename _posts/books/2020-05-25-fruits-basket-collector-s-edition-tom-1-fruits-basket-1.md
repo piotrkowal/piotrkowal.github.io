@@ -2,6 +2,7 @@
 layout: book
 title: Fruits Basket Collector's Edition, Tom 1 (Fruits Basket,  no. 1)
 date_read: 2020/05/25
+tags: książki
 ---
 
 Book Id: 50915687<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

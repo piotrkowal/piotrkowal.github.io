@@ -2,6 +2,7 @@
 layout: book
 title: Akame  Ga Kill! 2
 date_read: 2018/01/06
+tags: książki
 ---
 
 Book Id: 42204226<br />
@@ -20,4 +21,5 @@ Year Published: 2017<br />
 Original Publication Year: 2011<br />
 Date Added: 2018/01/06<br />
 Exclusive Shelf: read<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul. Tom 5 (Tokyo Ghoul,  no. 5)
 date_read: 2018/03/04
+tags: książki
 ---
 
 Book Id: 28331563<br />
@@ -22,4 +23,5 @@ Date Read: 2018/03/04<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

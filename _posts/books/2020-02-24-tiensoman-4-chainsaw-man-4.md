@@ -2,6 +2,7 @@
 layout: book
 title: チェンソーマン 4 (Chainsaw Man,  no. 4)
 date_read: 2020/02/24
+tags: książki
 ---
 
 Book Id: 49966677<br />
@@ -22,4 +23,5 @@ Date Added: 2020/01/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

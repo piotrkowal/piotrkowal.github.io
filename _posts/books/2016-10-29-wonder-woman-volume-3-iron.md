@@ -2,6 +2,7 @@
 layout: book
 title: Wonder Woman, Volume 3 - Iron
 date_read: 2016/10/29
+tags: książki
 ---
 
 Book Id: 17671939<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2016/10/29<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

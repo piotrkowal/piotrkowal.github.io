@@ -2,6 +2,7 @@
 layout: book
 title: James Bond, Vol. 2 - Eidolon
 date_read: 2018/11/16
+tags: książki
 ---
 
 Book Id: 32471984<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2018/11/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

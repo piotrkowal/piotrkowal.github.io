@@ -2,6 +2,7 @@
 layout: book
 title: Zebranie obowiązkowe
 date_read: 2019/12/01
+tags: książki
 ---
 
 Book Id: 50869795<br />
@@ -22,4 +23,5 @@ Exclusive Shelf: read<br />
 My Review: Choć fabuła może trochę za bardzo podaje na tacy co chce przekazać, to rysunki to jakiś absolutny geniusz jest<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

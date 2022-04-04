@@ -2,6 +2,7 @@
 layout: book
 title: Dr.STONE 3 (Dr. Stone,  no. 3)
 date_read: 2020/04/16
+tags: książki
 ---
 
 Book Id: 36153757<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

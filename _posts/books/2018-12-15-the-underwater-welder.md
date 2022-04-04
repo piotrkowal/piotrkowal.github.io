@@ -2,6 +2,7 @@
 layout: book
 title: The Underwater Welder
 date_read: 2018/12/15
+tags: książki
 ---
 
 Book Id: 13602241<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2018/12/15<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

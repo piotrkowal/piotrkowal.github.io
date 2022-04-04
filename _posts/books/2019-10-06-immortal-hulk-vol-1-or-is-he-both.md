@@ -2,6 +2,7 @@
 layout: book
 title: Immortal Hulk, Vol. 1 - Or is he Both?
 date_read: 2019/10/06
+tags: książki
 ---
 
 Book Id: 39818775<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

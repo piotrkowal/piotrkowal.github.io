@@ -2,6 +2,7 @@
 layout: book
 title: Przedwiośnie 
 date_read: 2018/01/09
+tags: książki
 ---
 
 Book Id: 1904868<br />
@@ -22,4 +23,5 @@ Date Added: 2018/01/09<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

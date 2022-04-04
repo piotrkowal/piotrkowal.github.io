@@ -2,6 +2,7 @@
 layout: book
 title: Twierdzi Pereira
 date_read: 2019/11/07
+tags: książki
 ---
 
 Book Id: 40274714<br />
@@ -23,4 +24,5 @@ Date Added: 2019/11/07<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

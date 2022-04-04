@@ -2,6 +2,7 @@
 layout: book
 title: Jezioro Ognia
 date_read: 2017/11/19
+tags: książki
 ---
 
 Book Id: 37753995<br />
@@ -21,4 +22,5 @@ Date Read: 2017/11/19<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

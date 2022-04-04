@@ -2,6 +2,7 @@
 layout: book
 title: Superman - Człowiek ze stali (Wielka Kolekcja Komiksów DC Comics,  no. 18)
 date_read: 2017/05/04
+tags: książki
 ---
 
 Book Id: 35010562<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

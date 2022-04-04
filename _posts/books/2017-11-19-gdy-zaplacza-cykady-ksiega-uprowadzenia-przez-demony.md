@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga uprowadzenia przez demony
 date_read: 2017/11/19
+tags: książki
 ---
 
 Book Id: 38078147<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

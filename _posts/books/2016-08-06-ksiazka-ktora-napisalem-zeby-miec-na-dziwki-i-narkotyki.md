@@ -2,6 +2,7 @@
 layout: book
 title: Książka, którą napisałem, żeby mieć na dziwki i narkotyki
 date_read: 2016/08/06
+tags: książki
 ---
 
 Book Id: 17189136<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2016/08/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

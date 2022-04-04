@@ -2,6 +2,7 @@
 layout: book
 title: プランダラ 7 (Plunderer,  no. 7)
 date_read: 2020/07/10
+tags: książki
 ---
 
 Book Id: 39835443<br />
@@ -21,4 +22,5 @@ Date Read: 2020/07/10<br />
 Date Added: 2020/06/19<br />
 Exclusive Shelf: read<br />
 Owned Copies: 0<br />
+
 

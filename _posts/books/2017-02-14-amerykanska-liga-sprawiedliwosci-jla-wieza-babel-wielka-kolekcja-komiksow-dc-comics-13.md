@@ -2,6 +2,7 @@
 layout: book
 title: Amerykańska Liga Sprawiedliwości - JLA - Wieża Babel (Wielka Kolekcja Komiksów DC Comics,  no. 13)
 date_read: 2017/02/14
+tags: książki
 ---
 
 Book Id: 34432028<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/02/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

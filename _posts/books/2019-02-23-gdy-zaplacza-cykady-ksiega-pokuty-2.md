@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga pokuty  no. 2
 date_read: 2019/02/23
+tags: książki
 ---
 
 Book Id: 40202954<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

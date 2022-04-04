@@ -2,6 +2,7 @@
 layout: book
 title: Wzgórza Apolla  no. 2
 date_read: 2016/11/20
+tags: książki
 ---
 
 Book Id: 42296434<br />
@@ -22,4 +23,5 @@ Date Added: 2016/11/11<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

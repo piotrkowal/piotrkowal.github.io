@@ -2,6 +2,7 @@
 layout: book
 title: Black Hammer  no. 5
 date_read: 2019/01/28
+tags: książki
 ---
 
 Book Id: 32996737<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

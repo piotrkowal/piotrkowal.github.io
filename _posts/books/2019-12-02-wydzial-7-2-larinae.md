@@ -2,6 +2,7 @@
 layout: book
 title: Wydział 7  no. 2 - Larinae
 date_read: 2019/12/02
+tags: książki
 ---
 
 Book Id: 48578430<br />
@@ -22,4 +23,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

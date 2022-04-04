@@ -2,6 +2,7 @@
 layout: book
 title: Wonder Woman, Volume 1 - Blood
 date_read: 2016/09/1
+tags: książki
 ---
 
 Book Id: 13227319<br />
@@ -22,4 +23,5 @@ Date Added: 2016/09/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

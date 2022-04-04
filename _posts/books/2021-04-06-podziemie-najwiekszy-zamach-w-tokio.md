@@ -2,6 +2,7 @@
 layout: book
 title: Podziemie. Największy zamach w Tokio
 date_read: 2021/04/06
+tags: książki
 ---
 
 Book Id: 56572044<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

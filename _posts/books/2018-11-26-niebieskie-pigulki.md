@@ -2,6 +2,7 @@
 layout: book
 title: Niebieskie pigułki
 date_read: 2018/11/26
+tags: książki
 ---
 
 Book Id: 6445006<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/11/26<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

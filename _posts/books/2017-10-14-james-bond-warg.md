@@ -2,6 +2,7 @@
 layout: book
 title: James Bond - Warg
 date_read: 2017/10/14
+tags: książki
 ---
 
 Book Id: 36410606<br />
@@ -20,4 +21,5 @@ Date Read: 2017/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

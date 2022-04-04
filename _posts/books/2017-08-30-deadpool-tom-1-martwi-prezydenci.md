@@ -2,6 +2,7 @@
 layout: book
 title: Deadpool, Tom 1 - Martwi prezydenci
 date_read: 2017/08/30
+tags: książki
 ---
 
 Book Id: 28581220<br />
@@ -23,4 +24,5 @@ Date Added: 2016/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Locke & Key, Tom 1 - Witamy w Lovecraft
 date_read: 2017/06/17
+tags: książki
 ---
 
 Book Id: 25761423<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

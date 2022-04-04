@@ -2,6 +2,7 @@
 layout: book
 title: Green Arrow - Kołczan, część 2 (Wielka Kolekcja Komiksów DC Comics,  no. 4)
 date_read: 2017/05/04
+tags: książki
 ---
 
 Book Id: 32505571<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/05/04<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

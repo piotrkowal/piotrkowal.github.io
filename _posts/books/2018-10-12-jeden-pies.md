@@ -2,6 +2,7 @@
 layout: book
 title: Jeden pies
 date_read: 2018/10/12
+tags: książki
 ---
 
 Book Id: 34818063<br />
@@ -20,4 +21,5 @@ Year Published: 2016<br />
 Date Added: 2018/10/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

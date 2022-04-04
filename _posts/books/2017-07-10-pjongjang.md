@@ -2,6 +2,7 @@
 layout: book
 title: Pjongjang
 date_read: 2017/07/10
+tags: książki
 ---
 
 Book Id: 17732157<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

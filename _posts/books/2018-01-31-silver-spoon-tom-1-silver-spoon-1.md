@@ -2,6 +2,7 @@
 layout: book
 title: Silver Spoon. Tom 1 (Silver Spoon,  no. 1)
 date_read: 2018/01/31
+tags: książki
 ---
 
 Book Id: 20333665<br />
@@ -23,4 +24,5 @@ Date Added: 2018/01/22<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

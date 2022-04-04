@@ -2,6 +2,7 @@
 layout: book
 title: Poika ja peto 4 (The Boy & the Beast manga,  no. 4)
 date_read: 2020/05/25
+tags: książki
 ---
 
 Book Id: 37846781<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

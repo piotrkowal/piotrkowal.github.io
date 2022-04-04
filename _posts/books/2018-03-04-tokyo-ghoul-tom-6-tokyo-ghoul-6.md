@@ -2,6 +2,7 @@
 layout: book
 title: Tokyo Ghoul. Tom 6 (Tokyo Ghoul,  no. 6)
 date_read: 2018/03/04
+tags: książki
 ---
 
 Book Id: 29495250<br />
@@ -22,4 +23,5 @@ Date Read: 2018/03/04<br />
 Date Added: 2018/01/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

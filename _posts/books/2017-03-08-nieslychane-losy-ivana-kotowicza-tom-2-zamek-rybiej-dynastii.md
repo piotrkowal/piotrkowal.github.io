@@ -2,6 +2,7 @@
 layout: book
 title: Niesłychane losy Ivana Kotowicza tom 2 - Zamek rybiej dynastii
 date_read: 2017/03/08
+tags: książki
 ---
 
 Book Id: 34330316<br />
@@ -22,4 +23,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

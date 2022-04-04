@@ -2,6 +2,7 @@
 layout: book
 title: Zabawa w domek
 date_read: 2020/10/02
+tags: książki
 ---
 
 Book Id: 48741483<br />
@@ -19,4 +20,5 @@ Date Added: 2020/10/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

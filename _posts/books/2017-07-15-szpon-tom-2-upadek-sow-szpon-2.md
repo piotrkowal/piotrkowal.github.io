@@ -2,6 +2,7 @@
 layout: book
 title: Szpon. Tom 2. Upadek Sów (Szpon,  no. 2)
 date_read: 2017/07/15
+tags: książki
 ---
 
 Book Id: 25003707<br />
@@ -23,4 +24,5 @@ Date Added: 2017/07/09<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

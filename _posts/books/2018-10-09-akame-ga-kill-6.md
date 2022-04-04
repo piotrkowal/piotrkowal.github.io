@@ -2,6 +2,7 @@
 layout: book
 title: Akame ga KILL!  no. 6
 date_read: 2018/10/09
+tags: książki
 ---
 
 Book Id: 42266372<br />
@@ -19,4 +20,5 @@ Year Published: 2018<br />
 Original Publication Year: 2012<br />
 Date Added: 2018/10/09<br />
 Exclusive Shelf: read<br />
+
 

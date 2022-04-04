@@ -2,6 +2,7 @@
 layout: book
 title: Inspektor Akane Tsunemori 5
 date_read: 2018/01/07
+tags: książki
 ---
 
 Book Id: 37832067<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/01/07<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

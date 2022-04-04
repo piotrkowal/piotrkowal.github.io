@@ -2,6 +2,7 @@
 layout: book
 title: Utsubora - The story of novelist
 date_read: 2020/06/12
+tags: książki
 ---
 
 Book Id: 49820795<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

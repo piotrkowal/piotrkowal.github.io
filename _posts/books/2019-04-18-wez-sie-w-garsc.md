@@ -2,6 +2,7 @@
 layout: book
 title: Weź się w garść
 date_read: 2019/04/18
+tags: książki
 ---
 
 Book Id: 41725806<br />
@@ -21,4 +22,5 @@ Date Added: 2019/04/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

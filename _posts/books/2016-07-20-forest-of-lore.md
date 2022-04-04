@@ -2,6 +2,7 @@
 layout: book
 title: Forest of Lore
 date_read: 2016/07/20
+tags: książki
 ---
 
 Book Id: 31181140<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2009<br />
 Date Added: 2016/07/20<br />
 Exclusive Shelf: read<br />
 Owned Copies: 0<br />
+
 

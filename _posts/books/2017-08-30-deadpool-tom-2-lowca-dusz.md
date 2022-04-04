@@ -2,6 +2,7 @@
 layout: book
 title: Deadpool. Tom 2. Łowca dusz
 date_read: 2017/08/30
+tags: książki
 ---
 
 Book Id: 31078544<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

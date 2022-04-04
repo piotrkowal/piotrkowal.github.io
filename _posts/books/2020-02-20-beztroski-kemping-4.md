@@ -2,6 +2,7 @@
 layout: book
 title: Beztroski kemping  no. 4
 date_read: 2020/02/20
+tags: książki
 ---
 
 Book Id: 53129269<br />
@@ -23,4 +24,5 @@ Date Added: 2020/02/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

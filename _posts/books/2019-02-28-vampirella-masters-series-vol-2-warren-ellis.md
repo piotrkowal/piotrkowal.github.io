@@ -2,6 +2,7 @@
 layout: book
 title: Vampirella Masters Series, Vol. 2 - Warren Ellis
 date_read: 2019/02/28
+tags: książki
 ---
 
 Book Id: 9263855<br />
@@ -22,4 +23,5 @@ Date Added: 2019/02/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Do Adolfów  no. 1 (Do Adolfów,  no. 1-2.5)
 date_read: 2017/07/14
+tags: książki
 ---
 
 Book Id: 34680138<br />
@@ -23,4 +24,5 @@ Date Added: 2017/07/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

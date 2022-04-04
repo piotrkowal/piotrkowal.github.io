@@ -2,6 +2,7 @@
 layout: book
 title: The Highest House
 date_read: 2020/02/20
+tags: książki
 ---
 
 Book Id: 39021671<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review: Polecam przeczytać, ten język i atmosfera to jest coś nie do podrobienia.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

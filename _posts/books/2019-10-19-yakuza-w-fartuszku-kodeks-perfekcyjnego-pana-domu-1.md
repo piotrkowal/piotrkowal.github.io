@@ -2,6 +2,7 @@
 layout: book
 title: Yakuza w fartuszku. Kodeks perfekcyjnego pana domu  no. 1
 date_read: 2019/10/19
+tags: książki
 ---
 
 Book Id: 49084834<br />
@@ -19,4 +20,5 @@ Date Added: 2019/10/19<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

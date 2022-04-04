@@ -2,6 +2,7 @@
 layout: book
 title: Duchowe bliźnięta [Tamashii no Futago]
 date_read: 2017/09/14
+tags: książki
 ---
 
 Book Id: 36237571<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review:  Będąc szczerym, pierwszy raz przeczytałem mangę przeznaczoną dla młodych kobiet. Zawsze takie obyczajowe historie o związkach międzyludzkich wydawały mi się nudne i niewarte uwagi. Uczucie te wzmagała we mnie przede wszystkim ilość tytułów tego typu. Z Duchowymi bliźniętami jest trochę inaczej, i to trochę robi ogromną różnicę.<br/><br/>Link do całej recenzji:  http://bit.ly/2jtxRo2<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

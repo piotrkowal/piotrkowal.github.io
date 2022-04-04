@@ -2,6 +2,7 @@
 layout: book
 title: Bloodshot Reborn, Volume 1 - Colorado
 date_read: 2018/12/23
+tags: książki
 ---
 
 Book Id: 25746478<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

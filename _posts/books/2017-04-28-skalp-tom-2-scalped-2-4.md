@@ -2,6 +2,7 @@
 layout: book
 title: Skalp, Tom 2 (Scalped  no. 2-4)
 date_read: 2017/04/28
+tags: książki
 ---
 
 Book Id: 34219789<br />
@@ -23,4 +24,5 @@ Date Added: 2017/04/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

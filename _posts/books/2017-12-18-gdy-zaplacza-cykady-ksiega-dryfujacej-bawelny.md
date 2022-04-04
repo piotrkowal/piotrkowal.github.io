@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga dryfującej bawełny
 date_read: 2017/12/18
+tags: książki
 ---
 
 Book Id: 38092188<br />
@@ -23,4 +24,5 @@ Date Added: 2017/11/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

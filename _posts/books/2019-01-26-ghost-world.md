@@ -2,6 +2,7 @@
 layout: book
 title: Ghost World
 date_read: 2019/01/26
+tags: książki
 ---
 
 Book Id: 62953<br />
@@ -23,4 +24,5 @@ Exclusive Shelf: read<br />
 My Review: Daniel Clowes doesn't have weak stories as I see<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

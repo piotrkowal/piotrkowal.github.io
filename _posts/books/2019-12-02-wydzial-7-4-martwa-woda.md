@@ -2,6 +2,7 @@
 layout: book
 title: Wydział 7  no. 4 - Martwa woda
 date_read: 2019/12/02
+tags: książki
 ---
 
 Book Id: 48747944<br />
@@ -21,4 +22,5 @@ Date Added: 2019/12/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

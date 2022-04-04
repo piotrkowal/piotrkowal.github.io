@@ -2,6 +2,7 @@
 layout: book
 title: Przebudzenie
 date_read: 2016/10/16
+tags: książki
 ---
 
 Book Id: 42295931<br />
@@ -22,4 +23,5 @@ Date Added: 2016/10/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

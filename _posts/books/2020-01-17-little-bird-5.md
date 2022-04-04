@@ -2,6 +2,7 @@
 layout: book
 title: Little Bird  no. 5
 date_read: 2020/01/17
+tags: książki
 ---
 
 Book Id: 45836886<br />
@@ -21,4 +22,5 @@ Date Added: 2020/01/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

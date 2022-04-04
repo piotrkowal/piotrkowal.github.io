@@ -2,6 +2,7 @@
 layout: book
 title: Rodzeństwo Furo
 date_read: 2019/07/30
+tags: książki
 ---
 
 Book Id: 40692512<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

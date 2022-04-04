@@ -2,6 +2,7 @@
 layout: book
 title: Nienawidzę Baśniowa, Tom 2 - Fujowy żywot
 date_read: 2019/03/06
+tags: książki
 ---
 
 Book Id: 44308922<br />
@@ -23,4 +24,5 @@ Date Added: 2019/03/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

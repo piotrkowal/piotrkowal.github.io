@@ -2,6 +2,7 @@
 layout: book
 title: Jeż Jerzy. Nie dla dzieci
 date_read: 2016/07/28
+tags: książki
 ---
 
 Book Id: 12307509<br />
@@ -23,4 +24,5 @@ Date Added: 2016/07/27<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

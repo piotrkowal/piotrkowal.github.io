@@ -2,6 +2,7 @@
 layout: book
 title: Amerykańskie lato. Depesze z ulic Chicago
 date_read: 2021/02/23
+tags: książki
 ---
 
 Book Id: 56433645<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Dotkliwie ukazuje przemoc tkwiącą tam wszędzie, przenikającą wszystko i wszystkich z pokolenia na pokolenie<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

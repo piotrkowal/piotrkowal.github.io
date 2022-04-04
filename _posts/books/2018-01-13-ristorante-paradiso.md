@@ -2,6 +2,7 @@
 layout: book
 title: Ristorante Paradiso
 date_read: 2018/01/13
+tags: książki
 ---
 
 Book Id: 6759122<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2006<br />
 Date Added: 2018/01/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

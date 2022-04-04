@@ -2,6 +2,7 @@
 layout: book
 title: Miasteczko Salem
 date_read: 2021/04/26
+tags: książki
 ---
 
 Book Id: 7943333<br />
@@ -23,4 +24,5 @@ Date Added: 2021/04/04<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

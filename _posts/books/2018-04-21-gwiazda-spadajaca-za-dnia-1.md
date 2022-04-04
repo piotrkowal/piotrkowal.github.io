@@ -2,6 +2,7 @@
 layout: book
 title: Gwiazda spadająca za dnia 1
 date_read: 2018/04/21
+tags: książki
 ---
 
 Book Id: 34640272<br />
@@ -22,4 +23,5 @@ Date Read: 2018/04/21<br />
 Date Added: 2018/04/05<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Czy chcesz zostać starą panną?
 date_read: 2019/05/03
+tags: książki
 ---
 
 Book Id: 46039840<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2019/05/03<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

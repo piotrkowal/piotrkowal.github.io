@@ -2,6 +2,7 @@
 layout: book
 title: Nasze marzenia o zmierzchu  no. 2
 date_read: 2020/10/21
+tags: książki
 ---
 
 Book Id: 52870585<br />
@@ -23,4 +24,5 @@ Exclusive Shelf: read<br />
 My Review: Jest to po prostu piękna i mądra manga.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

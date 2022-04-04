@@ -2,6 +2,7 @@
 layout: book
 title: チェンソーマン 1 (Chainsaw Man,  no. 1)
 date_read: 2020/01/17
+tags: książki
 ---
 
 Book Id: 44445172<br />
@@ -22,4 +23,5 @@ Date Added: 2020/01/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

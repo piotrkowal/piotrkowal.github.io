@@ -2,6 +2,7 @@
 layout: book
 title: Magic Knight Rayearth, Tom 2 (Magic Knight Rayearth,  no. 2)
 date_read: 2019/06/04
+tags: książki
 ---
 
 Book Id: 51834241<br />
@@ -23,4 +24,5 @@ Date Added: 2019/06/02<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

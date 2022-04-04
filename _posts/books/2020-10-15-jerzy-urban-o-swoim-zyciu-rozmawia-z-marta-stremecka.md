@@ -2,6 +2,7 @@
 layout: book
 title: Jerzy Urban o swoim życiu rozmawia z Martą Stremecką
 date_read: 2020/10/15
+tags: książki
 ---
 
 Book Id: 17973499<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

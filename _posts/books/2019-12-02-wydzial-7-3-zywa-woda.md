@@ -2,6 +2,7 @@
 layout: book
 title: Wydział 7  no. 3 - Żywa woda
 date_read: 2019/12/02
+tags: książki
 ---
 
 Book Id: 48747916<br />
@@ -22,4 +23,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

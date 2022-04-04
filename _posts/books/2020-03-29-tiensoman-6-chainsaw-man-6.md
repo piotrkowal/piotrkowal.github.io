@@ -2,6 +2,7 @@
 layout: book
 title: チェンソーマン 6 (Chainsaw Man,  no. 6)
 date_read: 2020/03/29
+tags: książki
 ---
 
 Book Id: 49710028<br />
@@ -22,4 +23,5 @@ Date Added: 2020/01/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

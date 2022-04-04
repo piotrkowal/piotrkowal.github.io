@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga uświadomienia  no. 2
 date_read: 2018/12/23
+tags: książki
 ---
 
 Book Id: 39963102<br />
@@ -23,4 +24,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

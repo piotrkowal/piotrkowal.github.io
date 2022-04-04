@@ -2,6 +2,7 @@
 layout: book
 title: Beztroski kemping  no. 2
 date_read: 2020/01/12
+tags: książki
 ---
 
 Book Id: 45710665<br />
@@ -22,4 +23,5 @@ Date Added: 2020/01/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

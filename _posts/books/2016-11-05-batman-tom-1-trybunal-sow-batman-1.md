@@ -2,6 +2,7 @@
 layout: book
 title: Batman. Tom 1. Trybunał sów (Batman,  no. 1)
 date_read: 2016/11/05
+tags: książki
 ---
 
 Book Id: 17899127<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

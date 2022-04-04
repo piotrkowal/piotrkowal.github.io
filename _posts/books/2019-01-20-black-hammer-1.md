@@ -2,6 +2,7 @@
 layout: book
 title: Black Hammer  no. 1
 date_read: 2019/01/20
+tags: książki
 ---
 
 Book Id: 31182824<br />
@@ -22,4 +23,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Stuck Rubber Baby
 date_read: 2018/10/13
+tags: książki
 ---
 
 Book Id: 18404001<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/10/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

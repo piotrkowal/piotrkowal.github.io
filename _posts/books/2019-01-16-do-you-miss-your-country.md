@@ -2,6 +2,7 @@
 layout: book
 title: Do you miss your country?
 date_read: 2019/01/16
+tags: książki
 ---
 
 Book Id: 29093956<br />
@@ -22,4 +23,5 @@ Date Added: 2019/01/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

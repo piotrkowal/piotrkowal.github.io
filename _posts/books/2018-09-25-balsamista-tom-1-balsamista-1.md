@@ -2,6 +2,7 @@
 layout: book
 title: Balsamista, tom 1 (Balsamista,  no. 1)
 date_read: 2018/09/25
+tags: książki
 ---
 
 Book Id: 6444823<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2018/09/25<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

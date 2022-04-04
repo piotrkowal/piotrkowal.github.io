@@ -2,6 +2,7 @@
 layout: book
 title: Pandora Hearts, Volume 7
 date_read: 2019/02/10
+tags: książki
 ---
 
 Book Id: 6357881<br />
@@ -22,4 +23,5 @@ Date Read: 2019/02/10<br />
 Date Added: 2018/12/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

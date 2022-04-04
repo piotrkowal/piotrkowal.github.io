@@ -2,6 +2,7 @@
 layout: book
 title: Moon Knight  no. 1
 date_read: 2016/07/20
+tags: książki
 ---
 
 Book Id: 26039632<br />
@@ -20,4 +21,5 @@ Date Read: 2016/07/20<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

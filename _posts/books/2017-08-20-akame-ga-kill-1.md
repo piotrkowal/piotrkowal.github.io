@@ -3,6 +3,7 @@ layout: book
 title: Akame ga Kill 1
 date_read: 2017/08/20
 tags: książki manga
+tags: książki
 ---
 
 Book Id: 41588381<br />
@@ -25,4 +26,5 @@ Exclusive Shelf: read<br />
 My Review: Zazwyczaj unikałem shōnenów jak ognia, gdyż przeszkadzała mi ich powtarzalność lub infantylność. Akame Ga Kill to dowód na to, że pomimo skierowania swojej mangi do młodych chłopców można stworzyć ciekawą historię, nawet dla tych nieco starszych czytelników!<br/><br/>Protagonista tej mangi, Tatsumi, razem ze swoimi towarzyszami wyrusza do stolicy Imperium, aby uratować mieszkańców swojej wioski z szponów nędzy. Sielanka głównego bohatera zostaje przerwana wraz z atakiem grupy assasynów Night Raid. Każda postać z ekipy wspomnianej wcześniej grupy jest oryginalnym indywiduum (szczególnie spodobała mi się ta, która władała ogromnymi nożyczkami jako bronią), który posiada swoją często mroczną i traumatyczną przeszłość, przez co łatwiej było mi się zżyć z postaciami, bo gdy pierwszy raz je widziałem, wyglądały jak kolejny nudny mieszany zespół.<br/><br/>Link do całej recenzji: http://www.geekkochanajmocniej.pl/2017/08/shonen-warty-przeczytania-recenzja.html<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

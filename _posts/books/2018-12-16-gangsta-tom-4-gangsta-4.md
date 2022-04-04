@@ -2,6 +2,7 @@
 layout: book
 title: Gangsta. Tom 4 (Gangsta.,  no. 4)
 date_read: 2018/12/16
+tags: książki
 ---
 
 Book Id: 36673278<br />
@@ -22,4 +23,5 @@ Date Added: 2018/10/14<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

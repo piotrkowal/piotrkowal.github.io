@@ -2,6 +2,7 @@
 layout: book
 title: Prison Pit, Vol. 1
 date_read: 2019/10/13
+tags: książki
 ---
 
 Book Id: 6621334<br />
@@ -22,4 +23,5 @@ Exclusive Shelf: read<br />
 My Review: Co za chory szajs. Uwielbiam, choć nie polecam czytać tuż przed lub po posiłku<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

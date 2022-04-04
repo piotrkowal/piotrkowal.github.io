@@ -2,6 +2,7 @@
 layout: book
 title: Siedmiu książąt i tysiącletni labirynt 3
 date_read: 2019/07/24
+tags: książki
 ---
 
 Book Id: 45317644<br />
@@ -22,4 +23,5 @@ Date Added: 2019/07/24<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

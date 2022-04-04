@@ -2,6 +2,7 @@
 layout: book
 title: Deadman Wonderland. Tom 11 (Deadman Wonderland,  no. 11)
 date_read: 2018/04/24
+tags: książki
 ---
 
 Book Id: 29415934<br />
@@ -23,4 +24,5 @@ Date Added: 2018/04/05<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

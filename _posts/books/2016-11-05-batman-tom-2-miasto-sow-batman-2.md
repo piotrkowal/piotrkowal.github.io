@@ -2,6 +2,7 @@
 layout: book
 title: Batman. Tom 2. Miasto sów (Batman,  no. 2)
 date_read: 2016/11/05
+tags: książki
 ---
 
 Book Id: 18682896<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

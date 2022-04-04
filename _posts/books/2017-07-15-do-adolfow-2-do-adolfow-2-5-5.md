@@ -2,6 +2,7 @@
 layout: book
 title: Do Adolfów  no. 2 (Do Adolfów,  no. 2.5-5)
 date_read: 2017/07/15
+tags: książki
 ---
 
 Book Id: 34909793<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

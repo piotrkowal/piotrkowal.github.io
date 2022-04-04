@@ -2,6 +2,7 @@
 layout: book
 title: Inspektor Akane Tsunemori 2
 date_read: 2018/01/06
+tags: książki
 ---
 
 Book Id: 36339793<br />
@@ -23,4 +24,5 @@ Date Added: 2017/12/26<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
+
 

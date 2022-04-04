@@ -2,6 +2,7 @@
 layout: book
 title: Are You Alice?  no. 8
 date_read: 2018/08/31
+tags: książki
 ---
 
 Book Id: 42296190<br />
@@ -21,4 +22,5 @@ Date Read: 2018/08/31<br />
 Date Added: 2018/07/25<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

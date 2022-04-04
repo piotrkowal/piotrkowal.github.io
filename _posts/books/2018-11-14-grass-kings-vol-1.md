@@ -2,6 +2,7 @@
 layout: book
 title: Grass Kings, Vol. 1
 date_read: 2018/11/14
+tags: książki
 ---
 
 Book Id: 35606635<br />
@@ -22,4 +23,5 @@ Date Added: 2018/11/13<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

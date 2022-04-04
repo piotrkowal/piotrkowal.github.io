@@ -2,6 +2,7 @@
 layout: book
 title: GTO - Great Teacher Onizuka, Vol. 1
 date_read: 2019/08/21
+tags: książki
 ---
 
 Book Id: 570393<br />
@@ -23,4 +24,5 @@ Date Added: 2019/08/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

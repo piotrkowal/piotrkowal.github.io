@@ -2,6 +2,7 @@
 layout: book
 title: JoJo's Bizarre Adventure - Part 1 - Phantom Blood. Tom 1
 date_read: 2020/11/07
+tags: książki
 ---
 
 Book Id: 54995948<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review: Ależ to drewniane<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Vampirella Masters Series, Vol. 1 - Grant Morrison & Mark Millar
 date_read: 2019/02/28
+tags: książki
 ---
 
 Book Id: 8709859<br />
@@ -22,4 +23,5 @@ Date Added: 2019/02/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

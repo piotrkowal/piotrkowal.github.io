@@ -2,6 +2,7 @@
 layout: book
 title: GANGSTA. 8 (Gangsta.,  no. 8)
 date_read: 2019/01/13
+tags: książki
 ---
 
 Book Id: 38717017<br />
@@ -22,4 +23,5 @@ Date Added: 2018/11/16<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

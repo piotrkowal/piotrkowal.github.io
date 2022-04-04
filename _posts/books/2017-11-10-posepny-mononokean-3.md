@@ -2,6 +2,7 @@
 layout: book
 title: Posępny Mononokean 3
 date_read: 2017/11/10
+tags: książki
 ---
 
 Book Id: 41966783<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2015<br />
 Date Read: 2017/11/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

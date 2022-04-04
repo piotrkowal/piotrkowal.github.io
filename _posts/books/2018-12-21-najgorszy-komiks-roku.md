@@ -2,6 +2,7 @@
 layout: book
 title: Najgorszy komiks roku
 date_read: 2018/12/21
+tags: książki
 ---
 
 Book Id: 34531350<br />
@@ -21,4 +22,5 @@ Date Added: 2018/12/21<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

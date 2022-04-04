@@ -2,6 +2,7 @@
 layout: book
 title: Akame ga KILL!  no. 4
 date_read: 2018/03/04
+tags: książki
 ---
 
 Book Id: 42295818<br />
@@ -22,4 +23,5 @@ Date Read: 2018/03/04<br />
 Date Added: 2018/02/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

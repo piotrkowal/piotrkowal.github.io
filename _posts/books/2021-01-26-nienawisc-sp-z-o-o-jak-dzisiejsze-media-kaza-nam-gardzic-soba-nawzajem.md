@@ -2,6 +2,7 @@
 layout: book
 title: Nienawiść sp. z o.o. Jak dzisiejsze media każą nam gardzić sobą nawzajem
 date_read: 2021/01/26
+tags: książki
 ---
 
 Book Id: 54858539<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

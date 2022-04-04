@@ -2,6 +2,7 @@
 layout: book
 title: Odwiedziny
 date_read: 2018/12/20
+tags: książki
 ---
 
 Book Id: 34531367<br />
@@ -22,4 +23,5 @@ Date Added: 2018/12/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

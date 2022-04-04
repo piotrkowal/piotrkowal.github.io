@@ -2,6 +2,7 @@
 layout: book
 title: Będziesz smażyć się w piekle
 date_read: 2017/11/28
+tags: książki
 ---
 
 Book Id: 32945738<br />
@@ -20,4 +21,5 @@ Year Published: 2016<br />
 Date Read: 2017/11/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

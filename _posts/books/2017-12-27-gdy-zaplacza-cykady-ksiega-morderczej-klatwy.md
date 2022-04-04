@@ -2,6 +2,7 @@
 layout: book
 title: Gdy zapłaczą cykady - Księga morderczej klątwy
 date_read: 2017/12/27
+tags: książki
 ---
 
 Book Id: 38371173<br />
@@ -22,4 +23,5 @@ Date Read: 2017/12/27<br />
 Date Added: 2017/11/28<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

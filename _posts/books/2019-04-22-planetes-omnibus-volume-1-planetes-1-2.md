@@ -2,6 +2,7 @@
 layout: book
 title: Planetes Omnibus, Volume 1 (Planetes,  no. 1-2)
 date_read: 2019/04/22
+tags: książki
 ---
 
 Book Id: 25241923<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

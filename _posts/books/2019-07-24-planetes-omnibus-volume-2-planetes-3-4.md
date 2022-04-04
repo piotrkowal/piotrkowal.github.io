@@ -2,6 +2,7 @@
 layout: book
 title: Planetes Omnibus, Volume 2 (Planetes,  no. 3-4)
 date_read: 2019/07/24
+tags: książki
 ---
 
 Book Id: 26067689<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

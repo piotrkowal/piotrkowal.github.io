@@ -2,6 +2,7 @@
 layout: book
 title: Fruits Basket Collector's Edition, Vol. 3
 date_read: 2020/07/08
+tags: książki
 ---
 
 Book Id: 28219404<br />
@@ -22,4 +23,5 @@ Date Added: 2020/04/08<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

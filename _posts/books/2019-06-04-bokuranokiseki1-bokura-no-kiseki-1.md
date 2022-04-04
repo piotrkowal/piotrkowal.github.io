@@ -2,6 +2,7 @@
 layout: book
 title: ボクラノキセキ1 [Bokura no Kiseki 1]
 date_read: 2019/06/04
+tags: książki
 ---
 
 Book Id: 17156569<br />
@@ -22,4 +23,5 @@ Date Added: 2019/06/02<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

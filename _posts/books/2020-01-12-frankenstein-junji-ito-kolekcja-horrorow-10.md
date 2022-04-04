@@ -2,6 +2,7 @@
 layout: book
 title: Frankenstein  (Junji Ito - Kolekcja horrorów,  no. 10)
 date_read: 2020/01/12
+tags: książki
 ---
 
 Book Id: 52565859<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review: Pierwsze one-shoty fajne, Frankenstein mnie wymęczył odrobinę (pomijając fajne zakończenie), a ostatnie krótkie historyjki mnie zachwyciły.<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

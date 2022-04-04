@@ -2,6 +2,7 @@
 layout: book
 title: Kwaśne jabłko
 date_read: 2018/10/10
+tags: książki
 ---
 
 Book Id: 36278532<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2018/10/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

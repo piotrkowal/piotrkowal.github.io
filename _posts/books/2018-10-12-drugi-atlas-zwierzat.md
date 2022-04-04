@@ -2,6 +2,7 @@
 layout: book
 title: Drugi Atlas zwierząt
 date_read: 2018/10/12
+tags: książki
 ---
 
 Book Id: 30131256<br />
@@ -21,4 +22,5 @@ Date Read: <br />
 Date Added: 2018/10/12<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Powieści graficzne. Leksykon
 date_read: 2018/11/29
+tags: książki
 ---
 
 Book Id: 32954877<br />
@@ -23,4 +24,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

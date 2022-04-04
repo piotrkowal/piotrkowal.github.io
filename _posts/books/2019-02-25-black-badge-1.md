@@ -2,6 +2,7 @@
 layout: book
 title: Black Badge  no. 1
 date_read: 2019/02/25
+tags: książki
 ---
 
 Book Id: 41070691<br />
@@ -22,4 +23,5 @@ Date Added: 2019/02/11<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

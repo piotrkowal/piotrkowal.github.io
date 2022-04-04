@@ -2,6 +2,7 @@
 layout: book
 title: Green Lantern - Tajna geneza (Wielka Kolekcja Komiksów DC Comics,  no. 23)
 date_read: 2017/07/10
+tags: książki
 ---
 
 Book Id: 35557815<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/07/10<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

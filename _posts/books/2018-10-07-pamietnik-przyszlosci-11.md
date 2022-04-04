@@ -2,6 +2,7 @@
 layout: book
 title: Pamiętnik Przyszłości  no. 11
 date_read: 2018/10/07
+tags: książki
 ---
 
 Book Id: 42200868<br />
@@ -21,4 +22,5 @@ Date Added: 2018/10/07<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Ikigami - The Ultimate Limit, Volume 2 (Ikigami,  no. 2)
 date_read: 2020/07/26
+tags: książki
 ---
 
 Book Id: 6314849<br />
@@ -23,4 +24,5 @@ Date Added: 2019/10/18<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

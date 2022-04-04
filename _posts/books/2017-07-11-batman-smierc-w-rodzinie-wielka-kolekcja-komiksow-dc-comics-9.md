@@ -2,6 +2,7 @@
 layout: book
 title: Batman - Śmierć w rodzinie (Wielka Kolekcja Komiksów DC Comics,  no. 9)
 date_read: 2017/07/11
+tags: książki
 ---
 
 Book Id: 33665436<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2017/07/11<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Rozmowy z katem
 date_read: 2016/08/03
+tags: książki
 ---
 
 Book Id: 974502<br />
@@ -22,4 +23,5 @@ Date Added: 2016/07/20<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

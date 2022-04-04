@@ -2,6 +2,7 @@
 layout: book
 title: 僕のヒーローアカデミア 7 [Boku No Hero Academia 7] (My Hero Academia,  no. 7)
 date_read: 2018/11/18
+tags: książki
 ---
 
 Book Id: 27997705<br />
@@ -22,4 +23,5 @@ Date Added: 2018/11/16<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Batman, Volume 5 - Zero Year - Dark City
 date_read: 2016/11/13
+tags: książki
 ---
 
 Book Id: 21524934<br />
@@ -22,4 +23,5 @@ Date Added: 2016/11/13<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

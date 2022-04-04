@@ -2,6 +2,7 @@
 layout: book
 title: Śmiech i śmierć
 date_read: 2020/03/03
+tags: książki
 ---
 
 Book Id: 48838474<br />
@@ -24,4 +25,5 @@ Exclusive Shelf: read<br />
 My Review: Jaki to jest sztos to brak mi słów<br />
 Read Count: 2<br />
 Owned Copies: 0<br />
+
 

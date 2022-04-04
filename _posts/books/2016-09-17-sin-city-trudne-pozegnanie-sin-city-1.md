@@ -2,6 +2,7 @@
 layout: book
 title: Sin City - Trudne pożegnanie (Sin City,  no. 1)
 date_read: 2016/09/17
+tags: książki
 ---
 
 Book Id: 33020584<br />
@@ -22,4 +23,5 @@ Date Read: <br />
 Date Added: 2016/09/17<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

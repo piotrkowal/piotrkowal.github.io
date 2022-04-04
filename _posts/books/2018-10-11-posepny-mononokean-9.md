@@ -2,6 +2,7 @@
 layout: book
 title: Posępny Mononokean  no. 9
 date_read: 2018/10/11
+tags: książki
 ---
 
 Book Id: 42200797<br />
@@ -22,4 +23,5 @@ Date Added: 2018/07/22<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Deadman Wonderland. Tom 7 (Deadman Wonderland,  no. 7)
 date_read: 2018/04/24
+tags: książki
 ---
 
 Book Id: 25823986<br />
@@ -22,4 +23,5 @@ Date Read: 2018/04/24<br />
 Date Added: 2018/04/05<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

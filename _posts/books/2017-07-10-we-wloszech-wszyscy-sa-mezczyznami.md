@@ -2,6 +2,7 @@
 layout: book
 title: We Włoszech wszyscy są mężczyznami
 date_read: 2017/07/10
+tags: książki
 ---
 
 Book Id: 18403997<br />
@@ -22,4 +23,5 @@ Date Read: 2017/07/10<br />
 Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

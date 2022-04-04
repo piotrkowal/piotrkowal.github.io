@@ -2,6 +2,7 @@
 layout: book
 title: My Hero Academia  no. 2
 date_read: 2018/04/06
+tags: książki
 ---
 
 Book Id: 42296422<br />
@@ -19,4 +20,5 @@ Original Publication Year: 2014<br />
 Date Read: 2018/04/06<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 

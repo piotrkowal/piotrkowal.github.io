@@ -2,6 +2,7 @@
 layout: book
 title: Magi - The Labyrinth of Magic, tom 7
 date_read: 2019/06/24
+tags: książki
 ---
 
 Book Id: 41355831<br />
@@ -24,4 +25,5 @@ Bookshelves: <br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
 Owned Copies: 0<br />
+
 

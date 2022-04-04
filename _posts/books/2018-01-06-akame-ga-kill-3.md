@@ -2,6 +2,7 @@
 layout: book
 title: Akame ga KILL!  no. 3
 date_read: 2018/01/06
+tags: książki
 ---
 
 Book Id: 42295797<br />
@@ -21,4 +22,5 @@ Original Publication Year: 2011<br />
 Date Read: 2018/01/06<br />
 Exclusive Shelf: read<br />
 Read Count: 2<br />
+
 

@@ -2,6 +2,7 @@
 layout: book
 title: Kurczak ze śliwkami
 date_read: 2017/07/20
+tags: książki
 ---
 
 Book Id: 7987021<br />
@@ -22,4 +23,5 @@ Date Read: 2017/07/20<br />
 Date Added: 2017/07/09<br />
 Exclusive Shelf: read<br />
 Read Count: 1<br />
+
 
