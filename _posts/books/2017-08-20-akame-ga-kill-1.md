@@ -2,6 +2,7 @@
 layout: book
 title: Akame ga Kill 1
 date_read: 2017/08/20
+tags: książki manga
 ---
 
 Book Id: 41588381<br />

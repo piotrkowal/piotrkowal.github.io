@@ -1,2 +1,28 @@
-.jekyll-cache/*
-./_site/*
+ 1 # Jekyll
+    2 _site/
+    3 *-cache/
+    4 .jekyll-metadata
+    5 
+    6 # Ruby
+    7 .bundle/
+    8 .byebug_history
+    9 .ruby-gemset
+   10 .ruby-version
+   11 *.gem
+   12 Gemfile.lock
+   13 
+   14 # Files
+   15 .analysis
+   16 .DS_Store
+   17 *.swp
+   18 *~
+   19 
+   20 # Folders
+   21 /vendor
+   22 bbin/
+   23 bin/
+   24 coverage
+   25 gh-pages/
+   26 pkg/
+   27 test/dest
+   28 tmp/*

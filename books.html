@@ -3,6 +3,24 @@ layout: default
 title: Books
 ---
 <h1>Books read</h1>
+
+<ul>
+    {% assign sorted = site.posts | sort: 'date' | reverse  %}
+    {% for book in sorted %}
+    {% if book.tags contains "książki" %}
+    {% assign currentdate = book.date_read | date: "%Y/%m" %}
+    {% if currentdate != date_read %}
+        <h1><li id="y{{currentdate}}">{{ currentdate }}</li></h1>
+        {% assign date_read = currentdate %} 
+    {% endif %}
+    <li>
+        <a href="{{book.url}}">{{book.title}}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
 <ul>
     {% assign sorted = site.books | sort: 'date_read' | reverse  %}
     {% for book in sorted %}
