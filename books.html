@@ -14,7 +14,7 @@ title: Books
         {% assign date_read = currentdate %} 
     {% endif %}
     <li>
-        <a href="{{book.url}}">{{book.title}}</a>
+        <a href="{{book.url}}">{{book.title}}</a> {{book.author}}
     </li>
     {% endif %}
     {% endfor %}
