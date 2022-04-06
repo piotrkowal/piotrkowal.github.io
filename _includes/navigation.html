@@ -1,6 +1,9 @@
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %}>
-      {{ item.name }}
-    </a>
-  {% endfor %}
+{% for item in site.data.navigation %}
+<a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %}>
+  {{ item.name }}
+</a>
+{% endfor %}
 
+{% if page.url == '/books.html' %}
+
+{% endif %}
